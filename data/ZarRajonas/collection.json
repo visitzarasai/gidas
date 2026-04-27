@@ -3,34 +3,34 @@
   "id": "zarasai",
   "meta": {
     "lt": {
-      "name": "Zarasų raj. įdomybės!",
+      "name": "Zarasu apskrities vietovių įdomybes",
       "description": "Vienas vaizdingiausių Lietuvos kraštų, garsėjantis ežerų gausa ir švaria gamta.",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Improved_flag_of_Zarasai.png"
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/94/Zarasai.jpg"
     },
     "lv": {
-      "name": "Zarasu novada karte",
+      "name": "Interesantas vietas Zarasu novadā",
       "description": "Viens no gleznainākajiem Lietuvas reģioniem, kas pazīstams ar ezeru bagātību un tīru dabu.",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Improved_flag_of_Zarasai.png"
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/94/Zarasai.jpg"
     },
     "en": {
-      "name": "Zarasai District Map",
+      "name": "Interesting places in Zarasai county",
       "description": "One of the most picturesque regions of Lithuania, known for its abundance of lakes and clean nature.",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Improved_flag_of_Zarasai.png"
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/94/Zarasai.jpg"
     },
     "de": {
-      "name": "Karte des Bezirks Zarasai",
+      "name": "Interessante Orte im Kreis Zarasai",
       "description": "Eine der malerischsten Regionen Litauens, bekannt für ihre zahlreichen Seen und die saubere Natur.",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Improved_flag_of_Zarasai.png"
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/94/Zarasai.jpg"
     },
     "pl": {
-      "name": "Mapa rejonu zaraskiego",
+      "name": "Ciekawe miejsca w powiecie Zarasa",
       "description": "Jeden z najbardziej malowniczych regionów Litwy, słynący z licznych jezior i czystej przyrody.",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Improved_flag_of_Zarasai.png"
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/94/Zarasai.jpg"
     },
     "ru": {
-      "name": "Карта Зарасайского района",
+      "name": "Интересные места Зарасайского района",
       "description": "Один из самых живописных регионов Литвы, известный большим количеством озёр и чистой природой.",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Improved_flag_of_Zarasai.png"
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/94/Zarasai.jpg"
     }
   },
   "places": [
