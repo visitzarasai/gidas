@@ -1,0 +1,209 @@
+<!doctype html>
+<html lang="lt">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+<title>Zarasų krašto gidas</title>
+<link rel="stylesheet" href="style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<!-- Loading state -->
+<div id="loading" class="fullscreen is-loading">
+  <div class="spinner"></div>
+  <p data-t="loading">Kraunama...</p>
+</div>
+
+<!-- Error state -->
+<div id="error" class="fullscreen is-error hidden">
+  <div class="icon">
+    <svg width="46" height="46" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <path d="M10.29 3.86 1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"></path>
+      <line x1="12" y1="9" x2="12" y2="13"></line>
+      <line x1="12" y1="17" x2="12.01" y2="17"></line>
+    </svg>
+  </div>
+  <h2 data-t="error">Nepavyko įkelti duomenų</h2>
+</div>
+
+<!-- App shell -->
+<div id="app" class="landing-shell hidden">
+  <header class="app-header">
+    <div class="brand">
+      <div>
+        <h1>Zarasų krašto gidas</h1>
+        <div class="subtitle" data-t="subtitle">Lankytinos vietos</div>
+      </div>
+    </div>
+    <div class="actions">
+      <div class="lang-switcher">
+        <button id="lang-btn" class="lang-btn" onclick="toggleLangDropdown()" aria-haspopup="listbox">
+          <span id="lang-label">Lietuvių</span>
+          <span class="arrow">▼</span>
+        </button>
+        <div id="lang-dropdown" class="lang-dropdown" role="listbox"></div>
+      </div>
+    </div>
+  </header>
+
+  <main class="landing-main">
+    <div class="landing-intro">
+      <h1 data-t="introTitle">Atraskite kraštą</h1>
+      <p data-t="introDesc">Pasirinkite kelionės kolekciją, kad pamatytumėte žemėlapį.</p>
+    </div>
+    <div id="cards-grid" class="cards-grid"></div>
+  </main>
+</div>
+
+<script src="app-core.js"></script>
+<script>
+'use strict';
+
+let activeLang  = 'lt';
+let collections = [];   // [{id, folder, meta:{lt:{name,description,thumbnail}, en:..., ...}}]
+
+// ── BOOT ─────────────────────────────────────────────────────
+document.addEventListener('DOMContentLoaded', async () => {
+  // Restore previously chosen language (if any) before building UI
+  const saved = loadSavedLang();
+  if (saved) activeLang = saved;
+  setLangLabel(activeLang);
+
+  buildLangDropdown(activeLang, selectLang);
+  applyTranslations();      // first-paint translation pass before data loads
+  document.addEventListener('click', e => {
+    if (!e.target.closest('.lang-switcher')) closeLangDropdown();
+  });
+  await loadCollections();
+});
+
+// ── DATA ─────────────────────────────────────────────────────
+async function loadCollections() {
+  try {
+    const resp = await fetch('data/collections.json?t=' + Date.now());
+    if (!resp.ok) throw new Error('collections.json missing');
+    const defs = await resp.json();
+    if (!Array.isArray(defs) || !defs.length) throw new Error('collections.json empty');
+
+    const results = await Promise.allSettled(defs.map(loadCollectionMeta));
+    collections = results
+      .filter(r => r.status === 'fulfilled' && r.value)
+      .map(r => r.value);
+
+    if (!collections.length) throw new Error('no usable collections');
+
+    showApp();
+    renderCards();
+  } catch (e) {
+    console.error('Load failed:', e);
+    showError();
+  }
+}
+
+async function loadCollectionMeta(def) {
+  const folder = (def.folder || def.id || '').replace(/\/?$/, '/');
+  const meta = {};
+
+  try {
+    const r = await fetch(folder + 'collection.json?t=' + Date.now());
+    if (r.ok) {
+      const data = await r.json();
+      if (data && data.meta && typeof data.meta === 'object') {
+        for (const lang of Object.keys(data.meta)) {
+          const m = data.meta[lang] || {};
+          meta[lang] = {
+            name:        m.name        || '',
+            description: m.description || '',
+            thumbnail:   m.thumbnail   || '',
+          };
+        }
+      }
+    }
+  } catch (e) { /* fall through to placeholder below */ }
+
+  // Always provide an LT entry so renderCards has something to show even
+  // when fetch fails or the file is missing the lt key.
+  if (!meta.lt) meta.lt = { name: def.id || '', description: '', thumbnail: '' };
+
+  return { id: def.id || def.folder, folder: def.folder, meta };
+}
+
+// ── META ACCESS WITH FALLBACK ────────────────────────────────
+function metaFor(col, lang) {
+  const m = col.meta || {};
+  const order = [lang, 'lt', ...ALL_LANGS].filter((l, i, a) => a.indexOf(l) === i);
+  const out = { name: '', description: '', thumbnail: '' };
+  for (const f of ['name', 'description', 'thumbnail']) {
+    for (const l of order) {
+      if (m[l] && m[l][f]) { out[f] = m[l][f]; break; }
+    }
+  }
+  return out;
+}
+
+// ── RENDER ───────────────────────────────────────────────────
+function renderCards() {
+  const grid = document.getElementById('cards-grid');
+  grid.innerHTML = '';
+  collections.forEach((col, i) => {
+    const m = metaFor(col, activeLang);
+    const card = document.createElement('div');
+    card.className = 'col-card';
+    card.onclick = () => openMap(i);
+    card.innerHTML = `
+      <div class="card-img-wrap">
+        ${m.thumbnail
+          ? `<img class="card-img" src="${esc(m.thumbnail)}" alt="" loading="lazy"
+               onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">`
+          : ''}
+        <div class="card-img-placeholder" style="${m.thumbnail ? 'display:none' : ''}">
+          <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <polygon points="1 6 1 22 8 18 16 22 23 18 23 2 16 6 8 2 1 6"></polygon>
+            <line x1="8" y1="2" x2="8" y2="18"></line>
+            <line x1="16" y1="6" x2="16" y2="22"></line>
+          </svg>
+        </div>
+      </div>
+      <div class="card-body">
+        <div class="card-name">${esc(m.name)}</div>
+        <div class="card-desc">${esc(m.description)}</div>
+        <div class="card-cta">${esc(t('cardCta'))}</div>
+      </div>`;
+    grid.appendChild(card);
+  });
+
+  // Refresh all data-t marked elements (intro title/desc, etc.)
+  applyTranslations();
+}
+
+function openMap(idx) {
+  const col = collections[idx];
+  if (!col) return;
+  const params = new URLSearchParams({
+    collection: col.id,
+    folder:     col.folder || col.id,
+    lang:       activeLang,
+  });
+  window.location.href = 'map.html?' + params.toString();
+}
+
+// ── LANGUAGE ─────────────────────────────────────────────────
+// The shared helpers in app-core.js handle building the dropdown,
+// updating the label, and saving to session. The page-specific bit is
+// just "after switching, re-render the cards".
+function selectLang(lang) {
+  activeLang = lang;
+  setLangLabel(lang);
+  syncLangDropdownActive(lang);
+  closeLangDropdown();
+  saveLang(lang);
+  applyTranslations();
+  if (collections.length) renderCards();
+}
+</script>
+
+</body>
+</html>

@@ -1,0 +1,798 @@
+/* ════════════════════════════════════════════════════════════════
+   Zarasų krašto gidas — shared design system
+   Used by index.html (landing) and map.html (viewer)
+   ════════════════════════════════════════════════════════════════ */
+
+/* ── DESIGN TOKENS ───────────────────────────────────────────── */
+:root {
+  /* Brand */
+  --primary:        #2E7CC4;   /* lighter, friendlier blue */
+  --primary-dark:   #1F5A95;
+
+  --accent:         #D4A435;   /* warm gold for CTAs / highlights */
+  --accent-dark:    #B5891E;
+
+  /* Neutrals */
+  --bg-soft:        #F7FAFC;
+  --bg-muted:       #EEF3F8;
+  --surface:        #FFFFFF;
+
+  /* Text */
+  --text:           #14202E;
+  --text-2:         #4A5A6E;
+  --text-3:         #8FA0B5;
+  --text-on-dark:   #FFFFFF;
+
+  /* Lines */
+  --border:         #DCE5EE;
+  --border-strong:  #C2D0E0;
+
+  /* Type */
+  --font-sans:      'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --font-display:   'Playfair Display', 'Georgia', serif;
+
+  /* Radius / shadow */
+  --radius-sm:      4px;
+  --radius:         8px;
+  --radius-lg:      14px;
+  --shadow-sm:      0 1px 2px rgba(20, 32, 46, 0.06);
+  --shadow:         0 4px 12px rgba(20, 32, 46, 0.08);
+  --shadow-lg:      0 12px 32px rgba(20, 32, 46, 0.14);
+
+  /* Layout */
+  --header-h:       58px;
+
+  /* Motion */
+  --ease:           cubic-bezier(.4, 0, .2, 1);
+  --dur:            220ms;
+}
+
+/* ── RESET ───────────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; height: 100%; }
+body {
+  font-family: var(--font-sans);
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--text);
+  background: var(--bg-soft);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow: hidden;  /* full-app layouts manage their own scroll */
+}
+button { font: inherit; cursor: pointer; border: none; background: none; color: inherit; }
+input, select, textarea { font: inherit; color: inherit; }
+a { color: var(--primary); text-decoration: none; }
+a:hover { text-decoration: underline; }
+img { max-width: 100%; display: block; }
+h1, h2, h3, h4, h5, h6, p { margin: 0; }
+
+/* ── HEADER (shared between pages) ───────────────────────────── */
+.app-header {
+  height: var(--header-h);
+  background: var(--primary);
+  color: var(--text-on-dark);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 18px;
+  box-shadow: var(--shadow-sm);
+  flex-shrink: 0;
+  position: relative;
+  z-index: 1000;
+}
+.app-header .brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  min-width: 0;
+}
+.app-header .back-link {
+  color: rgba(255,255,255,0.7);
+  font-size: 0.78rem;
+  font-weight: 500;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 6px 8px;
+  border-radius: var(--radius-sm);
+  transition: background var(--dur) var(--ease), color var(--dur) var(--ease);
+  text-decoration: none;
+}
+.app-header .back-link:hover {
+  color: #fff;
+  background: rgba(255,255,255,0.12);
+  text-decoration: none;
+}
+.app-header h1 {
+  font-family: var(--font-display);
+  font-size: 1.05rem;
+  font-weight: 700;
+  letter-spacing: -0.2px;
+  line-height: 1.1;
+}
+.app-header .subtitle {
+  font-size: 0.6rem;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  color: rgba(255,255,255,0.55);
+  margin-top: 2px;
+}
+.app-header .actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+/* ── LANGUAGE SWITCHER ───────────────────────────────────────── */
+.lang-switcher {
+  position: relative;
+  user-select: none;
+}
+.lang-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(255,255,255,0.14);
+  border: 1px solid rgba(255,255,255,0.22);
+  color: #fff;
+  padding: 5px 10px;
+  border-radius: var(--radius-sm);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.4px;
+  text-transform: uppercase;
+  transition: background var(--dur) var(--ease);
+}
+.lang-btn:hover { background: rgba(255,255,255,0.22); }
+.lang-btn .arrow {
+  font-size: 0.6rem;
+  transition: transform var(--dur) var(--ease);
+}
+.lang-btn.open .arrow { transform: rotate(180deg); }
+.lang-dropdown {
+  position: absolute;
+  top: calc(100% + 6px);
+  right: 0;
+  background: #fff;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-lg);
+  min-width: 130px;
+  padding: 4px;
+  display: none;
+  z-index: 1100;
+}
+.lang-dropdown.open { display: block; }
+.lang-option {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 9px 12px;
+  border-radius: var(--radius-sm);
+  font-size: 0.82rem;
+  color: var(--text-2);
+  cursor: pointer;
+  transition: background var(--dur) var(--ease), color var(--dur) var(--ease);
+}
+.lang-option:hover { background: var(--bg-muted); color: var(--text); }
+.lang-option.active { color: var(--primary-dark); font-weight: 600; }
+.lang-option .dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: transparent;
+  border: 1.5px solid var(--border-strong);
+  flex-shrink: 0;
+}
+.lang-option.active .dot { background: var(--accent); border-color: var(--accent); }
+
+/* ── ERROR / LOADING SCREENS ─────────────────────────────────── */
+.fullscreen {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 24px;
+  z-index: 9999;
+}
+.fullscreen.is-loading { background: var(--bg-soft); }
+.fullscreen.is-error   { background: var(--primary); color: var(--text-on-dark); }
+.fullscreen .icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 16px;
+  opacity: 0.9;
+}
+.fullscreen .icon svg { display: block; }
+.fullscreen h2 {
+  font-family: var(--font-display);
+  font-size: 1.35rem;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+.fullscreen p {
+  font-size: 0.92rem;
+  opacity: 0.85;
+  max-width: 380px;
+}
+.spinner {
+  width: 32px;
+  height: 32px;
+  border: 3px solid var(--border);
+  border-top-color: var(--primary);
+  border-radius: 50%;
+  margin-bottom: 16px;
+  animation: spin 0.8s linear infinite;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+.hidden { display: none !important; }
+
+/* ── LANDING (index.html): CAROUSEL ──────────────────────────── */
+.landing-shell {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background:
+    radial-gradient(circle at 20% 0%, rgba(46, 124, 196, 0.06), transparent 60%),
+    radial-gradient(circle at 100% 100%, rgba(212, 164, 53, 0.05), transparent 60%),
+    var(--bg-soft);
+}
+.landing-main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 24px 16px;
+  min-height: 0;
+  overflow: hidden;
+}
+.landing-intro {
+  text-align: center;
+  margin-bottom: 30px;
+  max-width: 540px;
+}
+.landing-intro h1 {
+  font-family: var(--font-display);
+  font-size: clamp(1.8rem, 4vw, 2.6rem);
+  font-weight: 700;
+  color: var(--text);
+  letter-spacing: -0.6px;
+  margin-bottom: 8px;
+}
+.landing-intro p {
+  font-size: 0.95rem;
+  color: var(--text-2);
+}
+
+/* Card grid (responsive) */
+.cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 22px;
+  width: 100%;
+  max-width: 980px;
+  padding: 4px 4px 24px;
+  overflow-y: auto;
+  align-content: start;
+}
+.col-card {
+  background: var(--surface);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  box-shadow: var(--shadow-sm);
+  border: 1px solid var(--border);
+  transition: transform var(--dur) var(--ease), box-shadow var(--dur) var(--ease),
+              border-color var(--dur) var(--ease);
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+}
+.col-card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-lg);
+  border-color: var(--primary);
+}
+.card-img-wrap {
+  position: relative;
+  aspect-ratio: 16 / 10;
+  background: var(--bg-muted);
+  overflow: hidden;
+}
+.card-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 600ms var(--ease);
+}
+.col-card:hover .card-img { transform: scale(1.04); }
+.card-img-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  font-size: 2.2rem;
+  color: var(--text-3);
+}
+.card-body {
+  padding: 16px 18px 18px;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  gap: 6px;
+}
+.card-name {
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--text);
+  letter-spacing: -0.2px;
+  line-height: 1.3;
+}
+.card-desc {
+  font-size: 0.83rem;
+  color: var(--text-2);
+  line-height: 1.55;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  margin-bottom: 8px;
+}
+.card-cta {
+  margin-top: auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--accent-dark);
+  letter-spacing: 0.4px;
+  text-transform: uppercase;
+}
+.col-card:hover .card-cta { color: var(--primary); }
+
+/* ── MAP (map.html) ──────────────────────────────────────────── */
+.map-shell {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  position: relative;
+  /* Width of the detail panel on desktop. Used by the Leaflet zoom-control
+     shift below; overridden inside the responsive breakpoints. */
+  --detail-panel-w: 420px;
+}
+.map-main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;        /* stack: filters → thumbs → map */
+  min-height: 0;
+  position: relative;
+}
+
+/* Top bar wrapper: filters + thumbs sit above the map as horizontal rows */
+.map-side {
+  display: flex;
+  flex-direction: column;
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  flex-shrink: 0;
+  z-index: 500;
+}
+
+/* Filter bar — horizontal, scrolls if too many */
+.filter-bar {
+  display: flex;
+  gap: 6px;
+  padding: 10px 14px;
+  overflow-x: auto;
+  border-bottom: 1px solid var(--border);
+  background: var(--bg-soft);
+  scrollbar-width: thin;
+  scrollbar-color: var(--border-strong) transparent;
+}
+.filter-bar::-webkit-scrollbar { height: 5px; }
+.filter-bar::-webkit-scrollbar-thumb { background: var(--border-strong); border-radius: 3px; }
+.filter-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 12px;
+  border-radius: 999px;
+  font-size: 0.76rem;
+  font-weight: 600;
+  white-space: nowrap;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  color: var(--text-2);
+  cursor: pointer;
+  transition: background var(--dur) var(--ease), color var(--dur) var(--ease),
+              border-color var(--dur) var(--ease);
+}
+.filter-chip:hover { border-color: var(--primary); color: var(--text); }
+.filter-chip.active { background: var(--primary); color: #fff; border-color: var(--primary); }
+.filter-chip .swatch {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+/* Thumb strip — horizontal row that scrolls left/right */
+.thumb-strip {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  padding: 10px 14px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scrollbar-width: thin;
+  scrollbar-color: var(--border-strong) transparent;
+}
+.thumb-strip::-webkit-scrollbar { height: 6px; }
+.thumb-strip::-webkit-scrollbar-thumb { background: var(--border-strong); border-radius: 3px; }
+.thumb {
+  flex-shrink: 0;
+  width: 130px;
+  border-radius: var(--radius);
+  overflow: hidden;
+  background: var(--bg-muted);
+  border: 2px solid transparent;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  transition: border-color var(--dur) var(--ease), transform var(--dur) var(--ease),
+              box-shadow var(--dur) var(--ease);
+}
+.thumb:hover {
+  border-color: var(--primary);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow);
+}
+.thumb.active {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px rgba(212, 164, 53, 0.25);
+}
+.thumb-img-wrap {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  background: var(--bg-muted);
+  position: relative;
+  overflow: hidden;
+}
+.thumb-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.thumb-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  color: var(--text-3);
+  font-size: 1.4rem;
+}
+.thumb-label {
+  padding: 7px 9px 9px;
+  font-size: 0.74rem;
+  font-weight: 600;
+  color: var(--text);
+  line-height: 1.25;
+  background: var(--surface);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  word-break: break-word;
+}
+
+/* Map area */
+.map-area {
+  flex: 1;
+  position: relative;
+  background: var(--bg-muted);
+}
+#leaflet-map {
+  position: absolute;
+  inset: 0;
+}
+
+/* ── DETAIL PANEL (slides in from right) ─────────────────────── */
+.detail-panel {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 420px;
+  background: var(--surface);
+  box-shadow: var(--shadow-lg);
+  border-left: 1px solid var(--border);
+  display: flex;
+  flex-direction: column;
+  z-index: 600;
+  transform: translateX(100%);
+  transition: transform 320ms var(--ease);
+}
+.detail-panel.open { transform: translateX(0); }
+
+/* When the detail panel is open, the Leaflet zoom controls (top-right of
+   the map) would otherwise sit underneath the panel. We toggle a
+   .detail-open class on #app from openDetail/closeDetail in map.html and
+   key the offset off that class. Class-based, no :has() — works on every
+   browser the rest of the site already supports. */
+.map-area .leaflet-top.leaflet-right {
+  transition: transform 320ms var(--ease);
+}
+#app.detail-open .leaflet-top.leaflet-right {
+  transform: translateX(calc(-1 * (var(--detail-panel-w) + 10px)));
+}
+.detail-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 14px;
+  border-bottom: 1px solid var(--border);
+  background: var(--bg-soft);
+  flex-shrink: 0;
+}
+.detail-close {
+  width: 32px;
+  height: 32px;
+  border-radius: var(--radius-sm);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.1rem;
+  color: var(--text-2);
+  transition: background var(--dur) var(--ease), color var(--dur) var(--ease);
+  flex-shrink: 0;
+}
+.detail-close:hover { background: var(--bg-muted); color: var(--text); }
+.detail-title-bar {
+  flex: 1;
+  font-size: 0.86rem;
+  font-weight: 600;
+  color: var(--text-2);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.detail-nav {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-shrink: 0;
+}
+.detail-nav button {
+  width: 30px;
+  height: 30px;
+  border-radius: var(--radius-sm);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-2);
+  font-size: 1.1rem;
+  transition: background var(--dur) var(--ease), color var(--dur) var(--ease);
+}
+.detail-nav button:hover { background: var(--bg-muted); color: var(--text); }
+.detail-counter {
+  font-size: 0.74rem;
+  font-weight: 600;
+  color: var(--text-3);
+  letter-spacing: 0.4px;
+  min-width: 50px;
+  text-align: center;
+}
+.detail-img-wrap {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  background: var(--bg-muted);
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.detail-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.detail-img-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  color: var(--text-3);
+  font-size: 2.6rem;
+}
+.detail-body {
+  flex: 1;
+  overflow-y: auto;
+  padding: 18px 20px 24px;
+  scrollbar-width: thin;
+  scrollbar-color: var(--border-strong) transparent;
+}
+.detail-body::-webkit-scrollbar { width: 6px; }
+.detail-body::-webkit-scrollbar-thumb { background: var(--border-strong); border-radius: 3px; }
+.detail-tag {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 700;
+  padding: 3px 9px;
+  border-radius: 999px;
+  letter-spacing: 0.4px;
+  text-transform: uppercase;
+  margin-bottom: 12px;
+}
+.detail-name {
+  font-family: var(--font-display);
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: var(--text);
+  letter-spacing: -0.4px;
+  line-height: 1.25;
+  margin-bottom: 12px;
+}
+.detail-desc {
+  font-size: 0.9rem;
+  line-height: 1.7;
+  color: var(--text-2);
+  white-space: pre-line;
+  margin-bottom: 18px;
+}
+.detail-desc-missing {
+  font-style: italic;
+  color: var(--text-3);
+  font-size: 0.85rem;
+}
+.detail-divider {
+  height: 1px;
+  background: var(--border);
+  margin: 16px 0;
+}
+.contact-list { display: flex; flex-direction: column; gap: 10px; }
+.contact-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 0.86rem;
+  color: var(--text-2);
+}
+.contact-row .ic {
+  width: 22px;
+  flex-shrink: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--primary);
+}
+.contact-row .ic svg { display: block; }
+.contact-row a { color: var(--primary-dark); word-break: break-all; }
+
+/* Lang-fallback badge — used by both pages where text shows */
+.lang-tag {
+  display: inline-block;
+  font-size: 0.6rem;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  color: var(--text-2);
+  background: var(--bg-muted);
+  border: 1px solid var(--border);
+  padding: 1px 6px;
+  border-radius: 3px;
+  margin-right: 6px;
+  vertical-align: middle;
+  text-transform: uppercase;
+  font-family: var(--font-sans);
+}
+
+/* ── LEAFLET TWEAKS ──────────────────────────────────────────── */
+.leaflet-popup-content-wrapper {
+  border-radius: var(--radius) !important;
+  box-shadow: var(--shadow-lg) !important;
+  padding: 0 !important;
+}
+.leaflet-popup-content {
+  margin: 0 !important;
+  padding: 12px 14px !important;
+  font-family: var(--font-sans) !important;
+  font-size: 0.84rem !important;
+  min-width: 180px;
+  cursor: pointer;
+}
+.leaflet-popup-content .pop-tag {
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  margin-bottom: 4px;
+}
+.leaflet-popup-content .pop-name {
+  font-family: var(--font-display);
+  font-size: 0.98rem;
+  font-weight: 700;
+  color: var(--text);
+  line-height: 1.25;
+}
+.custom-marker {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: var(--primary);
+  border: 2.5px solid #fff;
+  box-shadow: 0 2px 6px rgba(20, 32, 46, 0.35);
+}
+.custom-marker-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #fff;
+}
+.thumb-placeholder svg,
+.detail-img-placeholder svg,
+.card-img-placeholder svg {
+  color: var(--text-3);
+  opacity: 0.7;
+}
+
+/* ── RESPONSIVE ──────────────────────────────────────────────── */
+@media (max-width: 900px) {
+  .map-shell { --detail-panel-w: 360px; }
+  .detail-panel { width: 360px; }
+  .thumb { width: 120px; }
+}
+
+@media (max-width: 640px) {
+  :root { --header-h: 52px; }
+
+  .app-header { padding: 0 12px; }
+  .app-header h1 { font-size: 0.95rem; }
+  .app-header .subtitle { display: none; }
+
+  .landing-intro h1 { font-size: 1.6rem; }
+  .landing-intro { margin-bottom: 22px; }
+  .cards-grid {
+    grid-template-columns: 1fr;
+    gap: 16px;
+    padding: 4px 8px 24px;
+  }
+
+  /* Filter + thumb rows already stack above map on desktop;
+     just tighten paddings and shrink thumbs for narrow screens */
+  .filter-bar  { padding: 8px 10px; }
+  .thumb-strip { padding: 8px 10px; }
+  .thumb       { width: 100px; }
+  .thumb-label { font-size: 0.7rem; padding: 6px 7px 7px; }
+
+  /* Detail panel: cover the whole viewport below the header so it can't
+     be obscured by Leaflet zoom controls or the thumb strip */
+  .detail-panel {
+    position: fixed;
+    top: var(--header-h);
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    border-left: none;
+    z-index: 800;
+  }
+  .detail-img-wrap { aspect-ratio: 16 / 9; }
+
+  /* Mobile: panel covers the entire map area, so the zoom controls are
+     pointless when it's open. Just hide them. Cancels the desktop translate
+     too. */
+  #app.detail-open .leaflet-top.leaflet-right {
+    transform: none;
+    display: none;
+  }
+}

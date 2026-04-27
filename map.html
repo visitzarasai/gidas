@@ -1,0 +1,654 @@
+<!doctype html>
+<html lang="lt">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+<title>Žemėlapis — Zarasų krašto gidas</title>
+<link rel="stylesheet" href="style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin="">
+</head>
+<body>
+
+<!-- Loading state -->
+<div id="loading" class="fullscreen is-loading">
+  <div class="spinner"></div>
+  <p data-t="loading">Kraunama...</p>
+</div>
+
+<!-- Error state -->
+<div id="error" class="fullscreen is-error hidden">
+  <div class="icon">
+    <svg width="46" height="46" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <path d="M10.29 3.86 1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"></path>
+      <line x1="12" y1="9" x2="12" y2="13"></line>
+      <line x1="12" y1="17" x2="12.01" y2="17"></line>
+    </svg>
+  </div>
+  <h2 data-t="error">Nepavyko įkelti duomenų</h2>
+</div>
+
+<!-- App shell -->
+<div id="app" class="map-shell hidden">
+  <header class="app-header">
+    <div class="brand">
+      <a href="index.html" class="back-link" data-t="back">← Atgal</a>
+      <div>
+        <h1 id="header-title">Zarasų krašto gidas</h1>
+        <div class="subtitle" data-t="subtitle">Lankytinos vietos</div>
+      </div>
+    </div>
+    <div class="actions">
+      <div class="lang-switcher">
+        <button id="lang-btn" class="lang-btn" onclick="toggleLangDropdown()" aria-haspopup="listbox">
+          <span id="lang-label">Lietuvių</span>
+          <span class="arrow">▼</span>
+        </button>
+        <div id="lang-dropdown" class="lang-dropdown" role="listbox"></div>
+      </div>
+    </div>
+  </header>
+
+  <main class="map-main">
+    <aside class="map-side">
+      <div id="filter-bar" class="filter-bar"></div>
+      <div id="thumb-strip" class="thumb-strip"></div>
+    </aside>
+    <div class="map-area">
+      <div id="leaflet-map"></div>
+      <div id="detail-panel" class="detail-panel">
+        <div class="detail-header">
+          <button class="detail-close" onclick="closeDetail()" data-t-title="close" title="Uždaryti" aria-label="Uždaryti">×</button>
+          <div id="detail-title-bar" class="detail-title-bar"></div>
+          <div class="detail-nav">
+            <button onclick="navigateDetail(-1)" data-t-title="prev" title="Ankstesnis">‹</button>
+            <span id="detail-counter" class="detail-counter"></span>
+            <button onclick="navigateDetail(1)" data-t-title="next" title="Kitas">›</button>
+          </div>
+        </div>
+        <div class="detail-img-wrap">
+          <img id="detail-img" class="detail-img" src="" alt=""
+            onerror="this.style.display='none';document.getElementById('detail-img-placeholder').style.display='flex'">
+          <div id="detail-img-placeholder" class="detail-img-placeholder">
+            <svg width="56" height="56" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect>
+              <circle cx="8.5" cy="8.5" r="1.5"></circle>
+              <polyline points="21 15 16 10 5 21"></polyline>
+            </svg>
+          </div>
+        </div>
+        <div id="detail-body" class="detail-body"></div>
+      </div>
+    </div>
+  </main>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+        crossorigin=""></script>
+<script src="app-core.js"></script>
+<script>
+'use strict';
+
+// ── INLINE SVG ICONS (no emoji) ──────────────────────────────
+const ICONS = {
+  thumbPlaceholder: `<svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"/><circle cx="8.5" cy="8.5" r="1.5"/><polyline points="21 15 16 10 5 21"/></svg>`,
+  pin:      `<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>`,
+  phone:    `<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>`,
+  email:    `<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>`,
+  globe:    `<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>`,
+};
+
+// Category color palette — assigned in order to discovered tabs
+const PALETTE = [
+  '#2E7CC4', '#D4A435', '#2E8B57', '#B23A3A', '#7C4DFF',
+  '#F57C00', '#0097A7', '#5D4037', '#C2185B', '#455A64',
+];
+
+// ── URL & FETCH PATHS ────────────────────────────────────────
+const params = new URLSearchParams(location.search);
+const folderParam = params.get('folder') || params.get('collection') || '';
+if (!folderParam) { showError(); throw new Error('no folder'); }
+const FOLDER = folderParam.replace(/\/?$/, '/');
+
+// ── STATE ────────────────────────────────────────────────────
+let activeLang  = 'lt';
+let placesRaw   = [];          // language-neutral place rows (built from collection.json)
+let contentMap  = {};          // lang -> Map(id -> {pavadinimas, aprasimas})
+let metaByLang  = {};          // lang -> {name, description, thumbnail}
+let allPlaces   = [];          // computed for activeLang
+let filtered    = [];          // after filter chip applied
+let activeTab   = '__ALL__';   // current filter
+let tabColors   = {};          // tabName -> color
+let selectedId  = null;        // currently-open detail
+let map = null;
+let markers = new Map();       // id -> L.Marker
+
+// ── BOOT ─────────────────────────────────────────────────────
+document.addEventListener('DOMContentLoaded', async () => {
+  // Lang priority: ?lang=xx URL param > saved session value > default LT
+  const urlLang = params.get('lang');
+  if (urlLang && ALL_LANGS.includes(urlLang)) {
+    activeLang = urlLang;
+  } else {
+    const saved = loadSavedLang();
+    if (saved) activeLang = saved;
+  }
+
+  setLangLabel(activeLang);
+  buildLangDropdown(activeLang, selectLang);
+  applyTranslations();        // first-paint translation pass for loading screen + chrome
+  document.addEventListener('click', e => {
+    if (!e.target.closest('.lang-switcher')) closeLangDropdown();
+  });
+
+  await loadAll();
+});
+
+// ── DATA ─────────────────────────────────────────────────────
+// Fetches the collection and populates the in-memory state used by the
+// rest of the page:
+//   placesRaw[]       — language-neutral row dicts (one per place)
+//   contentMap[lang]  — Map(id -> {pavadinimas, aprasimas, skirtukas})
+//   metaByLang[lang]  — {name, description, thumbnail}
+// Order matters at the end:
+//   1. Reveal the app shell FIRST so the map container has real width/height.
+//      Leaflet measures the live container — if it's display:none when L.map()
+//      runs, every flyTo / flyToBounds / fitBounds gets garbage dimensions.
+//   2. THEN init the map.
+async function loadAll() {
+  try {
+    const r = await fetch(FOLDER + 'collection.json?t=' + Date.now());
+    if (!r.ok) throw new Error('collection.json missing (HTTP ' + r.status + ')');
+    const data = await r.json();
+    if (!data || !Array.isArray(data.places)) throw new Error('collection.json malformed');
+
+    // Meta
+    if (data.meta && typeof data.meta === 'object') {
+      for (const lang of Object.keys(data.meta)) {
+        const m = data.meta[lang] || {};
+        metaByLang[lang] = {
+          name:        m.name        || '',
+          description: m.description || '',
+          thumbnail:   m.thumbnail   || '',
+        };
+      }
+    }
+
+    // Places — flatten into the legacy in-memory shape so buildPlaces and
+    // pickField can stay structurally simple. Lat/lon stay as strings here
+    // because buildPlaces already handles decimal-comma tolerance and
+    // String(num) is a no-op for a clean number.
+    for (const p of data.places) {
+      const id = String(p.id || '').trim();
+      if (!id) continue;
+      const coords  = p.coords  || {};
+      const contact = p.contact || {};
+      const media   = p.media   || {};
+
+      placesRaw.push({
+        shortlist_id: id,
+        Adresas:    contact.address || '',
+        Telefonas:  contact.phone   || '',
+        El_pastas:  contact.email   || '',
+        Svetaine:   contact.website || '',
+        Nuotrauka:  media.photo     || '',
+        Miniatiura: media.thumbnail || '',
+        Latitude:   coords.lat != null ? String(coords.lat) : '',
+        Longitude:  coords.lon != null ? String(coords.lon) : '',
+      });
+
+      const i18n = p.i18n || {};
+      for (const lang of Object.keys(i18n)) {
+        const t = i18n[lang] || {};
+        if (!contentMap[lang]) contentMap[lang] = new Map();
+        contentMap[lang].set(id, {
+          pavadinimas: (t.name        || '').trim(),
+          aprasimas:   (t.description || '').trim(),
+          skirtukas:   (t.category    || '').trim(),
+        });
+      }
+    }
+
+    applyMetaToHeader();
+    rebuildAll();
+    showApp();
+    initMap();
+  } catch(e) {
+    console.error('Load failed:', e);
+    showError();
+  }
+}
+
+// ── META → HEADER ────────────────────────────────────────────
+// Pick the best meta translation for the active language, falling back
+// through: active → lt → first non-empty language. Then write the
+// collection name into the header. The subtitle stays static.
+function applyMetaToHeader() {
+  let m = metaByLang[activeLang];
+  if (!m || !m.name) m = metaByLang.lt;
+  if (!m) for (const l of ALL_LANGS) if (metaByLang[l]) { m = metaByLang[l]; break; }
+  if (m && m.name) document.getElementById('header-title').textContent = m.name;
+}
+
+// ── PER-FIELD FALLBACK ───────────────────────────────────────
+function pickField(id, field) {
+  const a = (contentMap[activeLang] || new Map()).get(id);
+  if (a && a[field]) return { value: a[field], lang: activeLang };
+  for (const l of ALL_LANGS) {
+    if (l === activeLang) continue;
+    const r = (contentMap[l] || new Map()).get(id);
+    if (r && r[field]) return { value: r[field], lang: l };
+  }
+  return { value: '', lang: '' };
+}
+
+function buildPlaces() {
+  return placesRaw.map(r => {
+    // Tolerate European decimal commas: "55,7321" → "55.7321"
+    const latRaw = String(r['Latitude']  || r['latitude']  || r['lat'] || '').replace(',', '.').trim();
+    const lonRaw = String(r['Longitude'] || r['longitude'] || r['lon'] || r['lng'] || '').replace(',', '.').trim();
+    const lat = parseFloat(latRaw);
+    const lon = parseFloat(lonRaw);
+    if (!Number.isFinite(lat) || !Number.isFinite(lon)) return null;
+    if (lat < -90 || lat > 90 || lon < -180 || lon > 180) return null;
+    const id = r['shortlist_id'];
+
+    // Name: full fallback chain so the place is at least identifiable.
+    const namePick = pickField(id, 'pavadinimas');
+    if (!namePick.value) return null;
+
+    // Description: NO fallback. Show only the active language's value;
+    // if missing/empty, the renderer will show a localized "no translation" notice.
+    const activeRow = (contentMap[activeLang] || new Map()).get(id) || {};
+    const desc = (activeRow.aprasimas || '').trim();
+
+    // Category (Skirtukas) is per-language. We keep the LT version as the
+    // canonical "key" for color assignment and filter group identity (so
+    // switching languages doesn't shuffle chips around or remap colors).
+    // The display value falls back through the same chain as name.
+    const ltRow = (contentMap.lt || new Map()).get(id) || {};
+    const tabKey  = (ltRow.skirtukas || '').trim();
+    const tabPick = pickField(id, 'skirtukas');
+    const tab     = tabPick.value || tabKey;     // display value (active lang or fallback)
+
+    return {
+      id,
+      tabKey,                                    // LT canonical — use for color, filter id
+      tab,                                       // active-lang label — use for display only
+      name:         namePick.value,
+      desc,
+      nameFromLang: namePick.lang !== activeLang ? namePick.lang : '',
+      descMissing:  !desc,
+      address:      (r['Adresas']    || '').trim(),
+      phone:        (r['Telefonas']  || '').trim(),
+      email:        (r['El_pastas']  || '').trim(),
+      website:      (r['Svetaine']   || '').trim(),
+      photo:        (r['Nuotrauka']  || '').trim(),
+      thumb:        (r['Miniatiura'] || '').trim(),
+      lat, lon,
+    };
+  }).filter(Boolean);
+}
+
+// ── REBUILD UI ───────────────────────────────────────────────
+function rebuildAll() {
+  allPlaces = buildPlaces();
+
+  // Discover unique tab KEYS (LT canonical) in stable order — these are the
+  // identities used for color assignment and filter group membership. Display
+  // labels come from each place's `tab` (active-language value).
+  const keysSeen = [];
+  allPlaces.forEach(p => { if (p.tabKey && !keysSeen.includes(p.tabKey)) keysSeen.push(p.tabKey); });
+  keysSeen.forEach((k, i) => { if (!tabColors[k]) tabColors[k] = PALETTE[i % PALETTE.length]; });
+
+  applyFilter();
+  buildFilterBar(keysSeen);
+  buildThumbStrip();
+  rebuildMarkers();
+  applyMetaToHeader();
+}
+
+function applyFilter() {
+  filtered = activeTab === '__ALL__'
+    ? allPlaces.slice()
+    : allPlaces.filter(p => p.tabKey === activeTab);
+}
+
+// ── FILTER BAR ───────────────────────────────────────────────
+function buildFilterBar(keys) {
+  const bar = document.getElementById('filter-bar');
+  bar.innerHTML = '';
+
+  // "All" chip
+  const all = document.createElement('button');
+  all.className = 'filter-chip' + (activeTab === '__ALL__' ? ' active' : '');
+  all.textContent = `${t('all')} (${allPlaces.length})`;
+  all.onclick = () => setFilter('__ALL__');
+  bar.appendChild(all);
+
+  keys.forEach(k => {
+    // Find one place that has this tabKey to grab its current display label
+    const sample = allPlaces.find(p => p.tabKey === k);
+    const label  = (sample && sample.tab) || k;
+    const count  = allPlaces.filter(p => p.tabKey === k).length;
+    const chip = document.createElement('button');
+    chip.className = 'filter-chip' + (activeTab === k ? ' active' : '');
+    chip.innerHTML = `<span class="swatch" style="background:${tabColors[k]}"></span>${esc(label)} (${count})`;
+    chip.onclick = () => setFilter(k);
+    bar.appendChild(chip);
+  });
+}
+
+function setFilter(key) {
+  activeTab = key;
+  applyFilter();
+  buildFilterBar(Object.keys(tabColors));
+  buildThumbStrip();
+  syncMarkers();
+}
+
+// ── THUMB STRIP ──────────────────────────────────────────────
+function buildThumbStrip() {
+  const strip = document.getElementById('thumb-strip');
+  strip.innerHTML = '';
+  filtered.forEach(p => {
+    const item = document.createElement('div');
+    item.className = 'thumb' + (p.id === selectedId ? ' active' : '');
+    item.dataset.id = p.id;
+    item.onclick = () => openDetail(p.id);
+
+    const wrap = document.createElement('div');
+    wrap.className = 'thumb-img-wrap';
+    if (p.thumb) {
+      const img = document.createElement('img');
+      img.className = 'thumb-img';
+      img.src = p.thumb;
+      img.loading = 'lazy';
+      img.onerror = () => {
+        wrap.innerHTML = '<div class="thumb-placeholder">' + ICONS.thumbPlaceholder + '</div>';
+      };
+      wrap.appendChild(img);
+    } else {
+      wrap.innerHTML = '<div class="thumb-placeholder">' + ICONS.thumbPlaceholder + '</div>';
+    }
+    item.appendChild(wrap);
+
+    const label = document.createElement('div');
+    label.className = 'thumb-label';
+    if (p.nameFromLang) label.appendChild(langTag(p.nameFromLang));
+    label.appendChild(document.createTextNode(p.name));
+    item.appendChild(label);
+
+    strip.appendChild(item);
+  });
+}
+
+// ── MAP / MARKERS ────────────────────────────────────────────
+function initMap() {
+  if (map) return;
+  try {
+    if (!filtered.length) {
+      // No valid places — show map centered on Lithuania at country level
+      map = L.map('leaflet-map', { zoomControl: false }).setView([55.32, 23.95], 7);
+    } else {
+      const center = [filtered[0].lat, filtered[0].lon];
+      map = L.map('leaflet-map', { zoomControl: false }).setView(center, 11);
+    }
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19, attribution: '© OpenStreetMap',
+    }).addTo(map);
+    // Zoom controls top-right so they don't collide with the detail panel header
+    L.control.zoom({ position: 'topright' }).addTo(map);
+    rebuildMarkers();
+    fitMap();
+  } catch (e) {
+    console.error('initMap failed:', e);
+  }
+}
+
+function makeIcon(tabKey) {
+  const color = tabColors[tabKey] || '#2E7CC4';
+  return L.divIcon({
+    className: '',
+    html: `<div class="custom-marker" style="background:${color}"><span class="custom-marker-dot"></span></div>`,
+    iconSize: [28, 28],
+    iconAnchor: [14, 14],
+    popupAnchor: [0, -16],
+  });
+}
+
+function rebuildMarkers() {
+  if (!map) return;
+  markers.forEach(m => map.removeLayer(m));
+  markers.clear();
+  allPlaces.forEach(p => {
+    // Belt-and-braces validation: reject bad coords here too even though
+    // buildPlaces should have filtered them. Surface bad rows in the console
+    // with the shortlist_id so the data file can be corrected.
+    if (!Number.isFinite(p.lat) || !Number.isFinite(p.lon)) {
+      console.warn('Skipping marker for #' + p.id + ' — invalid coords:', p.lat, p.lon);
+      return;
+    }
+    try {
+      const m = L.marker([p.lat, p.lon], { icon: makeIcon(p.tabKey) });
+      m.bindPopup(buildPopup(p), { maxWidth: 240, minWidth: 180, closeButton: false });
+      m.on('click', () => openDetail(p.id));
+      markers.set(p.id, m);
+    } catch (e) {
+      console.warn('Marker creation failed for #' + p.id + ':', e.message);
+    }
+  });
+  syncMarkers();
+}
+
+function syncMarkers() {
+  if (!map) return;
+  const visible = new Set(filtered.map(p => p.id));
+  markers.forEach((m, id) => {
+    const show = visible.has(id);
+    if (show && !map.hasLayer(m))  m.addTo(map);
+    if (!show && map.hasLayer(m))  map.removeLayer(m);
+  });
+}
+
+function buildPopup(p) {
+  const color = tabColors[p.tabKey] || 'var(--primary)';
+  return `
+    <div class="pop-tag" style="color:${color}">${esc(p.tab)}</div>
+    <div class="pop-name">${p.nameFromLang ? '<span class="lang-tag">' + esc(p.nameFromLang.toUpperCase()) + '</span>' : ''}${esc(p.name)}</div>`;
+}
+
+function fitMap() {
+  if (!map) return;
+  // Filter to only points with finite, in-range coords (defense in depth)
+  const valid = filtered.filter(p =>
+    Number.isFinite(p.lat) && Number.isFinite(p.lon) &&
+    p.lat >= -90 && p.lat <= 90 && p.lon >= -180 && p.lon <= 180
+  );
+  if (!valid.length) return;
+  try {
+    if (valid.length === 1) {
+      map.flyTo([valid[0].lat, valid[0].lon], 13, { duration: 0.7 });
+    } else {
+      const bounds = L.latLngBounds(valid.map(p => [p.lat, p.lon]));
+      if (!bounds.isValid()) return;
+      map.flyToBounds(bounds, { padding: [40, 40], maxZoom: 13, duration: 0.7 });
+    }
+  } catch (e) {
+    console.warn('fitMap skipped:', e.message);
+  }
+}
+
+// ── DETAIL PANEL ─────────────────────────────────────────────
+function openDetail(id) {
+  const p = allPlaces.find(x => x.id === id);
+  if (!p) return;
+  selectedId = id;
+
+  // Update thumb highlight
+  document.querySelectorAll('.thumb').forEach(t => {
+    t.classList.toggle('active', t.dataset.id === id);
+  });
+
+  // Counter
+  const list = filtered.length ? filtered : allPlaces;
+  const idx = list.findIndex(x => x.id === id);
+  document.getElementById('detail-counter').textContent =
+    idx >= 0 ? `${idx + 1} / ${list.length}` : '';
+
+  document.getElementById('detail-title-bar').textContent = p.name;
+
+  // Photo
+  const img = document.getElementById('detail-img');
+  const ph  = document.getElementById('detail-img-placeholder');
+  if (p.photo) {
+    img.src = p.photo;
+    img.style.display = '';
+    ph.style.display = 'none';
+  } else {
+    img.style.display = 'none';
+    ph.style.display = 'flex';
+  }
+
+  // Body
+  const body = document.getElementById('detail-body');
+  body.innerHTML = '';
+
+  if (p.tab) {
+    const tag = document.createElement('span');
+    tag.className = 'detail-tag';
+    const color = tabColors[p.tabKey] || 'var(--primary)';
+    tag.style.background = color + '22';
+    tag.style.color = color;
+    tag.textContent = p.tab;
+    body.appendChild(tag);
+  }
+
+  const name = document.createElement('div');
+  name.className = 'detail-name';
+  if (p.nameFromLang) name.appendChild(langTag(p.nameFromLang));
+  name.appendChild(document.createTextNode(p.name));
+  body.appendChild(name);
+
+  if (p.descMissing) {
+    const desc = document.createElement('div');
+    desc.className = 'detail-desc detail-desc-missing';
+    desc.textContent = t('noTranslation');
+    body.appendChild(desc);
+  } else {
+    const desc = document.createElement('div');
+    desc.className = 'detail-desc';
+    desc.appendChild(document.createTextNode(p.desc));
+    body.appendChild(desc);
+  }
+
+  // Contact list
+  const contacts = [];
+  if (p.address) {
+    contacts.push({ ic: ICONS.pin, text: p.address });
+  } else if (p.lat && p.lon) {
+    contacts.push({ ic: ICONS.pin, text: `${p.lat}, ${p.lon}` });
+  }
+  if (p.phone)   contacts.push({ ic: ICONS.phone,  href: 'tel:' + p.phone, text: p.phone });
+  if (p.email)   contacts.push({ ic: ICONS.email,  href: 'mailto:' + p.email, text: p.email });
+  if (p.website) contacts.push({ ic: ICONS.globe,  href: p.website, text: p.website.replace(/^https?:\/\//, '') });
+
+  if (contacts.length) {
+    const div = document.createElement('div');
+    div.className = 'detail-divider';
+    body.appendChild(div);
+    const list = document.createElement('div');
+    list.className = 'contact-list';
+    contacts.forEach(c => {
+      const row = document.createElement('div');
+      row.className = 'contact-row';
+      const ic = document.createElement('span');
+      ic.className = 'ic';
+      ic.innerHTML = c.ic;       // SVG markup, safe (we control the content)
+      row.appendChild(ic);
+      if (c.href) {
+        const a = document.createElement('a');
+        a.href = c.href;
+        a.textContent = c.text;
+        if (c.href.startsWith('http')) { a.target = '_blank'; a.rel = 'noopener noreferrer'; }
+        row.appendChild(a);
+      } else {
+        row.appendChild(document.createTextNode(c.text));
+      }
+      list.appendChild(row);
+    });
+    body.appendChild(list);
+  }
+
+  document.getElementById('detail-panel').classList.add('open');
+  document.getElementById('app').classList.add('detail-open');
+
+  // Center map on selection (guard against bad coords)
+  if (map && Number.isFinite(p.lat) && Number.isFinite(p.lon)) {
+    try {
+      map.flyTo([p.lat, p.lon], Math.max(map.getZoom(), 13), { duration: 0.5 });
+    } catch(e) {
+      console.warn('flyTo skipped:', e.message);
+    }
+  }
+}
+
+function closeDetail() {
+  selectedId = null;
+  document.querySelectorAll('.thumb').forEach(t => t.classList.remove('active'));
+  document.getElementById('detail-panel').classList.remove('open');
+  document.getElementById('app').classList.remove('detail-open');
+}
+
+function navigateDetail(dir) {
+  const list = filtered.length ? filtered : allPlaces;
+  const idx = list.findIndex(x => x.id === selectedId);
+  if (idx < 0) return;
+  const next = list[(idx + dir + list.length) % list.length];
+  if (next) openDetail(next.id);
+}
+
+// ── LANGUAGE ─────────────────────────────────────────────────
+// Shared helpers in app-core.js handle the dropdown building, label
+// update, active-class sync, and session persistence. The page-specific
+// bits are: rebuild the map UI in the new language, and reopen the
+// detail panel for the selected place if it still exists.
+function selectLang(lang) {
+  if (lang === activeLang) { closeLangDropdown(); return; }
+  activeLang = lang;
+  setLangLabel(lang);
+  syncLangDropdownActive(lang);
+  closeLangDropdown();
+  saveLang(lang);
+
+  applyTranslations();      // refresh chrome (back link, subtitle, button titles)
+  rebuildAll();             // rebuild filter chips + thumbs + markers in new language
+  if (selectedId) {
+    const stillExists = allPlaces.find(p => p.id === selectedId);
+    if (stillExists) openDetail(selectedId);
+    else closeDetail();
+  }
+}
+
+// Re-fit map when window dimensions change so the layout doesn't get stale
+window.addEventListener('resize', () => {
+  if (map) map.invalidateSize();
+});
+
+function langTag(lang) {
+  const span = document.createElement('span');
+  span.className = 'lang-tag';
+  span.textContent = (lang || 'LT').toUpperCase();
+  span.title = t('fallbackTooltip') + ' (' +
+               (LANG_LABELS[lang] || lang.toUpperCase()) + ')';
+  return span;
+}
+</script>
+
+</body>
+</html>
