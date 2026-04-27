@@ -54,32 +54,32 @@
         "lt": {
           "name": "ZARASŲ TURIZMO IR VERSLO INFORMACIJOS CENTRAS",
           "description": "Čia gausite išsamią informaciją apie krašto lankomus objektus. Teikiamos gido, dviračių nuomos, biuro paslaugos, prekiaujama suvenyrais.",
-          "category": "Zarasai"
+          "category": "Informacija"
         },
         "lv": {
           "name": "ZARASU TŪRISMA UN BIZNESA INFORMĀCIJAS CENTRS",
           "description": "Šeit saņemsiet izsmeļošu informāciju par reģiona apskates objektiem. Tiek sniegti gida, velosipēdu nomas, biroja pakalpojumi, pārdoti suvenīri.",
-          "category": "Zarasai"
+          "category": "Informacija"
         },
         "en": {
           "name": "Zarasai Tourism and Business Information Center",
           "description": "Here you will get detailed information about the places to visit in the region. Guide, bicycle rental, office services are provided, and souvenirs are sold.",
-          "category": "Zarasai"
+          "category": "Informacija"
         },
         "de": {
           "name": "TOURISMUS- UND GESCHÄFTSINFORMATIONSZENTRUM ZARASAI",
           "description": "Hier erhalten Sie detaillierte Informationen über die Sehenswürdigkeiten der Region. Es werden Reiseführer, Fahrradverleih und Bürodienstleistungen angeboten sowie Souvenirs verkauft.",
-          "category": "Zarasai"
+          "category": "Informacija"
         },
         "pl": {
           "name": "CENTRUM INFORMACJI TURYSTYCZNEJ I BIZNESOWEJ W ZARASACH",
           "description": "Tutaj uzyskasz szczegółowe informacje o obiektach turystycznych w regionie. Świadczone są usługi przewodnickie, wypożyczalnia rowerów, usługi biurowe, sprzedaż pamiątek.",
-          "category": "Zarasai"
+          "category": "Informacija"
         },
         "ru": {
           "name": "ЗАРАСАЙСКИЙ ИНФОРМАЦИОННЫЙ ЦЕНТР ТУРИЗМА И БИЗНЕСА",
           "description": "Здесь вы получите подробную информацию о посещаемых объектах края. Предоставляются услуги гида, прокат велосипедов, офисные услуги, продаются сувениры.",
-          "category": "Zarasai"
+          "category": "Informacija"
         }
       }
     },
@@ -241,32 +241,32 @@
         "lt": {
           "name": "STELMUŽĖS ĄŽUOLAS",
           "description": "Stelmužės ąžuolas – Lietuvos gamtos paminklas, vienas seniausių ąžuolų Europoje, o Lietuvoje pats seniausias ir storiausias medis. Spėjama, kad jo amžius yra per 1500 metų. Ąžuolas yra 23 m. aukščio, 3,5 m. skersmens ir 13 m. apimties prie žemės (kamienui apimti reikia apie 13 vidutinio sudėjimo žmonių).",
-          "category": "Zarasai"
+          "category": "Gamta"
         },
         "lv": {
           "name": "STELMUŽES OZOLS",
           "description": "Stelmužes ozols – Lietuvas dabas piemineklis, viens no vecākajiem ozoliem Eiropā, bet Lietuvā – pats vecākais un resnākais koks. Tiek lēsts, ka tā vecums pārsniedz 1500 gadu. Ozols ir 23 m augsts, 3,5 m diametrā un 13 m apkārtmērā pie zemes (lai aptvertu stumbru, nepieciešami apmēram 13 vidējas miesasbūves cilvēki).",
-          "category": "Zarasai"
+          "category": "Gamta"
         },
         "en": {
           "name": "Stelmužė Oak",
           "description": "The Stelmužė Oak is a Lithuanian natural monument, one of the oldest oaks in Europe, and the oldest and thickest tree in Lithuania. Its age is estimated to be over 1,500 years. The oak is 23 m high, 3.5 m in diameter, and 13 m in girth at the ground (it takes about 13 average-sized people to hug the trunk).",
-          "category": "Zarasai"
+          "category": "Gamta"
         },
         "de": {
           "name": "STELMUŽĖ-EICHE",
           "description": "Die Stelmužė-Eiche ist ein litauisches Naturdenkmal, eine der ältesten Eichen Europas und der älteste und dickste Baum in Litauen. Ihr Alter wird auf über 1500 Jahre geschätzt. Die Eiche ist 23 m hoch, hat einen Durchmesser von 3,5 m und einen Umfang von 13 m in Bodennähe (etwa 13 durchschnittlich gebaute Menschen sind nötig, um den Stamm zu umfassen).",
-          "category": "Zarasai"
+          "category": "Gamta"
         },
         "pl": {
           "name": "DĄB STELMUŽĖ",
           "description": "Dąb w Stelmužė to pomnik przyrody Litwy, jeden z najstarszych dębów w Europie, a na Litwie najstarsze i najgrubsze drzewo. Szacuje się, że ma ponad 1500 lat. Dąb ma 23 m wysokości, 3,5 m średnicy i 13 m obwodu przy ziemi (aby objąć pień potrzeba około 13 osób o średniej budowie ciała).",
-          "category": "Zarasai"
+          "category": "Gamta"
         },
         "ru": {
           "name": "СТЕЛМУЖСКИЙ ДУБ",
           "description": "Стелмужский дуб – памятник природы Литвы, один из старейших дубов в Европе, а в Литве самое старое и толстое дерево. Считается, что его возраст превышает 1500 лет. Высота дуба составляет 23 м, диаметр 3,5 м, а обхват у земли 13 м (чтобы обхватить ствол, нужно около 13 человек среднего телосложения).",
-          "category": "Zarasai"
+          "category": "Gamta"
         }
       }
     },
@@ -847,32 +847,32 @@
         "lt": {
           "name": "STELMUŽĖS VIEŠPATIES JĖZAUS KRYŽIAUS FILIJINĖ BAŽNYČIA IR VARPINĖ",
           "description": "Bažnyčia pastatyta 1650 m. tuometinio dvaro valdytojo Folkerzambo. Ją suręsta naudojant tik kirvį, o durų lentų sutvirtinimui - kaltinius vinis. Bažnyčios interjeras įrengtas 1713 m. Jame išsiskiria medinis altorius  ir medžio drožyba dekoruota sakykla. Dekore daug augalinių, figūrinių motyvų, reljefų ir apvaliųjų skulptūrų. Vakarinėje šventoriaus dalyje yra darnių proporcijų varpinė, statyta XVII a. viduryje.",
-          "category": "Zarasai"
+          "category": "Stelmužė"
         },
         "lv": {
           "name": "STELMUŽES KUNGA JĒZUS KRUSTA FILIĀLES BAZNĪCA UN ZVANU TORNIS",
           "description": "Baznīcu 1650. gadā cēla toreizējais muižas pārvaldnieks Folkerzambs. Tā ir celta, izmantojot tikai cirvi, bet durvju dēļu stiprināšanai - kaltas naglas. Baznīcas interjers iekārtots 1713. gadā. Tajā izceļas koka altāris un ar kokgriezumiem dekorēta kancele. Dekorā ir daudz augu, figurālu motīvu, reljefu un apaļo skulptūru. Baznīcas pagalma rietumu daļā atrodas harmonisku proporciju zvanu tornis, celts 17. gs. vidū.",
-          "category": "Zarasai"
+          "category": "Stelmužė"
         },
         "en": {
           "name": "Stelmužė Church of the Cross of the Lord Jesus and Belfry",
           "description": "The church was built in 1650 by the then manor administrator Folkerzamb. It was constructed using only an axe, and forged nails were used to secure the door boards. The church interior was furnished in 1713. It stands out for its wooden altar and a pulpit decorated with wood carvings. The decor features many plant and figurative motifs, reliefs, and round sculptures. In the western part of the churchyard is a belfry of harmonious proportions, built in the mid-17th century.",
-          "category": "Zarasai"
+          "category": "Stelmužė"
         },
         "de": {
           "name": "STELMUŽĖ-KIRCHE DES KREUZES JESU UND GLOCKENTURM",
           "description": "Die Kirche wurde 1650 vom damaligen Gutsverwalter Folkerzamb erbaut. Sie wurde nur mit einer Axt errichtet, und für die Befestigung der Türbretter wurden geschmiedete Nägel verwendet. Das Innere der Kirche wurde 1713 fertiggestellt. Es zeichnet sich durch einen Holzaltar und eine mit Holzschnitzereien verzierte Kanzel aus. Das Dekor enthält viele florale, figürliche Motive, Reliefs und Rundskulpturen. Im westlichen Teil des Kirchhofs steht ein Glockenturm mit harmonischen Proportionen, der Mitte des 17. Jahrhunderts erbaut wurde.",
-          "category": "Zarasai"
+          "category": "Stelmužė"
         },
         "pl": {
           "name": "FILIALNY KOŚCIÓŁ PANA JEZUSA W STELMUŽĖ I DZWONNICA",
           "description": "Kościół został zbudowany w 1650 roku przez ówczesnego zarządcę majątku Folkerzamba. Został zbudowany przy użyciu tylko siekiery, a do mocowania desek drzwiowych użyto kutych gwoździ. Wnętrze kościoła urządzono w 1713 roku. Wyróżnia się w nim drewniany ołtarz i ambona ozdobiona rzeźbami w drewnie. W dekoracjach znajduje się wiele motywów roślinnych, figuralnych, płaskorzeźb i rzeźb okrągłych. W zachodniej części dziedzińca kościelnego znajduje się dzwonnica o harmonijnych proporcjach, zbudowana w połowie XVII w.",
-          "category": "Zarasai"
+          "category": "Stelmužė"
         },
         "ru": {
           "name": "СТЕЛМУЖСКИЙ КОСТЕЛ СВЯТОГО КРЕСТА ГОСПОДНЯ И КОЛОКОЛЬНЯ",
           "description": "Костел построен в 1650 году тогдашним управляющим поместьем Фолькерзамбом. Он срублен только с помощью топора, а для крепления дверных досок использовались кованые гвозди. Интерьер костела оборудован в 1713 году. В нем выделяется деревянный алтарь и кафедра, украшенная резьбой по дереву. В декоре много растительных, фигурных мотивов, рельефов и круглых скульптур. В западной части церковного двора находится колокольня гармоничных пропорций, построенная в середине XVII века.",
-          "category": "Zarasai"
+          "category": "Stelmužė"
         }
       }
     },
@@ -893,32 +893,32 @@
         "lt": {
           "name": "VERGŲ BOKŠTAS",
           "description": "Vergų bokštas - Stelmužės parke esantis nedidelis, aukštokas keturkampis pastatas storomis sienomis ir angomis viršutinėje dalyje, pastatytas iš netašytų lauko akmenų. Pasakojama, kad Vergų bokštas tarnavo kalėjimu. Bokšte caro dvariškiai Valujevai bausdavo prasikaltusius baudžiauninkus: juos uždarydavo nakčiai, o dieną vėl išvarydavo į darbą. Statinys yra restauruotas, įrašytas į XVII a. architektūros paminklų sąrašą.",
-          "category": "Turmantas-Smalvai"
+          "category": "Stelmužė"
         },
         "lv": {
           "name": "VERGU TORNIS",
           "description": "Vergu tornis - Stelmužes parkā esoša neliela, augstāka četrstūraina ēka ar biezām sienām un atverēm augšdaļā, celta no neapstrādātiem laukakmeņiem. Stāsta, ka Vergu tornis kalpoja kā cietums. Tornī cara galminieki Valujevi sodīja vainīgos dzimtcilvēkus: viņus aizslēdza uz nakti, bet pa dienu atkal dzina darbā. Ēka ir restaurēta, ierakstīta 17. gs. arhitektūras pieminekļu sarakstā.",
-          "category": "Turmantas-Smalvai"
+          "category": "Stelmužė"
         },
         "en": {
           "name": "Tower of Slaves",
           "description": "The Tower of Slaves is a small, rather tall, quadrangular building in Stelmužė Park with thick walls and openings in the upper part, built of rough fieldstones. It is said that the Tower of Slaves served as a prison. In the tower, the tsar's courtiers the Valuevs punished guilty serfs: they were locked up for the night and driven back to work during the day. The building has been restored and listed as a 17th-century architectural monument.",
-          "category": "Turmantas-Smalvai"
+          "category": "Stelmužė"
         },
         "de": {
           "name": "SKLAVENTURM",
           "description": "Der Sklaventurm ist ein kleines, recht hohes quadratisches Gebäude mit dicken Wänden und Öffnungen im oberen Teil im Stelmužė-Park, das aus unbehauenen Feldsteinen erbaut wurde. Es wird erzählt, dass der Sklaventurm als Gefängnis diente. Im Turm bestraften die zaristischen Höflinge Valuev schuldige Leibeigene: Sie wurden für die Nacht eingesperrt und tagsüber wieder zur Arbeit getrieben. Das Gebäude ist restauriert und in die Liste der Architekturdenkmäler des 17. Jahrhunderts aufgenommen.",
-          "category": "Turmantas-Smalvai"
+          "category": "Stelmužė"
         },
         "pl": {
           "name": "WIEŻA NIEWOLNIKÓW",
           "description": "Wieża Niewolników – to znajdujący się w parku w Stelmužė niewielki, dość wysoki, czworokątny budynek z grubymi ścianami i otworami w górnej części, zbudowany z nieciosanych kamieni polnych. Mówi się, że Wieża Niewolników służyła jako więzienie. W wieży dworzanie cara Wałujewowie karali winnych chłopów pańszczyźnianych: zamykali ich na noc, a w dzień znowu pędzili do pracy. Budowla jest odrestaurowana i wpisana na listę zabytków architektury XVII wieku.",
-          "category": "Turmantas-Smalvai"
+          "category": "Stelmužė"
         },
         "ru": {
           "name": "БАШНЯ РАБОВ",
           "description": "Башня рабов - небольшое, довольно высокое четырехугольное здание в Стелмужском парке с толстыми стенами и отверстиями в верхней части, построенное из неотесанных полевых камней. Говорят, что Башня рабов служила тюрьмой. В башне царские придворные Валуевы наказывали провинившихся крепостных крестьян: их запирали на ночь, а днем снова выгоняли на работу. Здание отреставрировано, внесено в список памятников архитектуры XVII века.",
-          "category": "Turmantas-Smalvai"
+          "category": "Stelmužė"
         }
       }
     },
@@ -939,32 +939,32 @@
         "lt": {
           "name": "IMBRADO NUKRYŽIUOTOJO JĖZAUS BAŽNYČIA",
           "description": "Bažnyčia medinė, turi liaudies architektūros bruožų,  ilgo stačiakampio plano, vienanavė su 3 altoriais. Bažnyčia statyta 1786 – 1787 m. Pranciškaus Molio lėšomis, o 1891 m. brolių Jono ir Pranciškaus Prūsokų lėšomis išdekoruota ir atnaujinta. Šventoriaus tvora akmenų mūro, jame yra medinė varpinė.",
-          "category": "Turmantas-Smalvai"
+          "category": "Zarasai"
         },
         "lv": {
           "name": "IMBRADA KRUSTĀ SISTĀ JĒZUS BAZNĪCA",
           "description": "Koka baznīca, tai ir tautas arhitektūras iezīmes, gara taisnstūra plāna, viennavas ar 3 altāriem. Baznīca celta 1786. – 1787. gadā par Franča Moļa līdzekļiem, bet 1891. gadā par brāļu Jāņa un Franča Prūsoku līdzekļiem dekorēta un atjaunota. Baznīcas pagalma žogs ir no akmens mūra, tajā atrodas koka zvanu tornis.",
-          "category": "Turmantas-Smalvai"
+          "category": "Zarasai"
         },
         "en": {
           "name": "Imbradas Church of Jesus Crucified",
           "description": "The church is wooden, has features of folk architecture, a long rectangular plan, a single nave with 3 altars. The church was built in 1786-1787 with the funds of Pranciškus Molis, and in 1891 it was decorated and renovated with the funds of brothers Jonas and Pranciškus Prūsokas. The churchyard fence is made of stone masonry, and inside is a wooden belfry.",
-          "category": "Turmantas-Smalvai"
+          "category": "Zarasai"
         },
         "de": {
           "name": "KIRCHE DES GEKREUZIGTEN JESUS IN IMBRADAS",
           "description": "Die Kirche ist aus Holz, hat Merkmale der Volksarchitektur, einen langen rechteckigen Grundriss, ein einziges Kirchenschiff mit 3 Altären. Die Kirche wurde 1786–1787 auf Kosten von Pranciškus Molis erbaut und 1891 auf Kosten der Brüder Jonas und Pranciškus Prūsokas dekoriert und renoviert. Der Zaun des Kirchhofs ist aus Steinmauerwerk und beherbergt einen hölzernen Glockenturm.",
-          "category": "Turmantas-Smalvai"
+          "category": "Zarasai"
         },
         "pl": {
           "name": "KOŚCIÓŁ JEZUSA UKRZYŻOWANEGO W IMBRADAS",
           "description": "Kościół jest drewniany, posiada cechy architektury ludowej, jest zbudowany na planie długiego prostokąta, jednonawowy z 3 ołtarzami. Kościół został zbudowany w latach 1786–1787 ze środków Pranciškusa Molisa, a w 1891 roku został udekorowany i odnowiony za pieniądze braci Jonasa i Pranciškusa Prūsokasów. Ogrodzenie dziedzińca kościelnego jest z kamienia polnego, znajduje się w nim drewniana dzwonnica.",
-          "category": "Turmantas-Smalvai"
+          "category": "Zarasai"
         },
         "ru": {
           "name": "ИМБРАДСКИЙ КОСТЕЛ РАСПЯТОГО ИИСУСА",
           "description": "Костел деревянный, имеет черты народной архитектуры, длинный прямоугольный план, однонефный с 3 алтарями. Костел построен в 1786–1787 гг. на средства Франциска Молиса, а в 1891 г. на средства братьев Йонаса и Франциска Прусокасов декорирован и обновлен. Ограда церковного двора каменная, в ней находится деревянная колокольня.",
-          "category": "Turmantas-Smalvai"
+          "category": "Zarasai"
         }
       }
     },
@@ -983,32 +983,32 @@
         "lt": {
           "name": "ŠVČ. MERGELĖS MARIJOS APSIREIŠKIMO VIETA PRIE ILGIO EŽERO",
           "description": "Pasakojama, kad stebuklingas apsireiškimas prie Ilgio ežero įvyko 1967 metais vėlų birželio 30 dienos vakarą. Du jauni žmonės ant Ilgio ežero pamatė ryškią šviesą. Priartėję arčiau ežero, ant sutrūnijusio polio pamatė stovinčią ir  švytinčią mergaitę balta pelerina ir auksiniais plaukais. Įprasminant šio piligriminio traukos centro svarbą, 2014 metų vasarą buvo pašventinta ir ant Ilgio ežero kranto pastatyta modernios architektūros koplyčia.",
-          "category": "Turmantas-Smalvai"
+          "category": "Gamta"
         },
         "lv": {
           "name": "VS. JAUNAVAS MARIJAS PARĀDĪŠANĀS VIETA PIE ILĢA EZERA",
           "description": "Stāsta, ka brīnumainā parādīšanās pie Ilģa ezera notika 1967. gada 30. jūnija vēlā vakarā. Divi jauni cilvēki virs Ilģa ezera ieraudzīja spilgtu gaismu. Piejot tuvāk ezeram, uz satrupējuša pāļa ieraudzīja stāvošu un mirdzošu meiteni baltā pelerīnā un ar zelta matiem. Lai iemūžinātu šī svētceļojumu centra nozīmību, 2014. gada vasarā tika iesvētīta un uz Ilģa ezera krasta uzcelta modernas arhitektūras kapele.",
-          "category": "Turmantas-Smalvai"
+          "category": "Gamta"
         },
         "en": {
           "name": "Place of the Apparition of the Blessed Virgin Mary by Lake Ilgis",
           "description": "It is said that a miraculous apparition occurred by Lake Ilgis late in the evening of June 30, 1967. Two young people saw a bright light on Lake Ilgis. Upon coming closer to the lake, they saw a shining girl in a white cape with golden hair standing on a rotten pile. To give meaning to the importance of this pilgrimage center, a modern architecture chapel was consecrated and built on the shore of Lake Ilgis in the summer of 2014.",
-          "category": "Turmantas-Smalvai"
+          "category": "Gamta"
         },
         "de": {
           "name": "ORT DER ERSCHEINUNG DER JUNGFRAU MARIA AM ILGIS-SEE",
           "description": "Es wird erzählt, dass die wundersame Erscheinung am Ilgis-See spät am Abend des 30. Juni 1967 stattfand. Zwei junge Leute sahen ein helles Licht über dem Ilgis-See. Als sie näher an den See herankamen, sahen sie ein stehendes und leuchtendes Mädchen in einem weißen Umhang und mit goldenen Haaren auf einem morschen Pfahl. Um die Bedeutung dieses Pilgerzentrums zu würdigen, wurde im Sommer 2014 eine Kapelle mit moderner Architektur am Ufer des Ilgis-Sees geweiht und erbaut.",
-          "category": "Turmantas-Smalvai"
+          "category": "Gamta"
         },
         "pl": {
           "name": "MIEJSCE OBJAWIENIA NAJŚWIĘTSZEJ MARYI PANNY NAD JEZIOREM ILGIS",
           "description": "Mówi się, że cudowne objawienie nad jeziorem Ilgis miało miejsce późnym wieczorem 30 czerwca 1967 roku. Dwoje młodych ludzi zobaczyło nad jeziorem Ilgis jasne światło. Zbliżając się do jeziora, zobaczyli na spróchniałym palu stojącą i świetlistą dziewczynę w białej pelerynie i o złotych włosach. Aby nadać znaczenie temu ośrodkowi pielgrzymkowemu, latem 2014 roku poświęcono i zbudowano kaplicę o nowoczesnej architekturze na brzegu jeziora Ilgis.",
-          "category": "Turmantas-Smalvai"
+          "category": "Gamta"
         },
         "ru": {
           "name": "МЕСТО ЯВЛЕНИЯ ПРЕСВЯТОЙ ДЕВЫ МАРИИ У ОЗЕРА ИЛГИС",
           "description": "Говорят, что чудесное явление у озера Илгис произошло поздним вечером 30 июня 1967 года. Двое молодых людей увидели над озером Илгис яркий свет. Подойдя ближе к озеру, они увидели на сгнившей свае стоящую и светящуюся девушку в белой пелерине и с золотыми волосами. Чтобы придать значение этому центру паломничества, летом 2014 года на берегу озера Илгис была освящена и построена часовня современной архитектуры.",
-          "category": "Turmantas-Smalvai"
+          "category": "Gamta"
         }
       }
     },
@@ -1025,34 +1025,34 @@
       },
       "i18n": {
         "lt": {
-          "name": "Kvintiškių Švč. Mergelės Marijos Apsireiškimo koplyčia",
+          "name": "Kvintiškių Švč. Mergelės Marijos Apsireiškimo koplyčia",
           "description": "Įprasminant šio piligriminio traukos centro svarbą čia buvo pastatyta koplyčia. 2014 m. vasarą vyskupas emeritas Jonas Kauneckas pašventino Kvintiškių Švč. Mergelės Marijos Apsireiškimo koplyčią. Koplyčia išsiskiria savo forma – ji primena popiežiaus mitrą.",
-          "category": "Turmantas-Smalvai"
+          "category": "Zarasai"
         },
         "lv": {
           "name": "Kvincišķu Vissv. Jaunavas Marijas parādīšanās kapele",
           "description": "Lai iemūžinātu šī svētceļojumu centra nozīmību, šeit tika uzcelta kapele. 2014. gada vasarā bīskaps emerits Jons Kaunecks iesvētīja Kvincišķu Vissv. Jaunavas Marijas parādīšanās kapeli. Kapele izceļas ar savu formu – tā atgādina pāvesta mitru.",
-          "category": "Turmantas-Smalvai"
+          "category": "Zarasai"
         },
         "en": {
           "name": "Kvintiškės Chapel of the Apparition of the Blessed Virgin Mary",
           "description": "To signify the importance of this pilgrimage attraction center, a chapel was built here. In the summer of 2014, Bishop Emeritus Jonas Kauneckas consecrated the Kvintiškės Chapel of the Apparition of the Blessed Virgin Mary. The chapel stands out for its shape – it resembles the pope's miter.",
-          "category": "Turmantas-Smalvai"
+          "category": "Zarasai"
         },
         "de": {
           "name": "Kapelle der Erscheinung der Jungfrau Maria in Kvintiškės",
           "description": "Um die Bedeutung dieses Pilgerzentrums zu würdigen, wurde hier eine Kapelle errichtet. Im Sommer 2014 weihte der emeritierte Bischof Jonas Kauneckas die Kapelle der Erscheinung der Jungfrau Maria in Kvintiškės. Die Kapelle zeichnet sich durch ihre Form aus – sie erinnert an eine päpstliche Mitra.",
-          "category": "Turmantas-Smalvai"
+          "category": "Zarasai"
         },
         "pl": {
           "name": "Kaplica Objawienia Najświętszej Maryi Panny w Kvintiškės",
           "description": "Aby nadać znaczenie temu ośrodkowi pielgrzymkowemu, zbudowano tu kaplicę. Latem 2014 roku biskup senior Jonas Kauneckas poświęcił kaplicę Objawienia Najświętszej Maryi Panny w Kvintiškės. Kaplica wyróżnia się swoim kształtem – przypomina mitrę papieską.",
-          "category": "Turmantas-Smalvai"
+          "category": "Zarasai"
         },
         "ru": {
           "name": "Часовня Явления Пресвятой Девы Марии в Квинтишкес",
           "description": "Чтобы придать значение этому центру паломничества, здесь была построена часовня. Летом 2014 года епископ-эмерит Йонас Каунецкас освятил часовню Явления Пресвятой Девы Марии в Квинтишкес. Часовня выделяется своей формой – она напоминает папскую митру.",
-          "category": "Turmantas-Smalvai"
+          "category": "Zarasai"
         }
       }
     },
@@ -1071,32 +1071,32 @@
         "lt": {
           "name": "LYGUMŲ AKMUO",
           "description": "1,2 km. nuo Stelmužės ąžuolo, miške slepiasi Lygumų akmuo. Jo ilgis – 18 m. ir yra manoma, kad dydžiu jis gali lenkti net Puntuką, nes didžioji jo dalis yra po žeme. Akmuo kol kas nėra atidžiau tyrinėtas. Akmens paviršius labai platus, o pats jis sulindęs į žemę.  Lygumų akmuo turi ir savo legendą. Pasak jos, Velnias Milžinas  paleidęs akmenį į žemę, jai sudrebėjus atsirado kalnai ir daubos, o pats akmuo beveik visas įsmigo į žemę.",
-          "category": "Stelmužė"
+          "category": "Gamta"
         },
         "lv": {
           "name": "LĪDZENUMU AKMENS",
           "description": "1,2 km attālumā no Stelmužes ozola, mežā slēpjas Līdzenumu akmens. Tā garums ir 18 m un tiek uzskatīts, ka pēc lieluma tas varētu pārsniegt pat Puntuku, jo lielākā tā daļa atrodas zem zemes. Akmens pagaidām nav rūpīgāk pētīts. Akmens virsma ir ļoti plaša, bet pats tas iegrimis zemē. Līdzenumu akmenim ir arī sava leģenda. Saskaņā ar to, Velns Milzis nometis akmeni zemē, tai satrīcot, radušies kalni un ielejas, bet pats akmens gandrīz viss iestrēdzis zemē.",
-          "category": "Stelmužė"
+          "category": "Gamta"
         },
         "en": {
           "name": "Lygumai Stone",
           "description": "1.2 km from the Stelmužė Oak, the Lygumai stone hides in the forest. Its length is 18 m, and it is believed that its size may even surpass the Puntukas stone, as most of it is underground. The stone has not yet been carefully explored. The stone's surface is very wide, and it is sunken into the ground. The Lygumai stone also has its own legend. According to it, the Devil Giant threw the stone to the earth; when it trembled, mountains and hollows appeared, and the stone itself plunged almost entirely into the ground.",
-          "category": "Stelmužė"
+          "category": "Gamta"
         },
         "de": {
           "name": "LYGUMAI-STEIN",
           "description": "1,2 km von der Stelmužė-Eiche entfernt verbirgt sich im Wald der Lygumai-Stein. Seine Länge beträgt 18 m und man geht davon aus, dass er an Größe sogar den Puntukas-Stein übertreffen könnte, da sich der größte Teil unter der Erde befindet. Der Stein wurde bisher nicht genauer untersucht. Die Oberfläche des Steins ist sehr breit und er ist in den Boden gesunken. Der Lygumai-Stein hat auch seine eigene Legende. Dieser zufolge warf der Teufelsriese den Stein auf die Erde; als sie bebte, entstanden Berge und Täler, und der Stein versank fast vollständig in der Erde.",
-          "category": "Stelmužė"
+          "category": "Gamta"
         },
         "pl": {
           "name": "KAMIEŃ LYGUMAI",
           "description": "1,2 km od dębu w Stelmužė, w lesie kryje się Kamień Lygumai. Jego długość wynosi 18 m i uważa się, że wielkością może nawet przewyższać kamień Puntukas, ponieważ jego większa część znajduje się pod ziemią. Kamień nie został jeszcze dokładnie zbadany. Powierzchnia kamienia jest bardzo szeroka, a sam kamień jest zagłębiony w ziemię. Kamień Lygumai ma też swoją legendę. Według niej, Diabeł Olbrzym rzucił kamieniem w ziemię, ziemia zadrżała i powstały góry i doliny, a sam kamień prawie cały wbił się w ziemię.",
-          "category": "Stelmužė"
+          "category": "Gamta"
         },
         "ru": {
           "name": "КАМЕНЬ ЛИГУМУ",
           "description": "В 1,2 км от Стелмужского дуба в лесу прячется камень Лигуму. Его длина – 18 м, и считается, что по размеру он может превзойти даже Пунтукас, поскольку его большая часть находится под землей. Камень пока детально не исследовался. Поверхность камня очень широкая, а сам он ушел в землю. У камня Лигуму есть и своя легенда. Согласно ей, Черт-Великан бросил камень на землю, от сотрясения появились горы и впадины, а сам камень почти полностью вонзился в землю.",
-          "category": "Stelmužė"
+          "category": "Gamta"
         }
       }
     },
@@ -1164,32 +1164,32 @@
         "lt": {
           "name": "ANTAZAVĖS DVARAS IR TRADICINIŲ AMATŲ CENTRAS",
           "description": "Antazavėje, ant šiaurinio Zalvės ežero kranto stovi neoklasicistinio stiliaus dvaro rūmai, kadaise priklausę garsiajai Pliaterių giminei. Mūrinis dvaro pastatas iškilo XVIII a. pabaigoje grafienės Kunigundos Pliaterienės užsakymu pagal architekto Antano Naglovskio projektą. Būtent Antazavės dvare Emilija Pliaterytė 1931 m. pasirašė pareiškimą, kuriame pranešė apie savo sprendimą prisidėti prie sukilėlių.",
-          "category": "Stelmužė"
+          "category": "Antazavė"
         },
         "lv": {
           "name": "ANTAZAVES MUIŽA UN TRADICIONĀLO AMATU CENTRS",
           "description": "Antazavē, Zalves ezera ziemeļu krastā, atrodas neoklasicisma stila muižas pils, kas kādreiz piederēja slavenajai Pļāteru ģimenei. Mūra muižas ēka celta 18. gs. beigās pēc grāfienes Kunigundas Pļāteres pasūtījuma saskaņā ar arhitekta Antana Naglovska projektu. Tieši Antazaves muižā Emīlija Pļātere 1931. gadā parakstīja paziņojumu, kurā informēja par savu lēmumu pievienoties nemierniekiem.",
-          "category": "Stelmužė"
+          "category": "Antazavė"
         },
         "en": {
           "name": "Antazavė Manor and Traditional Crafts Center",
           "description": "In Antazavė, on the northern shore of Lake Zalvė, stands a neo-classical manor palace, which once belonged to the famous Plater family. The brick manor building was erected at the end of the 18th century commissioned by Countess Kunigunda Platerienė according to the project of architect Antanas Naglovskis. It was in the Antazavė manor that Emilija Pliaterytė signed a statement in 1931 announcing her decision to join the rebels.",
-          "category": "Stelmužė"
+          "category": "Antazavė"
         },
         "de": {
           "name": "GUT ANTAZAVĖ UND ZENTRUM FÜR TRADITIONELLE HANDWERKE",
           "description": "In Antazavė, am Nordufer des Zalvė-Sees, steht ein Herrenhaus im neoklassizistischen Stil, das einst der berühmten Familie Plater gehörte. Das gemauerte Gutsgebäude wurde Ende des 18. Jahrhunderts im Auftrag der Gräfin Kunigunda Platerienė nach dem Entwurf des Architekten Antanas Naglovskis erbaut. Genau im Gut Antazavė unterzeichnete Emilija Pliaterytė 1931 eine Erklärung, in der sie ihre Entscheidung bekannt gab, sich den Aufständischen anzuschließen.",
-          "category": "Stelmužė"
+          "category": "Antazavė"
         },
         "pl": {
           "name": "DWÓR ANTAZAVĖ I CENTRUM TRADYCYJNEGO RZEMIOSŁA",
           "description": "W Antazavė, na północnym brzegu jeziora Zalvė, wznosi się pałac dworski w stylu neoklasycystycznym, należący niegdyś do słynnego rodu Platerów. Murowany budynek dworski został zbudowany pod koniec XVIII wieku na zamówienie hrabiny Kunegundy Plater według projektu architekta Antanasa Naglovskisa. To właśnie w dworze w Antazavė Emilija Pliaterytė (Emilia Plater) w 1831 r. podpisała oświadczenie, w którym ogłosiła decyzję o przyłączeniu się do powstańców.",
-          "category": "Stelmužė"
+          "category": "Antazavė"
         },
         "ru": {
           "name": "ПОМЕСТЬЕ АНТАЗАВЕ И ЦЕНТР ТРАДИЦИОННЫХ РЕМЕСЕЛ",
           "description": "В Антазаве, на северном берегу озера Залве, стоит усадьба в неоклассическом стиле, когда-то принадлежавшая знаменитому роду Плятеров. Каменное здание поместья было построено в конце XVIII века по заказу графини Кунегунды Плятер по проекту архитектора Антанаса Нагловскиса. Именно в поместье Антазаве Эмилия Плятер в 1831 году подписала заявление, в котором сообщила о своем решении присоединиться к повстанцам.",
-          "category": "Stelmužė"
+          "category": "Antazavė"
         }
       }
     },
@@ -1210,32 +1210,32 @@
         "lt": {
           "name": "ANTAZAVĖS DIEVO APVAIZDOS BAŽNYČIA IR VARPINĖ",
           "description": "Antazavės centre 1794 metais pastatyta medinė, barokinio stiliaus, kryžminė, stačiakampio plano,  apie 24 m. aukščio trinavė Dievo Apvaizdos bažnyčia. Pastogės ir bokštų konstrukcijos, net ir kerčių sukirtimai, atlikti tik kirviu. Didysis bažnyčios altorius yra vėlyvojo baroko pavyzdys. Vargonų choras paremtas dviem apvaliomis kolonomis, jo plane – išlenktas baliustradas. Greičiausiai tuo metu pastatyta mūrinė varpinė.",
-          "category": "Stelmužė"
+          "category": "Antazavė"
         },
         "lv": {
           "name": "ANTAZAVES DIEVA APGĀDĪBAS BAZNĪCA UN ZVANU TORNIS",
           "description": "Antazaves centrā 1794. gadā celta koka, baroka stila, krustveida, taisnstūra plāna, ap 24 m augsta trīsjomu Dieva Apgādības baznīca. Pajumtes un torņu konstrukcijas, pat stūru savienojumi, veikti tikai ar cirvi. Lielais baznīcas altāris ir vēlīnā baroka paraugs. Ērģeļu koris balstās uz divām apaļām kolonnām, tā plānā - izliekta balustrāde. Visdrīzāk tajā pašā laikā celta mūra zvanu tornis.",
-          "category": "Stelmužė"
+          "category": "Antazavė"
         },
         "en": {
           "name": "Antazavė Church of Divine Providence and Belfry",
           "description": "A wooden, baroque-style, cross-shaped, rectangular-plan, approximately 24 m high three-nave Church of Divine Providence was built in the center of Antazavė in 1794. The attic and tower structures, even the corner joints, were made only with an axe. The main altar of the church is an example of the late Baroque. The organ choir is supported by two round columns, its plan features a curved balustrade. The brick belfry was likely built at the same time.",
-          "category": "Stelmužė"
+          "category": "Antazavė"
         },
         "de": {
           "name": "KIRCHE DER GÖTTLICHEN VORSEHUNG UND GLOCKENTURM IN ANTAZAVĖ",
           "description": "Im Zentrum von Antazavė wurde 1794 eine hölzerne, kreuzförmige, rechteckige, etwa 24 m hohe dreischiffige Kirche der Göttlichen Vorsehung im Barockstil erbaut. Die Konstruktionen des Dachbodens und der Türme, sogar die Eckverbindungen, wurden nur mit einer Axt gefertigt. Der große Altar der Kirche ist ein Beispiel für den Spätbarock. Der Orgelchor wird von zwei runden Säulen getragen, in seinem Grundriss eine geschwungene Balustrade. Wahrscheinlich wurde zu dieser Zeit auch der steinerne Glockenturm erbaut.",
-          "category": "Stelmužė"
+          "category": "Antazavė"
         },
         "pl": {
           "name": "KOŚCIÓŁ OPATRZNOŚCI BOŻEJ I DZWONNICA W ANTAZAVĖ",
           "description": "W centrum Antazavė w 1794 roku zbudowano drewniany, w stylu barokowym, trójnawowy kościół Opatrzności Bożej na planie krzyża, prostokąta, o wysokości ok. 24 m. Konstrukcje poddasza i wież, a nawet łączenia na rogach, zostały wykonane wyłącznie za pomocą siekiery. Główny ołtarz kościoła jest przykładem późnego baroku. Chór organowy oparty jest na dwóch okrągłych kolumnach, w planie ma wygiętą balustradę. Prawdopodobnie w tym samym czasie wzniesiono murowaną dzwonnicę.",
-          "category": "Stelmužė"
+          "category": "Antazavė"
         },
         "ru": {
           "name": "АНТАЗАВСКИЙ КОСТЕЛ БОЖЕСТВЕННОГО ПРОВИДЕНИЯ И КОЛОКОЛЬНЯ",
           "description": "В центре Антазаве в 1794 году построен деревянный, в стиле барокко, крестообразный, прямоугольный в плане, трехнефный костел Божественного Провидения высотой около 24 м. Конструкции чердака и башен, даже угловые соединения, выполнены только топором. Главный алтарь костела является примером позднего барокко. Органный хор опирается на две круглые колонны, в его плане – изогнутая балюстрада. Скорее всего, в то же время была построена каменная колокольня.",
-          "category": "Stelmužė"
+          "category": "Antazavė"
         }
       }
     },
@@ -1254,32 +1254,32 @@
         "lt": {
           "name": "PAKAČINĖS (DEMBŲ) PILIAKALNIS",
           "description": "Pakačinės piliakalnis, dar žinomas ir Dembų vardu, yra Antazavės šile. Tyrinėjimų metu aptiktame 1,5 m storio kultūriniame sluoksnyje rasta akmuo su skyle kotui ir įtveriamas kirvis, kauliniai dirbiniai, geležies šlako, lipdytinės brūkšniuotosios, lygiosios, grublėtos keramikos fragmentų.",
-          "category": "Stelmužė"
+          "category": "Gamta"
         },
         "lv": {
           "name": "PAKAČINES (DEMBU) PILSKALNS",
           "description": "Pakačines pilskalns, zināms arī ar Dembu vārdu, atrodas Antazaves silā. Izpētes laikā atklātajā 1,5 m biezajā kultūrslānī atrasts akmens ar caurumu kātam un ietverams cirvis, kaula izstrādājumi, dzelzs sārņi, veidotas svītrainās, gludās, raupjās keramikas fragmenti.",
-          "category": "Stelmužė"
+          "category": "Gamta"
         },
         "en": {
           "name": "Pakačinė (Dembai) Mound",
           "description": "The Pakačinė mound, also known as Dembai, is located in the Antazavė pinewood. During excavations in the 1.5 m thick cultural layer, a stone with a hole for a handle and an attachable axe, bone items, iron slag, and fragments of hand-built brushed, smooth, and rough ceramics were found.",
-          "category": "Stelmužė"
+          "category": "Gamta"
         },
         "de": {
           "name": "HÜGELGRAB PAKAČINĖ (DEMBAI)",
           "description": "Das Hügelgrab Pakačinė, auch bekannt unter dem Namen Dembai, befindet sich im Wald von Antazavė. In der während der Ausgrabungen entdeckten 1,5 m dicken Kulturschicht wurden ein Stein mit einem Loch für einen Griff und eine Axtklinge, Knochenartefakte, Eisenschlacke sowie Fragmente von handgeformter gestreifter, glatter und rauer Keramik gefunden.",
-          "category": "Stelmužė"
+          "category": "Gamta"
         },
         "pl": {
           "name": "GRODZISKO W PAKAČINĖ (DEMBAI)",
           "description": "Grodzisko w Pakačinė, znane również pod nazwą Dembai, znajduje się w lesie Antazavė. Podczas badań w warstwie kulturowej o grubości 1,5 m znaleziono kamień z otworem na trzonek i wkładany topór, wyroby z kości, żużel żelazny, fragmenty lepionej, kreskowanej, gładkiej, chropowatej ceramiki.",
-          "category": "Stelmužė"
+          "category": "Gamta"
         },
         "ru": {
           "name": "КУРГАН ПАКАЧИНЕС (ДЕМБУ)",
           "description": "Курган Пакачинес, также известный под названием Дембу, находится в бору Антазаве. Во время исследований в обнаруженном культурном слое толщиной 1,5 м найдены камень с отверстием для рукоятки и втульчатый топор, костяные изделия, железный шлак, фрагменты лепной штрихованной, гладкой, шероховатой керамики.",
-          "category": "Stelmužė"
+          "category": "Gamta"
         }
       }
     },
@@ -2283,32 +2283,32 @@
         "lt": {
           "name": "ANTALIEPTĖS KABANTIS TILTAS",
           "description": "Pėsčiųjų tiltas per Šventąją Antalieptėje  įrengtas 1986 m. Jis medinis, pakabinamas ant metalinių lynų, o jį laiko dvi poros betoninių stovų su atramomis ir atotampomis.  Tiltas ypač įdomus vaikams ir jų vadinamas „beždžionių tiltu“. 1999 m. tiltas įrašytas į istorijos ir technikos paveldo objektų sąrašą.",
-          "category": "Edukacinės programos"
+          "category": "Antalieptė"
         },
         "lv": {
           "name": "ANTALIEPTES IEKARAMAIS TILTS",
           "description": "Gājēju tilts pār Sventāju Antalieptē ierīkots 1986. gadā. Tas ir koka, iekārts uz metāla trosēm, bet to tur divi pāri betona balstu ar atbalstiem un atsaitēm. Tilts ir īpaši interesants bērniem un viņi to sauc par „pērtiķu tiltu“. 1999. gadā tilts iekļauts vēstures un tehnikas mantojuma objektu sarakstā.",
-          "category": "Edukacinės programos"
+          "category": "Antalieptė"
         },
         "en": {
           "name": "Antalieptė Hanging Bridge",
           "description": "The pedestrian bridge over the Šventoji River in Antalieptė was installed in 1986. It is wooden, suspended on metal cables, and supported by two pairs of concrete pillars with supports and guy-wires. The bridge is especially interesting to children and is called the \"monkey bridge\" by them. In 1999, the bridge was included in the list of historical and technical heritage objects.",
-          "category": "Edukacinės programos"
+          "category": "Antalieptė"
         },
         "de": {
           "name": "HÄNGEBRÜCKE ANTALIEPTĖ",
           "description": "Die Fußgängerbrücke über die Šventoji in Antalieptė wurde 1986 installiert. Sie ist aus Holz, an Metallseilen aufgehängt und wird von zwei Paar Betonpfeilern mit Stützen und Abspannungen gehalten. Die Brücke ist besonders für Kinder interessant und wird von ihnen „Affenbrücke“ genannt. 1999 wurde die Brücke in die Liste der historischen und technischen Kulturerbeobjekte aufgenommen.",
-          "category": "Edukacinės programos"
+          "category": "Antalieptė"
         },
         "pl": {
           "name": "MOST WISZĄCY W ANTALIEPTĖ",
           "description": "Kładka dla pieszych nad rzeką Šventoji w Antalieptė została zbudowana w 1986 roku. Jest drewniana, zawieszona na stalowych linach, podtrzymywana przez dwie pary betonowych pylonów z podporami i odciągami. Most jest szczególnie atrakcyjny dla dzieci, które nazywają go „mostem małpim”. W 1999 r. most został wpisany na listę obiektów dziedzictwa historycznego i technicznego.",
-          "category": "Edukacinės programos"
+          "category": "Antalieptė"
         },
         "ru": {
           "name": "ВИСЯЧИЙ МОСТ В АНТАЛЕПТЕ",
           "description": "Пешеходный мост через Швянтойи в Анталепте оборудован в 1986 г. Он деревянный, подвесной на металлических тросах, его поддерживают две пары бетонных опор с распорками и оттяжками. Мост особенно интересен детям и называется ими «обезьяньим мостом». В 1999 г. мост внесен в список объектов исторического и технического наследия.",
-          "category": "Edukacinės programos"
+          "category": "Antalieptė"
         }
       }
     },
@@ -2379,32 +2379,32 @@
         "lt": {
           "name": "ŠALTINIS „ŠVEICARKA“",
           "description": "Šaltinis yra priskirtas prie šalies hidrogeologinių objektų. Jis ypatingas tuo, kad sudaro „gyvo“ šaltinio įspūdį, nes vanduo jame, regis, kunkuliuoja. Ši vieta vietiniu vadinama Šveicarka ir sako, kad joje esantys šaltiniai − nepaprasti ir turi gydomųjų savybių. Žmonės tiki, kad nusiprausus šaltinio vandeniu pagyjama nuo sąnarių skausmo, akių ligų.  Šaltinis atsiveria kairiajame Šventosios krante, apie 40 m nuo upės, 2 m žemiau antrosios terasos. 1,5 metrų skersmens plote muša 2 stiprios versmės ir 1 silpnesnė versmė. Vanduo siauru, 20-40 cm pločio upeliu teka ir išsilieja šlapioje Šventosios pakrantės pievoje.",
-          "category": "Edukacinės programos"
+          "category": "Gamta"
         },
         "lv": {
           "name": "AVOTS „ŠVEICARKA”",
           "description": "Avots ir pieskaitāms pie valsts hidroģeoloģiskajiem objektiem. Tas ir īpašs ar to, ka rada „dzīva“ avota iespaidu, jo ūdens tajā šķietami virst. Šī vieta vietējo vidū saukta par Šveicarku, un stāsta, ka tajā esošie avoti ir neparasti un tiem ir ārstnieciskas īpašības. Cilvēki tic, ka nomazgājoties ar avota ūdeni, izārstējas no locītavu sāpēm, acu slimībām. Avots atveras Sventājas kreisajā krastā, apmēram 40 m no upes, 2 m zemāk par otro terasi. 1,5 metru diametra platībā iztek 2 stipri avoti un 1 vājāks avots. Ūdens pa šauru, 20-40 cm platu strautu plūst un izplūst slapjā Sventājas krasta pļavā.",
-          "category": "Edukacinės programos"
+          "category": "Gamta"
         },
         "en": {
           "name": "Spring \"Šveicarka\"",
           "description": "The spring is classified as a national hydrogeological object. It is special in that it creates the impression of a \"live\" spring because the water in it seems to bubble. This place is called Šveicarka by locals, and they say the springs there are extraordinary and have healing properties. People believe that washing with the spring water cures joint pain and eye diseases. The spring opens on the left bank of the Šventoji River, about 40 m from the river, 2 m below the second terrace. In an area of 1.5 meters in diameter, 2 strong and 1 weaker spring gush. The water flows in a narrow, 20-40 cm wide stream and spills into the wet meadow of the Šventoji river bank.",
-          "category": "Edukacinės programos"
+          "category": "Gamta"
         },
         "de": {
           "name": "QUELLE „ŠVEICARKA“",
           "description": "Die Quelle gehört zu den hydrogeologischen Objekten des Landes. Sie ist insofern besonders, als sie den Eindruck einer „lebendigen“ Quelle erweckt, da das Wasser darin zu sprudeln scheint. Dieser Ort wird von den Einheimischen Šveicarka genannt, und sie sagen, dass die Quellen dort außergewöhnlich sind und heilende Eigenschaften haben. Die Menschen glauben, dass das Waschen mit dem Quellwasser Gelenkschmerzen und Augenkrankheiten heilt. Die Quelle entspringt am linken Ufer der Šventoji, etwa 40 m vom Fluss entfernt, 2 m unterhalb der zweiten Terrasse. Auf einer Fläche von 1,5 Metern Durchmesser sprudeln 2 starke und 1 schwächere Quelle. Das Wasser fließt in einem schmalen, 20-40 cm breiten Bach und ergießt sich in die feuchte Uferwiese der Šventoji.",
-          "category": "Edukacinės programos"
+          "category": "Gamta"
         },
         "pl": {
           "name": "ŹRÓDŁO „ŠVEICARKA”",
           "description": "Źródło to jest klasyfikowane jako narodowy obiekt hydrogeologiczny. Jego wyjątkowość polega na tym, że sprawia wrażenie „żywego” źródła, ponieważ woda zdaje się w nim bulgotać. To miejsce przez lokalnych mieszkańców nazywane jest „Šveicarka” i mówi się, że tamtejsze źródła są niezwykłe i mają właściwości lecznicze. Ludzie wierzą, że mycie twarzy lub rąk w jego wodzie leczy ból stawów i choroby oczu. Źródło znajduje się na lewym brzegu rzeki Šventoji, około 40 metrów od rzeki, 2 metry poniżej drugiej terasy. Na obszarze o średnicy 1,5 metra tryskają 2 silne i 1 słabsze źródło. Woda z nich, wąskim na 20-40 cm strumykiem, płynie w kierunku rzeki i rozlewa się na wilgotnej nadbrzeżnej łące.",
-          "category": "Edukacinės programos"
+          "category": "Gamta"
         },
         "ru": {
           "name": "ИСТОЧНИК «ШВЕЙЦАРКА»",
           "description": "Источник относится к гидрогеологическим объектам страны. Он особенен тем, что создает впечатление «живого» источника, так как вода в нем, кажется, бурлит. Это место местные называют Швейцаркой и говорят, что находящиеся здесь источники необычны и обладают лечебными свойствами. Люди верят, что, умывшись родниковой водой, можно исцелиться от боли в суставах, глазных болезней. Источник открывается на левом берегу Швянтойи, примерно в 40 м от реки, на 2 м ниже второй террасы. На площади диаметром 1,5 метра бьют 2 сильных и 1 более слабый ключ. Вода узким ручейком шириной 20-40 см течет и разливается по влажному прибрежному лугу Швянтойи.",
-          "category": "Edukacinės programos"
+          "category": "Gamta"
         }
       }
     },
@@ -2472,32 +2472,32 @@
         "lt": {
           "name": "VERSLAVOS PILIAKALNIS",
           "description": "Jis yra 2 km į pietus nuo Antalieptės, 80 m į šiaurę nuo Šventosios upės ir Sėlupio upelio, saugančio kadais čia gyvenusios sėlių genties vardą, santakos. Manoma, kad piliakalnis naudotas III – IX a. ir nors netyrinėtas, ant jo buvo randama keramikos šukių ir šlako, o pietinėje ir pietrytinėje papėdėse aptiktos senovės gyvenvietės žymės.",
-          "category": "Edukacinės programos"
+          "category": "Gamta"
         },
         "lv": {
           "name": "VERSLAVAS PILSKALNS",
           "description": "Tas atrodas 2 km uz dienvidiem no Antalieptes, 80 m uz ziemeļiem no Sventājas upes un Sēlupes upītes, kas glabā kādreiz šeit dzīvojušās sēļu cilts vārdu, satekas. Tiek uzskatīts, ka pilskalns izmantots no 3. līdz 9. gs. un, lai gan nav pētīts, uz tā atrasti keramikas lauskas un sārņi, bet dienvidu un dienvidaustrumu pakājēs atklātas senas apmetnes zīmes.",
-          "category": "Edukacinės programos"
+          "category": "Gamta"
         },
         "en": {
           "name": "Verslava Mound",
           "description": "It is located 2 km south of Antalieptė, 80 m north of the confluence of the Šventoji River and the Sėlupis stream, preserving the name of the Selonian tribe that once lived here. It is believed that the mound was used in the 3rd-9th centuries, and although unexamined, ceramic shards and slag were found on it, and marks of an ancient settlement were found at its southern and southeastern foot.",
-          "category": "Edukacinės programos"
+          "category": "Gamta"
         },
         "de": {
           "name": "HÜGELGRAB VERSLAVA",
           "description": "Es befindet sich 2 km südlich von Antalieptė, 80 m nördlich des Zusammenflusses des Flusses Šventoji und des Baches Sėlupis, der den Namen des ehemals hier lebenden selonischen Stammes bewahrt. Es wird angenommen, dass das Hügelgrab vom 3. bis zum 9. Jahrhundert genutzt wurde, und obwohl es nicht erforscht wurde, wurden darauf Keramikscherben und Schlacke gefunden, und am südlichen und südöstlichen Fuß wurden Spuren einer alten Siedlung entdeckt.",
-          "category": "Edukacinės programos"
+          "category": "Gamta"
         },
         "pl": {
           "name": "GRODZISKO W VERSLAVIE",
           "description": "Znajduje się 2 km na południe od Antalieptė, 80 metrów na północ od zbiegu rzeki Šventoji ze strumieniem Sėlupis, którego nazwa przechowuje pamięć o plemieniu Selów. Przypuszcza się, że grodzisko było użytkowane od III do IX w. n.e. i chociaż nie zostało dotąd szczegółowo zbadane, na jego obszarze odnaleziono skorupy naczyń glinianych oraz żużel, a u południowego i południowo-wschodniego podnóża widoczne są ślady osadnictwa starożytnego.",
-          "category": "Edukacinės programos"
+          "category": "Gamta"
         },
         "ru": {
           "name": "КУРГАН ВЯРСЛАВОС",
           "description": "Он находится в 2 км к югу от Анталепте, в 80 м к северу от слияния реки Швянтойи и ручья Селупис, хранящего имя когда-то жившего здесь племени селов. Считается, что курган использовался в III – IX вв., и хотя он не исследовался, на нем находили черепки керамики и шлак, а у южного и юго-восточного подножия обнаружены следы древнего поселения.",
-          "category": "Edukacinės programos"
+          "category": "Gamta"
         }
       }
     },
@@ -2516,32 +2516,32 @@
         "lt": {
           "name": "ARKIVYSKUPO M. REINIO GIMTINĖ",
           "description": "Tvirtinama, kad gimtajam kaimui Madagaskaro pavadinimą sugalvojo Mečislovas Reinys (caro laikais kaimas vadintas Bykovu). Jame yra išlikusi sodyba, kurioje 1884-1953 m. gyveno būsimas arkivyskupas, Kauno Vytauto Didžiojo Universiteto profesorius, Nepriklausomos Lietuvos užsienio reikalų ministras. Liudininkai prisimena, kad jo gimtinė buvo gražiai užlaikytas namas, o pačią sodybą sudarė 7 atskiri pastatai.",
-          "category": "Edukacinės programos"
+          "category": "Antalieptė"
         },
         "lv": {
           "name": "ARHIBĪSKAPA M. REINIS DZIMTENE",
           "description": "Tiek apgalvots, ka Madagaskaras nosaukumu dzimtajam ciemam izdomāja Mečislovs Reinis (cara laikā ciems saukts par Bikovi). Tajā saglabājusies sēta, kurā 1884.-1953. gadā dzīvoja topošais arhibīskaps, Kauņas Vītauta Dižā Universitātes profesors, Neatkarīgās Lietuvas ārlietu ministrs. Liecinieki atceras, ka viņa dzimtene bija skaisti uzturēta māja, bet pašu sētu veidoja 7 atsevišķas ēkas.",
-          "category": "Edukacinės programos"
+          "category": "Antalieptė"
         },
         "en": {
           "name": "Birthplace of Archbishop M. Reinys",
           "description": "It is claimed that Mečislovas Reinys came up with the name Madagascar for his native village (during tsarist times, the village was called Bykovas). The homestead where the future archbishop, professor at Vytautas Magnus University in Kaunas, and Minister of Foreign Affairs of Independent Lithuania lived in 1884-1953 has survived. Witnesses remember that his birthplace was a beautifully kept house, and the homestead itself consisted of 7 separate buildings.",
-          "category": "Edukacinės programos"
+          "category": "Antalieptė"
         },
         "de": {
           "name": "GEBURTSORT DES ERZBISCHOFS M. REINYS",
           "description": "Es wird behauptet, dass Mečislovas Reinys den Namen Madagaskar für sein Heimatdorf erfunden hat (in zaristischer Zeit hieß das Dorf Bykovas). Darin ist das Gehöft erhalten geblieben, in dem der zukünftige Erzbischof, Professor an der Vytautas-Magnus-Universität in Kaunas und Außenminister des unabhängigen Litauen in den Jahren 1884-1953 lebte. Zeugen erinnern sich, dass sein Geburtsort ein wunderschön gepflegtes Haus war und das Gehöft selbst aus 7 separaten Gebäuden bestand.",
-          "category": "Edukacinės programos"
+          "category": "Antalieptė"
         },
         "pl": {
           "name": "MIEJSCE URODZENIA ARCYBISKUPA M. REINYSA",
           "description": "Powszechnie uważa się, że to właśnie arcybiskup M. Reinys wymyślił, aby swoją rodzinną wieś Byków (nazwa z czasów carskich) przemianować na Madagaskar. W tej właśnie miejscowości zachowała się dawna posiadłość, w której w latach 1884-1953 żył przyszły arcybiskup, profesor Uniwersytetu Witolda Wielkiego w Kownie oraz minister spraw zagranicznych niepodległej Litwy. Naoczni świadkowie wspominają, że dom rodzinny był zawsze nienagannie utrzymany, a cała posesja obejmowała 7 odrębnych zabudowań.",
-          "category": "Edukacinės programos"
+          "category": "Antalieptė"
         },
         "ru": {
           "name": "МЕСТО РОЖДЕНИЯ АРХИЕПИСКОПА М. РЕЙНИСА",
           "description": "Утверждается, что название Мадагаскар для родной деревни придумал Мечисловас Рейнис (в царские времена деревня называлась Быково). В ней сохранилась усадьба, в которой в 1884-1953 гг. жил будущий архиепископ, профессор Каунасского Университета Витаутаса Великого, министр иностранных дел Независимой Литвы. Свидетели вспоминают, что его родина была красиво ухоженным домом, а сама усадьба состояла из 7 отдельных зданий.",
-          "category": "Edukacinės programos"
+          "category": "Antalieptė"
         }
       }
     },
@@ -3217,32 +3217,32 @@
         "lt": {
           "name": "NAPOLEONO AKMUO",
           "description": "Šalia Salako pilkapių, kairėje kelio pusėje guli akmuo su ženklais, vadinamas Napoleono akmeniu. Padavimas pasakoja, kad žygiuodamas į Maskvą Napoleonas ant šio akmens valgė pietus ir atminimui liepė iškalti jame dubenį ir valgymo įrankius. Iš tiesų Napoleonas šiose vietose niekada nebuvo ir nepietavo, o visa tai tik gražus pasakojimas. Kasinėjant 1 metro gylyje rasta pelenų. Manoma, kad akmuo yra XII – XIII a. kunigaikščių valdų riboženklis.",
-          "category": "Salakas"
+          "category": "Gamta"
         },
         "lv": {
           "name": "NAPOLEONA AKMENS",
           "description": "Blakus Salakas uzkalniņu kapiem, kreisajā ceļa pusē guļ akmens ar zīmēm, saukts par Napoleona akmeni. Teiksma vēsta, ka, soļojot uz Maskavu, Napoleons uz šī akmens pusdienoja un piemiņai lika tajā iekalt bļodu un galda piederumus. Patiesībā Napoleons šajās vietās nekad nav bijis un pusdienojis, un tas viss ir tikai skaists stāsts. Veicot izrakumus 1 metra dziļumā, atrasti pelni. Tiek uzskatīts, ka akmens ir 12. – 13. gs. kņazu īpašumu robežakmens.",
-          "category": "Salakas"
+          "category": "Gamta"
         },
         "en": {
           "name": "Napoleon's Stone",
           "description": "Near the Salakas mounds, on the left side of the road, lies a stone with markings, called Napoleon's Stone. Legend has it that while marching to Moscow, Napoleon ate lunch on this stone and ordered a bowl and eating utensils to be carved into it as a memorial. In fact, Napoleon was never in these areas and did not dine here, and it is all just a beautiful tale. During excavations, ashes were found at a depth of 1 meter. It is believed that the stone is a 12th-13th century boundary marker for dukes' lands.",
-          "category": "Salakas"
+          "category": "Gamta"
         },
         "de": {
           "name": "NAPOLEONSTEIN",
           "description": "Neben den Hügelgräbern von Salakas, auf der linken Seite der Straße, liegt ein Stein mit Zeichen, der Napoleonstein genannt wird. Die Legende besagt, dass Napoleon auf seinem Marsch nach Moskau auf diesem Stein zu Mittag aß und zur Erinnerung eine Schüssel und Besteck in den Stein meißeln ließ. In Wirklichkeit war Napoleon nie an diesen Orten und aß nicht hier zu Mittag; all dies ist nur eine schöne Geschichte. Bei Ausgrabungen in 1 Meter Tiefe wurde Asche gefunden. Es wird angenommen, dass der Stein eine Grenzmarkierung der Fürstengüter aus dem 12. - 13. Jahrhundert ist.",
-          "category": "Salakas"
+          "category": "Gamta"
         },
         "pl": {
           "name": "KAMIEŃ NAPOLEONA",
           "description": "Niedaleko kurhanów w pobliżu Salakas, po lewej stronie szosy, spoczywa głaz ze żłobieniami, często nazywany Kamieniem Napoleona. Według legendy maszerujący na Moskwę Napoleon zatrzymał się przy nim na obiad i by uczcić ten moment, polecił wyrzeźbić na nim talerz i sztućce. W rzeczywistości postać Napoleona nigdy na tych ziemiach nie gościła, więc cała ta opowieść to jedynie piękna legenda. Podczas wykopalisk archeologicznych na głębokości 1 metra znaleziono szczątki popiołu. Uważa się, że głaz mógł stanowić po prostu dawną granicę posiadłości miejscowego księcia na przełomie XII i XIII wieku.",
-          "category": "Salakas"
+          "category": "Gamta"
         },
         "ru": {
           "name": "КАМЕНЬ НАПОЛЕОНА",
           "description": "Рядом с Салакскими курганами, на левой стороне дороги лежит камень со знаками, называемый камнем Наполеона. Предание гласит, что во время похода на Москву Наполеон обедал на этом камне и на память велел высечь в нем миску и столовые приборы. На самом деле Наполеон в этих местах никогда не был и не обедал, а все это лишь красивая сказка. При раскопках на глубине 1 метра был найден пепел. Считается, что камень является пограничным знаком княжеских владений XII – XIII вв.",
-          "category": "Salakas"
+          "category": "Gamta"
         }
       }
     },
@@ -3444,32 +3444,32 @@
         "lt": {
           "name": "AKMUO „RAGANŲ SOSTAS“",
           "description": "Akmuo „Raganos sostas“ arba Lapeliškių akmuo, tai valstybės saugomas gamtos objektas. mitologinis akmuo. Jis yra 3 km į pietvakarius nuo Turmanto, 30 m į vakarus nuo Lapeliškių kaimo senųjų kapinių. Akmuo yra nupjauto kūgio formos.  Akmens viršutinėje dalyje yra įduba, vadinama raganos sostu.",
-          "category": "Degučiai"
+          "category": "Gamta"
         },
         "lv": {
           "name": "AKMENS „RAGANAS TRONIS”",
           "description": "Akmens „Raganas tronis” jeb Lapelišķu akmens ir valsts aizsargājams dabas objekts, mitoloģisks akmens. Tas atrodas 3 km uz dienvidrietumiem no Turmanta, 30 m uz rietumiem no Lapelišķu ciema vecajiem kapiem. Akmens ir nošķelta konusa formā. Akmens augšdaļā ir iedobe, ko sauc par raganas troni.",
-          "category": "Degučiai"
+          "category": "Gamta"
         },
         "en": {
           "name": "Stone \"Witch's Throne\"",
           "description": "The stone \"Witch's Throne\" or Lapeliškės stone is a state-protected natural object, a mythological stone. It is located 3 km southwest of Turmantas, 30 m west of the old cemetery of Lapeliškės village. The stone is shaped like a truncated cone. In the upper part of the stone, there is a depression called the witch's throne.",
-          "category": "Degučiai"
+          "category": "Gamta"
         },
         "de": {
           "name": "STEIN „THRON DER HEXE“",
           "description": "Der Stein „Thron der Hexe“ oder Stein von Lapeliškės ist ein staatlich geschütztes Naturobjekt, ein mythologischer Stein. Er befindet sich 3 km südwestlich von Turmantas, 30 m westlich des alten Friedhofs des Dorfes Lapeliškės. Der Stein hat die Form eines Kegelstumpfes. Im oberen Teil des Steins befindet sich eine Vertiefung, die als Thron der Hexe bezeichnet wird.",
-          "category": "Degučiai"
+          "category": "Gamta"
         },
         "pl": {
           "name": "GŁAZ MITOLOGICZNY „TRON CZAROWNICY”",
           "description": "Obiekt wpisany i chroniony państwowo o unikalnym kształcie ściętego stożka z widocznym wyżłobieniem (określany mianem siedziska czarownicy). Leży 3km na południowy wschód od Lapeliškės i ich nekropolii.",
-          "category": "Degučiai"
+          "category": "Gamta"
         },
         "ru": {
           "name": "КАМЕНЬ «ТРОН ВЕДЬМЫ»",
           "description": "Камень «Трон ведьмы» или Лапялишкский камень – это охраняемый государством природный объект, мифологический камень. Он находится в 3 км к юго-западу от Турмантаса, в 30 м к западу от старого кладбища деревни Лапялишкес. Камень имеет форму усеченного конуса. В верхней части камня есть углубление, называемое троном ведьмы.",
-          "category": "Degučiai"
+          "category": "Gamta"
         }
       }
     },
@@ -4315,32 +4315,32 @@
         "lt": {
           "name": "ANTAZAVĖS DVARAS IR TRADICINIŲ AMATŲ CENTRAS",
           "description": "Antazavėje, ant šiaurinio Zalvės ežero kranto stovi neoklasicistinio stiliaus dvaro rūmai, kadaise priklausę",
-          "category": "Antazavė"
+          "category": "Edukacinės programos"
         },
         "lv": {
           "name": "ANTAZAVES MUIŽA UN TRADICIONĀLO AMATU CENTRS",
           "description": "Antazavē, Zalves ezera ziemeļu krastā stāv neoklasicisma stila muižas pils, kas kādreiz piederēja",
-          "category": "Antazavė"
+          "category": "Edukacinės programos"
         },
         "en": {
           "name": "Antazavė Manor and Traditional Crafts Center",
           "description": "In Antazavė, on the northern shore of Lake Zalvė, stands a neo-classical manor palace, which once belonged to the famous Plater family.",
-          "category": "Antazavė"
+          "category": "Edukacinės programos"
         },
         "de": {
           "name": "GUT ANTAZAVĖ UND ZENTRUM FÜR TRADITIONELLE HANDWERKE",
           "description": "In Antazavė, am Nordufer des Zalvė-Sees, steht ein Herrenhaus im neoklassizistischen Stil, das einst gehörte",
-          "category": "Antazavė"
+          "category": "Edukacinės programos"
         },
         "pl": {
           "name": "DWÓR ANTAZAVĖ ORAZ CENTRUM RZEMIOSŁ",
           "description": "W sąsiedztwie północy jezior (Zalvės) z dumną byłą siedzibą w starym dworze na fundamentach Platerów.",
-          "category": "Antazavė"
+          "category": "Edukacinės programos"
         },
         "ru": {
           "name": "ПОМЕСТЬЕ АНТАЗАВЕ И ЦЕНТР ТРАДИЦИОННЫХ РЕМЕСЕЛ",
           "description": "В Антазаве, на северном берегу озера Залве, стоит усадьба в неоклассическом стиле, когда-то принадлежавшая знаменитому роду Плятеров.",
-          "category": "Antazavė"
+          "category": "Edukacinės programos"
         }
       }
     },
@@ -4363,32 +4363,32 @@
         "lt": {
           "name": "BITYNAS „MEDAUS NAMAI“",
           "description": "Laimono ir Jūratės Galvonų, ekologinis bitynas įsikūręs nuošaliame Aukštaitijos vienkiemyje, vaizdingose miškų ir pievų apsuptose apylinkėse. Čia siūloma paragauti ne tik jau visiems įprastų bičių produktų – medaus, bičių duonos, žiedadulkių, bet ir įvairių skonių medaus skanėstų su šalčiu džiovintais svarainiais, čiobreliais, imbieru ir citrina, šaltalankiais etc. Šeimininkai organizuoja edukacines programas.",
-          "category": "Zarasai"
+          "category": "Edukacinės programos"
         },
         "lv": {
           "name": "DRAVA „MEDUS MĀJA”",
           "description": "Laimoņa un Jūrates Galvonu ekoloģiskā drava atrodas nomaļā Aukštaitijas viensētā, gleznainu mežu un pļavu ieskautā apkārtnē. Šeit piedāvā nobaudīt ne tikai visiem ierastos bišu produktus – medu, bišu maizi, ziedputekšņus, bet arī dažādu garšu medaus gardumus ar aukstumā kaltētiem cidonijām, mārsilu, ingveru un citronu, smiltsērkšķiem u.c. Saimnieki organizē izglītojošas programmas.",
-          "category": "Zarasai"
+          "category": "Edukacinės programos"
         },
         "en": {
           "name": "Apiary \"Honey House\"",
           "description": "Laimonas and Jūratė Galvonas' ecological apiary is located in a secluded Aukštaitija homestead, surrounded by picturesque forests and meadows. Here, you are offered to taste not only the usual bee products - honey, bee bread, pollen - but also honey treats of various flavors with freeze-dried quince, thyme, ginger and lemon, sea buckthorn, etc. The hosts organize educational programs.",
-          "category": "Zarasai"
+          "category": "Edukacinės programos"
         },
         "de": {
           "name": "IMKEREI „HONIGHAUS“",
           "description": "Die ökologische Imkerei von Laimonas und Jūratė Galvonai befindet sich auf einem abgelegenen Gehöft in Aukštaitija, umgeben von malerischen Wäldern und Wiesen. Hier wird angeboten, nicht nur die üblichen Bienenprodukte - Honig, Bienenbrot, Pollen - zu probieren, sondern auch Honigleckereien in verschiedenen Geschmacksrichtungen mit gefriergetrockneten Quitten, Thymian, Ingwer und Zitrone, Sanddorn usw. Die Gastgeber organisieren Bildungsprogramme.",
-          "category": "Zarasai"
+          "category": "Edukacinės programos"
         },
         "pl": {
           "name": "PASIEKA „DOM MIODU”",
           "description": "Z dala umiejscowione ranczo naturalnej pasieki pośród czystego nieba i lasów Galvonų (Jūratės i Laimonasa). Ekskluzywna oferta produktowa mieszana o akcenty kwaśnego lub pikantnego z rokitnikiem, pigwą czy z liofilizowanym imbirem i z pominięciem sztucznych uzupełnień w miody rzepakowe czy inne wielokwiaty.",
-          "category": "Zarasai"
+          "category": "Edukacinės programos"
         },
         "ru": {
           "name": "ПАСЕКА «ДОМ МЕДА»",
           "description": "Экологическая пасека Лаймонаса и Юрате Галвонасов расположена на уединенном аукштайтском хуторе, в живописных окрестностях, окруженных лесами и лугами. Здесь предлагается попробовать не только привычные всем пчелиные продукты – мед, пергу, пыльцу, но и медовые лакомства разных вкусов с сублимированной айвой, тимьяном, имбирем и лимоном, облепихой и т. д. Хозяева организуют образовательные программы.",
-          "category": "Zarasai"
+          "category": "Edukacinės programos"
         }
       }
     },
