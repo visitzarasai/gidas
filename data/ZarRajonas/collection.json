@@ -798,32 +798,32 @@
         "lt": {
           "name": "ŠLYNINKOS VANDENS MALŪNAS",
           "description": "Už penkių kilometrų nuo miesto esančiame trijų šimtų metų senumo malūne lankytojai turi galimybę ne tik paragauti čia pat kepamų tautinio paveldo blynų ar duonos, bet ir įsigyti malūne maltų miltų ar kruopų. Susitarus malūnininkas praves ekskursiją po veikiantį vandens malūną,  o malūninkienė – edukacinę duonos   kepimo programą",
-          "category": "Zarasai"
+          "category": "Edukacinės programos"
         },
         "lv": {
           "name": "ŠĻININKAS ŪDENSDZIRNAVAS",
           "description": "Piecu kilometru attālumā no pilsētas esošajās trīssimt gadu vecajās dzirnavās apmeklētājiem ir iespēja ne tikai nobaudīt tepat ceptās nacionālā mantojuma pankūkas vai maizi, bet arī iegādāties dzirnavās maltus miltus vai putraimus. Vienojoties, dzirnavnieks vadīs ekskursiju pa darbojošām ūdensdzirnavām, bet dzirnavniece – izglītojošu maizes cepšanas programmu.",
-          "category": "Zarasai"
+          "category": "Edukacinės programos"
         },
         "en": {
           "name": "Šlyninka Water Mill",
           "description": "In a three-hundred-year-old mill five kilometers from the city, visitors have the opportunity not only to taste locally baked national heritage pancakes or bread but also to buy flour or groats milled at the mill. By agreement, the miller will give a tour of the working water mill, and his wife will offer an educational bread-baking program.",
-          "category": "Zarasai"
+          "category": "Edukacinės programos"
         },
         "de": {
           "name": "ŠLYNINKA-WASSÜRMÜHLE",
           "description": "In der dreihundert Jahre alten Mühle, fünf Kilometer von der Stadt entfernt, haben Besucher die Möglichkeit, nicht nur die vor Ort gebackenen Pfannkuchen oder das Brot (nationales Kulturerbe) zu probieren, sondern auch in der Mühle gemahlenes Mehl oder Grütze zu kaufen. Nach Absprache führt der Müller durch die funktionierende Wassermühle und die Müllerin bietet ein lehrreiches Brotbäckereiprogramm an.",
-          "category": "Zarasai"
+          "category": "Edukacinės programos"
         },
         "pl": {
           "name": "MŁYN WODNY W ŠLYNINCE",
           "description": "W mającym trzysta lat młynie, położonym pięć kilometrów od miasta, odwiedzający mają możliwość nie tylko skosztować pieczonych na miejscu naleśników czy chleba z dziedzictwa narodowego, ale także kupić zmieloną w młynie mąkę lub kaszę. Po uzgodnieniu młynarz poprowadzi wycieczkę po działającym młynie wodnym, a młynarzowa – edukacyjny program pieczenia chleba.",
-          "category": "Zarasai"
+          "category": "Edukacinės programos"
         },
         "ru": {
           "name": "ШЛИНИНКСКАЯ ВОДЯНАЯ МЕЛЬНИЦА",
           "description": "На трехсотлетней мельнице, расположенной в пяти километрах от города, посетители имеют возможность не только попробовать выпекаемые здесь блины или хлеб национального кулинарного наследия, но и купить муку или крупу, смолотую на мельнице. По договоренности мельник проведет экскурсию по действующей водяной мельнице, а мельничиха – образовательную программу по выпечке хлеба.",
-          "category": "Zarasai"
+          "category": "Edukacinės programos"
         }
       }
     },
@@ -1298,32 +1298,32 @@
         "lt": {
           "name": "MARIMONTO VANDENS MALŪNAS LIEKANOS",
           "description": "XIX a. II p. ant Zalvės upelio buvo įrengta užtvanka bei pastatyti malūnas su pikliumi bei lentpjūvė. Malūnas, lentpjūvė, karšykla veikė net ir pokario metais, tačiau 1946 ar 1947 metus kilus gaisrui viskas sudegė ir iki mūsų dienų išliko tik akmeninio mūro likučiai bei akmenimis grįsto senkelio (bruko) atkarpa.",
-          "category": "Stelmužė"
+          "category": "Gamta"
         },
         "lv": {
           "name": "MARIMONTA ŪDENSDZIRNAVU DRUPAS",
           "description": "19. gs. 2. pusē uz Zalves upītes tika ierīkots aizsprosts un uzceltas dzirnavas ar bīdekli un kokzāģētavu. Dzirnavas, kokzāģētava, kārstuves darbojās pat pēckara gados, taču 1946. vai 1947. gadā izcēlās ugunsgrēks un viss nodega, līdz mūsdienām saglabājušās tikai akmens mūra atliekas un ar akmeņiem bruģēta vecā ceļa posms.",
-          "category": "Stelmužė"
+          "category": "Gamta"
         },
         "en": {
           "name": "Remains of the Marimontas Water Mill",
           "description": "In the 2nd half of the 19th century, a dam was built on the Zalvė stream, and a mill with a sifter and a sawmill were constructed. The mill, sawmill, and carding mill operated even in the post-war years, but after a fire in 1946 or 1947, everything burned down, and to this day only the remains of stone masonry and a section of an old cobbled road (brukas) have survived.",
-          "category": "Stelmužė"
+          "category": "Gamta"
         },
         "de": {
           "name": "ÜBERRESTE DER WASSÜRMÜHLE MARIMONTAS",
           "description": "In der zweiten Hälfte des 19. Jahrhunderts wurden am Bach Zalvė ein Damm und eine Mühle mit einem Stampfwerk sowie ein Sägewerk errichtet. Die Mühle, das Sägewerk und die Karde waren auch in den Nachkriegsjahren in Betrieb, aber 1946 oder 1947 brannte nach einem Feuer alles nieder, und bis heute sind nur die Überreste des Steinmauerwerks und ein Abschnitt der gepflasterten alten Straße (Brukas) erhalten.",
-          "category": "Stelmužė"
+          "category": "Gamta"
         },
         "pl": {
           "name": "POZOSTAŁOŚCI MŁYNA WODNEGO W MARIMONTAS",
           "description": "W drugiej połowie XIX wieku na rzece Zalvė zbudowano tamę i postawiono młyn ze stępami oraz tartak. Młyn, tartak i gręplarnia działały nawet w latach powojennych, jednak po wybuchu pożaru w 1946 lub 1947 roku wszystko spłonęło i do naszych czasów zachowały się tylko pozostałości z kamiennego muru i odcinek starej drogi brukowanej kamieniami.",
-          "category": "Stelmužė"
+          "category": "Gamta"
         },
         "ru": {
           "name": "ОСТАТКИ МАРИМОНТСКОЙ ВОДЯНОЙ МЕЛЬНИЦЫ",
           "description": "Во второй половине XIX века на речке Залве была оборудована плотина и построена мельница с крупорушкой, а также лесопилка. Мельница, лесопилка, чесальня работали даже в послевоенные годы, однако после пожара в 1946 или 1947 году всё сгорело, и до наших дней сохранились лишь остатки каменной кладки и участок мощеной камнем старой дороги (брусчатки).",
-          "category": "Stelmužė"
+          "category": "Gamta"
         }
       }
     },
@@ -1388,32 +1388,32 @@
         "lt": {
           "name": "KOMPOZITORIAUS JUOZO GRUODŽIO GIMTINĖS VIETA",
           "description": "Rokėnų kaime stovi skulptūrinis stogastulpis su rodykle, vedantis į Juozo Gruodžio – kompozitoriaus, pedagogo, dirigento, muzikos visuomenininko – gimtinę. Jos vietoje 1966 m. lapkričio 13 d. buvo atidengtas paminklinis akmuo.",
-          "category": "Salakas"
+          "category": "Antazavė"
         },
         "lv": {
           "name": "KOMPONISTA JUOZA GRUODŽA DZIMTĀS VIETAS",
           "description": "Roķēnu ciemā stāv skulpturāls stabs ar norādi, kas ved uz Juoza Gruodža – komponista, pedagoga, diriģenta, mūzikas sabiedriskā darbinieka – dzimteni. Tās vietā 1966. gada 13. novembrī tika atklāts piemiņas akmens.",
-          "category": "Salakas"
+          "category": "Antazavė"
         },
         "en": {
           "name": "Birthplace of Composer Juozas Gruodis",
           "description": "In the village of Rokėnai stands a sculptural roofed pole with a sign leading to the birthplace of Juozas Gruodis – composer, pedagogue, conductor, and music public figure. A memorial stone was unveiled on its site on November 13, 1966.",
-          "category": "Salakas"
+          "category": "Antazavė"
         },
         "de": {
           "name": "GEBURTSORT DES KOMPONISTEN JUOZAS GRUODIS",
           "description": "Im Dorf Rokėnai steht ein skulpturaler Dachpfosten mit einem Pfeil, der zum Geburtsort von Juozas Gruodis – Komponist, Lehrer, Dirigent, Musikpersönlichkeit – führt. An dessen Stelle wurde am 13. November 1966 ein Gedenkstein enthüllt.",
-          "category": "Salakas"
+          "category": "Antazavė"
         },
         "pl": {
           "name": "MIEJSCE URODZENIA KOMPOZYTORA JUOZASA GRUODISA",
           "description": "W wiosce Rokėnai znajduje się rzeźbiona kapliczka słupowa ze wskaźnikiem prowadzącym do miejsca urodzenia Juozasa Gruodisa – kompozytora, pedagoga, dyrygenta i działacza muzycznego. 13 listopada 1966 r. w tym miejscu odsłonięto kamień pamiątkowy.",
-          "category": "Salakas"
+          "category": "Antazavė"
         },
         "ru": {
           "name": "МЕСТО РОЖДЕНИЯ КОМПОЗИТОРА ЮОЗАСА ГРУОДИСА",
           "description": "В деревне Рокенай стоит скульптурный деревянный столб с указателем, ведущим на родину Юозаса Груодиса – композитора, педагога, дирижера, музыкального общественного деятеля. На этом месте 13 ноября 1966 г. был открыт памятный камень.",
-          "category": "Salakas"
+          "category": "Antazavė"
         }
       }
     },
@@ -1529,32 +1529,32 @@
         "lt": {
           "name": "KULTŪROS CENTRAS DUSETŲ DAILĖS GALERIJA",
           "description": "Kultūros centre Dusetų dailės galerijoje organizuojamos dailės ir fotografijos parodos, plenerai, simpoziumai, leidžiami informaciniai leidiniai, meno albumai. Čia rengiami klasikinės ir populiariosios muzikos koncertai,  kūrybos vakarai, rodomi kino filmai, spektakliai.  Ypač populiarios  Dusetų krašto dailininkų parodos.",
-          "category": "Salakas"
+          "category": "Dusetos"
         },
         "lv": {
           "name": "KULTŪRAS CENTRS DUSETU MĀKSLAS GALERIJA",
           "description": "Kultūras centrā Dusetu mākslas galerijā tiek organizētas mākslas un fotogrāfijas izstādes, plenēri, simpoziji, izdoti informatīvie izdevumi, mākslas albumi. Šeit tiek rīkoti klasiskās un populārās mūzikas koncerti, radošie vakari, demonstrētas kinofilmas, teātra izrādes. Īpaši populāras ir Dusetu novada mākslinieku izstādes.",
-          "category": "Salakas"
+          "category": "Dusetos"
         },
         "en": {
           "name": "Cultural Center Dusetos Art Gallery",
           "description": "The Cultural Center Dusetos Art Gallery organizes art and photography exhibitions, plenaries, symposiums, and publishes informational publications and art albums. It hosts classical and popular music concerts, creative evenings, films, and theatrical plays. Exhibitions by Dusetos artists are especially popular.",
-          "category": "Salakas"
+          "category": "Dusetos"
         },
         "de": {
           "name": "KULTURZENTRUM KUNSTGALERIE DUSETOS",
           "description": "Im Kulturzentrum Kunstgalerie Dusetos werden Kunst- und Fotoausstellungen, Pleinairs und Symposien organisiert, Informationspublikationen und Kunstalben herausgegeben. Hier finden Konzerte klassischer und populärer Musik, kreative Abende statt, es werden Filme gezeigt und Theaterstücke aufgeführt. Besonders beliebt sind die Ausstellungen von Künstlern aus der Region Dusetos.",
-          "category": "Salakas"
+          "category": "Dusetos"
         },
         "pl": {
           "name": "CENTRUM KULTURY GALERIA SZTUKI W DUSETOS",
           "description": "W Centrum Kultury – Galerii Sztuki w Dusetos organizowane są wystawy sztuki i fotografii, plenery, sympozja, wydawane są publikacje informacyjne, albumy sztuki. Organizowane są tu koncerty muzyki klasycznej i rozrywkowej, wieczory twórcze, wyświetlane są filmy, wystawiane spektakle. Szczególną popularnością cieszą się wystawy artystów z regionu Dusetos.",
-          "category": "Salakas"
+          "category": "Dusetos"
         },
         "ru": {
           "name": "ЦЕНТР КУЛЬТУРЫ ХУДОЖЕСТВЕННАЯ ГАЛЕРЕЯ ДУСЕТОС",
           "description": "В Центре культуры Художественной галерее Дусетос организуются художественные и фотовыставки, пленэры, симпозиумы, издаются информационные публикации, художественные альбомы. Здесь проводятся концерты классической и популярной музыки, творческие вечера, демонстрируются кинофильмы, спектакли. Особенно популярны выставки художников Дусетского края.",
-          "category": "Salakas"
+          "category": "Dusetos"
         }
       }
     },
@@ -1578,32 +1578,32 @@
         "lt": {
           "name": "SARTŲ REGIONINIO PARKO LANKYTOJŲ CENTRAS",
           "description": "Lankytojų centro ekspozicijoje įrengti informaciniai terminalai, filmų peržiūros įranga, interaktyvūs stendai, atkuriami gamtos garsai. Ekspozicinėje sienelėje esančiuose monitoriuose galima pamatyti filmukus apie Sartų ežero atsiradimą. Atskiras stendas skirtas žirgų lenktynėms, kurių tradicija Dusetose siekia daugiau kaip 100 metų. Viena patalpa skirta ekspozicijai apie sėlių gentis ir jų gyvenimą. Lankytojų centro ekspozicija skirta ne tik pažinti čia esančias gamtos ir kultūros paveldo vertybes, bet ir išmokti saugoti gamtą ir paveldo objektus.",
-          "category": "Salakas"
+          "category": "Dusetos"
         },
         "lv": {
           "name": "SARTU REĢIONĀLĀ PARKA APMEKLĒTĀJU CENTRS",
           "description": "Apmeklētāju centra ekspozīcijā ierīkoti informācijas termināļi, filmu skatīšanās aprīkojums, interaktīvi stendi, atskaņotas dabas skaņas. Ekspozīcijas sienā esošajos monitoros var redzēt filmiņas par Sartu ezera rašanos. Atsevišķs stends veltīts zirgu skriešanās sacīkstēm, kuru tradīcija Dusetos sniedzas vairāk nekā 100 gadu senā pagātnē. Viena telpa veltīta ekspozīcijai par sēļu ciltīm un to dzīvi. Apmeklētāju centra ekspozīcija paredzēta ne tikai šeit esošo dabas un kultūras mantojuma vērtību iepazīšanai, bet arī lai iemācītos sargāt dabas un mantojuma objektus.",
-          "category": "Salakas"
+          "category": "Dusetos"
         },
         "en": {
           "name": "Sartai Regional Park Visitor Center",
           "description": "The visitor center exhibition features informational terminals, film viewing equipment, interactive stands, and reproduced nature sounds. On the monitors in the exhibition wall, you can see short films about the formation of Lake Sartai. A separate stand is dedicated to horse racing, whose tradition in Dusetos dates back more than 100 years. One room is dedicated to an exhibition about Selonian tribes and their lives. The visitor center exhibition is intended not only to learn about the natural and cultural heritage values here but also to learn how to protect nature and heritage objects.",
-          "category": "Salakas"
+          "category": "Dusetos"
         },
         "de": {
           "name": "BESUCHERZENTRUM DES REGIONALPARKS SARTAI",
           "description": "Die Ausstellung des Besucherzentrums ist mit Informationsterminals, Ausrüstung zum Ansehen von Filmen und interaktiven Ständen ausgestattet, in denen Naturgeräusche wiedergegeben werden. Auf den Monitoren in der Ausstellungswand können Sie kurze Filme über die Entstehung des Sartai-Sees sehen. Ein separater Stand ist den Pferderennen gewidmet, deren Tradition in Dusetos über 100 Jahre zurückreicht. Ein Raum ist der Ausstellung über die Selonischen Stämme und ihr Leben gewidmet. Die Ausstellung des Besucherzentrums ist nicht nur darauf ausgerichtet, die hier befindlichen Natur- und Kulturerbwerte kennenzulernen, sondern auch zu lernen, wie man Natur und Kulturerbeobjekte schützt.",
-          "category": "Salakas"
+          "category": "Dusetos"
         },
         "pl": {
           "name": "CENTRUM DLA ODWIEDZAJĄCYCH PARK REGIONALNY SARTAI",
           "description": "W centrum zwiedzania zainstalowano terminale informacyjne, sprzęt do wyświetlania filmów, interaktywne stoiska, odtwarzane są dźwięki natury. Na monitorach w ścianie ekspozycyjnej można obejrzeć filmy o powstaniu jeziora Sartai. Oddzielne stoisko poświęcone jest wyścigom konnym, których tradycja w Dusetos sięga ponad 100 lat. Jedno pomieszczenie przeznaczone jest na ekspozycję o plemionach Selów i ich życiu. Ekspozycja Centrum Zwiedzania ma na celu nie tylko poznanie znajdujących się tu walorów przyrodniczych i kulturowych, ale również naukę ochrony obiektów przyrody i dziedzictwa.",
-          "category": "Salakas"
+          "category": "Dusetos"
         },
         "ru": {
           "name": "ЦЕНТР ПОСЕТИТЕЛЕЙ САРТАЙСКОГО РЕГИОНАЛЬНОГО ПАРКА",
           "description": "В экспозиции центра для посетителей установлены информационные терминалы, оборудование для просмотра фильмов, интерактивные стенды, воспроизводятся звуки природы. На мониторах в экспозиционной стене можно посмотреть фильмы о возникновении озера Сартай. Отдельный стенд посвящен скачкам, традиция которых в Дусетосе насчитывает более 100 лет. Одно помещение отведено под экспозицию о племенах селов и их жизни. Экспозиция предназначена не только для знакомства с находящимися здесь ценностями природы и культурного наследия, но и для обучения охране природы и объектов наследия.",
-          "category": "Salakas"
+          "category": "Dusetos"
         }
       }
     },
@@ -1624,32 +1624,32 @@
         "lt": {
           "name": "DUSETŲ NEPRIKLAUSOMYBĖS AIKŠTĖ",
           "description": "Senoji miesto dalis ir jos aikštė  yra vertingas kultūros paveldo objektas – urbanistinis draustinis, kuriam suteiktas savivaldybės reikšmės kultūros vertybės statusas. Aikštėje 1928 m. pastatytas Nepriklausomybės paminklas, 1949 m. nugriautas, 1989 m. atstatytas.",
-          "category": "Salakas"
+          "category": "Dusetos"
         },
         "lv": {
           "name": "DUSETU NEATKARĪBAS LAUKUMS",
           "description": "Vecā pilsētas daļa un tās laukums ir vērtīgs kultūras mantojuma objekts – urbānistiskais liegums, kam piešķirts pašvaldības nozīmes kultūras vērtības statuss. Laukumā 1928. gadā uzstādīts Neatkarības piemineklis, 1949. gadā tas nojaukts, 1989. gadā atjaunots.",
-          "category": "Salakas"
+          "category": "Dusetos"
         },
         "en": {
           "name": "Dusetos Independence Square",
           "description": "The old part of the city and its square is a valuable cultural heritage object - an urban reserve granted the status of a cultural value of municipal significance. The Independence Monument was built in the square in 1928, demolished in 1949, and rebuilt in 1989.",
-          "category": "Salakas"
+          "category": "Dusetos"
         },
         "de": {
           "name": "UNABHÄNGIGKEITSPLATZ DUSETOS",
           "description": "Der alte Teil der Stadt und ihr Platz sind ein wertvolles Kulturerbeobjekt – ein städtebauliches Schutzgebiet, dem der Status eines Kulturerbes von kommunaler Bedeutung verliehen wurde. Auf dem Platz wurde 1928 ein Unabhängigkeitsdenkmal errichtet, das 1949 abgerissen und 1989 wiederaufgebaut wurde.",
-          "category": "Salakas"
+          "category": "Dusetos"
         },
         "pl": {
           "name": "PLAC NIEPODLEGŁOŚCI W DUSETOS",
           "description": "Stara część miasta i jej plac to cenny obiekt dziedzictwa kulturowego – rezerwat urbanistyczny, któremu nadano status wartości kulturowej o znaczeniu samorządowym. Na placu w 1928 r. wzniesiono Pomnik Niepodległości, w 1949 r. zburzono go, a w 1989 r. odbudowano.",
-          "category": "Salakas"
+          "category": "Dusetos"
         },
         "ru": {
           "name": "ПЛОЩАДЬ НЕЗАВИСИМОСТИ В ДУСЕТОС",
           "description": "Старая часть города и ее площадь являются ценным объектом культурного наследия – урбанистическим заповедником, которому присвоен статус культурной ценности муниципального значения. На площади в 1928 г. установлен памятник Независимости, в 1949 г. он был снесен, в 1989 г. восстановлен.",
-          "category": "Salakas"
+          "category": "Dusetos"
         }
       }
     },
@@ -1718,32 +1718,32 @@
         "lt": {
           "name": "DUSETŲ SKULPTŪRŲ PARKAS",
           "description": "Skulptūrų parkas atidarytas 2008 metų vasarą, Dusetų seniūnijos ir parapijos bendruomenės santalkai pradėjus Sartų ežero pakrantės atnaujinimo darbus. Kasmet parke pastatomi nauji kūriniai – Dusetų dailės galerijos organizuojamų projektų rezultatas.",
-          "category": "Salakas"
+          "category": "Gamta"
         },
         "lv": {
           "name": "DUSETU SKULPTŪRU PARKS",
           "description": "Skulptūru parks atklāts 2008. gada vasarā, kad Dusetu seņūnijas un draudzes kopiena uzsāka Sartu ezera krasta atjaunošanas darbus. Katru gadu parkā tiek uzstādīti jauni darbi – Dusetu mākslas galerijas organizēto projektu rezultāts.",
-          "category": "Salakas"
+          "category": "Gamta"
         },
         "en": {
           "name": "Dusetos Sculpture Park",
           "description": "The sculpture park was opened in the summer of 2008 when the Dusetos eldership and parish community began restoring the shores of Lake Sartai. Every year, new artworks are placed in the park - the result of projects organized by the Dusetos Art Gallery.",
-          "category": "Salakas"
+          "category": "Gamta"
         },
         "de": {
           "name": "SKULPTURENPARK DUSETOS",
           "description": "Der Skulpturenpark wurde im Sommer 2008 eröffnet, als die Gemeinde Dusetos und die Pfarrgemeinde mit der Erneuerung des Ufers des Sartai-Sees begannen. Jedes Jahr werden im Park neue Werke aufgestellt – das Ergebnis der von der Kunstgalerie Dusetos organisierten Projekte.",
-          "category": "Salakas"
+          "category": "Gamta"
         },
         "pl": {
           "name": "PARK RZEŹB W DUSETOS",
           "description": "Park Rzeźb został otwarty latem 2008 roku, po tym, jak gmina i społeczność parafialna w Dusetos rozpoczęły prace związane z odnowieniem brzegu jeziora Sartai. Co roku w parku pojawiają się nowe dzieła – to wynik projektów organizowanych przez Galerię Sztuki w Dusetos.",
-          "category": "Salakas"
+          "category": "Gamta"
         },
         "ru": {
           "name": "ПАРК СКУЛЬПТУР В ДУСЕТОС",
           "description": "Парк скульптур открыт летом 2008 года, когда община и приход Дусетос начали работы по обновлению побережья озера Сартай. Ежегодно в парке устанавливаются новые произведения – результат проектов, организуемых Художественной галереей Дусетос.",
-          "category": "Salakas"
+          "category": "Gamta"
         }
       }
     },
@@ -1766,32 +1766,32 @@
         "lt": {
           "name": "DUSETŲ ŠV. TREJYBĖS BAŽNYČIA",
           "description": "Dabartinė, mūrinė bažnyčia,  baigta statyti 1888 metais.  Bažnyčios viduje yra trys altoriai, kuriuose saugoma dalis senųjų L. Gogelio skulptūrų. Dusetų bažnyčioje yra vienas istorinis (vargonai) ir penki dailės paminklai: centrinis altorius, sakykla, du kilnojami altorėliai ir paveikslas „Marija su kūdikiu“. Paveikslą puošia XVIII a. I pusėje sukurti aptaisai, kuriuos Dusetų bažnyčiai 1746 m. padovanojo grafai Pliateriai.",
-          "category": "Salakas"
+          "category": "Dusetos"
         },
         "lv": {
           "name": "DUSETU SV. TRĪSVIENĪBAS BAZNĪCA",
           "description": "Pašreizējā mūra baznīca pabeigta 1888. gadā. Baznīcas iekšpusē ir trīs altāri, kuros tiek glabāta daļa vecās L. Gogeļa skulptūru. Dusetu baznīcā ir viens vēsturisks (ērģeles) un pieci mākslas pieminekļi: centrālais altāris, kancele, divi pārvietojami altārīši un glezna „Marija ar bērniņu“. Gleznu rotā 18. gs. pirmajā pusē izveidoti apkalumi, kurus Dusetu baznīcai 1746. gadā uzdāvināja grāfi Pļāteri.",
-          "category": "Salakas"
+          "category": "Dusetos"
         },
         "en": {
           "name": "Dusetos Church of the Holy Trinity",
           "description": "The current brick church was completed in 1888. Inside the church are three altars, which house some of the old sculptures by L. Gogelis. Dusetos church has one historical (organ) and five art monuments: the central altar, the pulpit, two movable small altars, and the painting \"Mary with the Child\". The painting is adorned with covers created in the first half of the 18th century, gifted to the Dusetos church by the Counts Plater in 1746.",
-          "category": "Salakas"
+          "category": "Dusetos"
         },
         "de": {
           "name": "DREIFALTIGKEITSKIRCHE DUSETOS",
           "description": "Die heutige gemauerte Kirche wurde 1888 fertiggestellt. Im Inneren der Kirche befinden sich drei Altäre, in denen ein Teil der alten Skulpturen von L. Gogelis aufbewahrt wird. In der Kirche von Dusetos gibt es ein historisches (die Orgel) und fünf Kunstdenkmäler: den zentralen Altar, die Kanzel, zwei tragbare Altäre und das Gemälde „Maria mit Kind“. Das Gemälde ist mit Beschlägen aus der ersten Hälfte des 18. Jahrhunderts verziert, die der Kirche von Dusetos 1746 von den Grafen Plater geschenkt wurden.",
-          "category": "Salakas"
+          "category": "Dusetos"
         },
         "pl": {
           "name": "KOŚCIÓŁ ŚW. TRÓJCY W DUSETOS",
           "description": "Obecny, murowany kościół, został ukończony w 1888 roku. Wewnątrz kościoła znajdują się trzy ołtarze, w których zachowana jest część starych rzeźb L. Gogelisa. W kościele w Dusetos znajduje się jeden zabytek historyczny (organy) i pięć zabytków sztuki: ołtarz główny, ambona, dwa przenośne ołtarzyki i obraz „Maria z Dzieciątkiem”. Obraz ozdobiony jest wykonanymi w pierwszej połowie XVIII wieku koszulkami (sukienkami), które podarowali kościołowi w Dusetos w 1746 r. hrabiowie Platerowie.",
-          "category": "Salakas"
+          "category": "Dusetos"
         },
         "ru": {
           "name": "КОСТЕЛ ПРЕСВЯТОЙ ТРОИЦЫ В ДУСЕТОС",
           "description": "Нынешний, каменный костел, достроен в 1888 году. Внутри костела находятся три алтаря, в которых хранится часть старых скульптур Л. Гогелиса. В Дусетском костеле есть один исторический (орган) и пять памятников искусства: центральный алтарь, кафедра, два переносных алтарика и картина «Мария с младенцем». Картину украшают созданные в первой половине XVIII в. оклады, которые подарили Дусетскому костелу в 1746 г. графы Плятеры.",
-          "category": "Salakas"
+          "category": "Dusetos"
         }
       }
     },
@@ -1950,32 +1950,32 @@
         "lt": {
           "name": "VASAKNŲ DVARAS",
           "description": "Istorinė autentiška aplinka, ežero ramuma, šimtamečių liepų parkas sukuria ypatingą aurą, kuria kadaise mėgavosi garbingosios Radvilų, Pliaterių ir Tiškevičių giminės. XVIII amžiaus svirnas rekonstruotas jungiant senąsias akmens ir plytų sienas su masyviomis ąžuolinėmis konstrukcijomis, stiklu, granitu. Dvaro teritorijoje atkurtas dar 18 a. veikęs bravoras, kuriame siūloma paragauti šešių rūšių nefiltruoto, gyvo alaus.",
-          "category": "Edukacinės programos"
+          "category": "Dvaras"
         },
         "lv": {
           "name": "VASAKNU MUIŽA",
           "description": "Vēsturiskā autentiskā vide, ezera miers, simtgadīgo liepu parks rada īpašu auru, kuru kādreiz baudīja cienījamās Radvilu, Pļāteru un Tiškeviču ģimenes. 18. gadsimta klēts rekonstruēta, savienojot vecās akmens un ķieģeļu sienas ar masīvām ozolkoka konstrukcijām, stiklu, granītu. Muižas teritorijā atjaunota vēl 18. gs. darbojusies alus darītava, kurā tiek piedāvāts nobaudīt sešu veidu nefiltrētu, dzīvo alu.",
-          "category": "Edukacinės programos"
+          "category": "Dvaras"
         },
         "en": {
           "name": "Vasaknos Manor",
           "description": "The historical authentic environment, the tranquility of the lake, and the park of century-old linden trees create a special aura once enjoyed by the honorable Radvila, Plater, and Tiškevičius families. The 18th-century granary was reconstructed by combining the old stone and brick walls with massive oak structures, glass, and granite. A brewery that operated in the 18th century was restored on the manor territory, where six types of unfiltered, live beer are offered for tasting.",
-          "category": "Edukacinės programos"
+          "category": "Dvaras"
         },
         "de": {
           "name": "GUT VASAKNOS",
           "description": "Die historische authentische Umgebung, die Ruhe des Sees und der Park mit hundertjährigen Linden schaffen eine besondere Aura, die einst von den angesehenen Familien Radvila, Plater und Tiškevičius genossen wurde. Der Speicher aus dem 18. Jahrhundert wurde rekonstruiert, indem die alten Stein- und Ziegelwände mit massiven Eichenstrukturen, Glas und Granit verbunden wurden. Auf dem Gelände des Gutes wurde die noch im 18. Jahrhundert betriebene Brauerei wiederhergestellt, in der sechs Sorten ungefiltertes, lebendiges Bier probiert werden können.",
-          "category": "Edukacinės programos"
+          "category": "Dvaras"
         },
         "pl": {
           "name": "DWÓR W VASAKNOS",
           "description": "Historyczne i autentyczne otoczenie, spokój jeziora, park stuletnich lip tworzą szczególną aurę, którą niegdyś cieszyły się zaszczytne rody Radziwiłłów, Platerów i Tyszkiewiczów. Spichlerz z XVIII wieku został zrekonstruowany, łącząc stare kamienne i ceglane mury z masywnymi konstrukcjami dębowymi, szkłem, granitem. Na terenie dworu odbudowano działający jeszcze w XVIII wieku browar, w którym można skosztować sześciu rodzajów niefiltrowanego, żywego piwa.",
-          "category": "Edukacinės programos"
+          "category": "Dvaras"
         },
         "ru": {
           "name": "ПОМЕСТЬЕ ВАСАКНОС",
           "description": "Историческая аутентичная обстановка, спокойствие озера, парк столетних лип создают особую ауру, которой когда-то наслаждались почтенные роды Радзивиллов, Плятеров и Тышкевичей. Амбар XVIII века реконструирован путем объединения старых каменных и кирпичных стен с массивными дубовыми конструкциями, стеклом, гранитом. На территории поместья восстановлена действовавшая еще в XVIII в. пивоварня, в которой предлагается попробовать шесть сортов нефильтрованного, живого пива.",
-          "category": "Edukacinės programos"
+          "category": "Dvaras"
         }
       }
     },
@@ -3305,7 +3305,7 @@
         "lt": {
           "name": "SMALVŲ ŠVČ. MERGELĖS MARIJOS ROŽANČINĖS BAŽNYČIA",
           "description": "Bažnyčia stovi gyvenvietės centre, aikštėje, susidariusioje kelių sankirtoje. Šventoriaus vakarinėje pusėje stovi medinė varpinė. 1857 m. grafas Pliateris kartu su Smalvų parapijiečiais atstatė ir įrengė dabartinę Smalvų bažnyčią. Didysis altorius yra pušinis, gana gausiai paauksuotas. Jame - Dievo Motinos Rožančinės paveikslas, tapytas Kazimiero Gorackio.",
-          "category": "Degučiai"
+          "category": "Turmantas"
         },
         "lv": {
           "name": "SMALVU VISSV. JAUNAVAS MARIJAS ROŽUKROŅA BAZNĪCA",
@@ -3351,32 +3351,32 @@
         "lt": {
           "name": "TURMANTO ŠVČ. JĖZAUS ŠIRDIES BAŽNYČIA",
           "description": "Turmanto Švč. Jėzaus Širdies bažnyčia stovi Turmanto miestelyje, Latvijos pasienyje, pamaldos laikomos lietuvių ir lenkų kalbomis. 1928 m. pastatyta dabartinė medinė bažnyčia, parapija įkurta 1945 m.",
-          "category": "Degučiai"
+          "category": "Turmantas"
         },
         "lv": {
           "name": "TURMANTA VISSV. JĒZUS SIRDS BAZNĪCA",
           "description": "Turmanta Vissv. Jēzus Sirds baznīca stāv Turmanta pilsētiņā, pie Latvijas robežas, dievkalpojumi notiek lietuviešu un poļu valodās. 1928. gadā celta pašreizējā koka baznīca, draudze dibināta 1945. gadā.",
-          "category": "Degučiai"
+          "category": "Turmantas"
         },
         "en": {
           "name": "Turmantas Church of the Sacred Heart of Jesus",
           "description": "The Turmantas Church of the Sacred Heart of Jesus stands in the town of Turmantas, on the Latvian border. Services are held in Lithuanian and Polish. The current wooden church was built in 1928, and the parish was established in 1945.",
-          "category": "Degučiai"
+          "category": "Turmantas"
         },
         "de": {
           "name": "KIRCHE DES HEILIGSTEN HERZEN JESU IN TURMANTAS",
           "description": "Die Kirche des Heiligsten Herzen Jesu in Turmantas steht in der Stadt Turmantas, nahe der lettischen Grenze; die Gottesdienste werden in litauischer und polnischer Sprache abgehalten. 1928 wurde die heutige Holzkirche erbaut, die Pfarrei wurde 1945 gegründet.",
-          "category": "Degučiai"
+          "category": "Turmantas"
         },
         "pl": {
           "name": "KOŚCIÓŁ NAJŚWIĘTSZEGO SERCA JEZUSOWEGO W TURMANTAS",
           "description": "Znajduje się przy granicy z Łotwą w Turmantas. Podstawowym zrębem do nabożeństw wielojęzycznych stał się po parafialnym w 1945 r., zastępując pierwowzór z 1928 r.",
-          "category": "Degučiai"
+          "category": "Turmantas"
         },
         "ru": {
           "name": "ТУРМАНТСКИЙ КОСТЕЛ СВЯТЕЙШЕГО СЕРДЦА ИИСУСА",
           "description": "Турмантский костел Святейшего Сердца Иисуса стоит в городке Турмантас, на границе с Латвией, богослужения проводятся на литовском и польском языках. В 1928 г. построен нынешний деревянный костел, приход основан в 1945 г.",
-          "category": "Degučiai"
+          "category": "Turmantas"
         }
       }
     },
@@ -3400,32 +3400,32 @@
         "lt": {
           "name": "PIRMOJO PASAULINIO KARO VOKIEČIŲ ĮTVIRTINIMAI",
           "description": "1914 metais Europoje įsiplieskus Pirmojo pasaulinio karo veiksmams, Zarasus vokiečių kariuomenė užėmė 1915 m. rugsėjo 18 d.  Fronto linija, nusistovėjusi rytinėje dabartinės Lietuvos dalyje, Zarasų krašte tęsėsi beveik palei dabartinę Lietuvos ir Latvijos sieną. Šiuo metu dar yra išlikę  įvairiausios paskirties statiniai: bunkeriai, ugnies pozicijos, didelis karo lauko ligoninės kompleksas, artilerijos sandėliai ir valdymo štabai.",
-          "category": "Degučiai"
+          "category": "Turmantas"
         },
         "lv": {
           "name": "PIRMĀ PASAULES KARA VĀCU NOCIETINĀJUMI",
           "description": "1914. gadā Eiropā uzliesmojot Pirmā pasaules kara darbībām, Zarasus vācu karaspēks ieņēma 1915. gada 18. septembrī. Frontes līnija, kas nostabilizējās mūsdienu Lietuvas austrumu daļā, Zarasu novadā stiepās gandrīz gar mūsdienu Lietuvas un Latvijas robežu. Šobrīd vēl ir saglabājušās visdažādākā pielietojuma būves: bunkuri, uguns pozīcijas, liels kara lauka slimnīcas komplekss, artilērijas noliktavas un vadības štābi.",
-          "category": "Degučiai"
+          "category": "Turmantas"
         },
         "en": {
           "name": "First World War German Fortifications",
           "description": "When First World War action erupted in Europe in 1914, the German army occupied Zarasai on September 18, 1915. The front line, having stabilized in the eastern part of present-day Lithuania, stretched in the Zarasai region almost along the current Lithuanian-Latvian border. Currently, various purpose structures have survived: bunkers, firing positions, a large field hospital complex, artillery warehouses, and command headquarters.",
-          "category": "Degučiai"
+          "category": "Turmantas"
         },
         "de": {
           "name": "DEUTSCHE BEFESTIGUNGSANLAGEN DES ERSTEN WELTKRIEGS",
           "description": "Als 1914 die Kampfhandlungen des Ersten Weltkriegs in Europa aufflammten, wurde Zarasai am 18. September 1915 von der deutschen Armee eingenommen. Die Frontlinie, die sich im östlichen Teil des heutigen Litauen stabilisierte, verlief in der Region Zarasai fast entlang der heutigen Grenze zwischen Litauen und Lettland. Derzeit sind noch Bauwerke für die unterschiedlichsten Zwecke erhalten: Bunker, Feuerstellungen, ein großer Feldlazarettkomplex, Artilleriedepots und Kommandostäbe.",
-          "category": "Degučiai"
+          "category": "Turmantas"
         },
         "pl": {
           "name": "UMOCNIENIA NIEMIECKIE Z OKRESU I WOJNY ŚWIATOWEJ",
           "description": "Po eskalacji w Europie, obszar został opanowany i utrzymany przez jednostki we wrześniu 1915 r. Z racji linii przy obecnej granicy Łotewskiej można dostrzec pozostałości jak szpitale, okopy czy małe fortece i schrony.",
-          "category": "Degučiai"
+          "category": "Turmantas"
         },
         "ru": {
           "name": "НЕМЕЦКИЕ УКРЕПЛЕНИЯ ПЕРВОЙ МИРОВОЙ ВОЙНЫ",
           "description": "Когда в 1914 году в Европе вспыхнули военные действия Первой мировой войны, Зарасай был занят немецкими войсками 18 сентября 1915 года. Линия фронта, стабилизировавшаяся в восточной части нынешней Литвы, в Зарасайском крае проходила почти вдоль нынешней границы между Литвой и Латвией. В настоящее время еще сохранились сооружения самого разного назначения: бункеры, огневые позиции, большой комплекс полевого госпиталя, артиллерийские склады и командные штабы.",
-          "category": "Degučiai"
+          "category": "Turmantas"
         }
       }
     },
@@ -3736,32 +3736,32 @@
         "lt": {
           "name": "G. SINO ŠEIMOS VYNINĖS EDUKACINĖ PROGRAMA",
           "description": "Kitoje Zaraso  ežero pusėje, Juodalaukių kaime,  įsikūrusi  Gintaro Sino šeimos vyninė kviečia grupes  susipažinti su lietuviško vaisių - uogų vyno gamyba ir charizmatišku vyndariu. Edukacinė programa trunka nuo dviejų iki keturių valandų. Čia galima įsigyti  įsimintinų dovanų ir puikiai praleisti laiką. Juodalaukių km. 12, Zarasų sen., Zarasų r.",
-          "category": "Zarasai"
+          "category": "Edukacinės programos"
         },
         "lv": {
           "name": "G. SINO ĢIMENES VĪNA DARĪTAVAS IZGLĪTOJOŠĀ PROGRAMMA",
           "description": "Otrpus Zarasas ezeram, Juodalauķu ciemā, esošā Gintara Sino ģimenes vīna darītava aicina grupas iepazīties ar Lietuvas augļu - ogu vīna ražošanu un harizmātisku vīndari. Izglītojošā programma ilgst no divām līdz četrām stundām. Šeit var iegādāties neaizmirstamas dāvanas un lieliski pavadīt laiku. Juodalauķu c. 12, Zarasu seņūnija, Zarasu raj.",
-          "category": "Zarasai"
+          "category": "Edukacinės programos"
         },
         "en": {
           "name": "G. Sinas Family Winery Educational Program",
           "description": "On the other side of Lake Zarasas, in Juodalaukiai village, the Gintaras Sinas family winery invites groups to learn about the production of Lithuanian fruit and berry wine and meet the charismatic winemaker. The educational program lasts from two to four hours. Here you can buy memorable gifts and have a great time. Juodalaukiai village 12, Zarasai eldership, Zarasai district.",
-          "category": "Zarasai"
+          "category": "Edukacinės programos"
         },
         "de": {
           "name": "BILDUNGSPROGRAMM DES WEINGUTS DER FAMILIE G. SINAS",
           "description": "Auf der anderen Seite des Zarasas-Sees, im Dorf Juodalaukiai, lädt das Weingut der Familie Gintaras Sinas Gruppen ein, sich mit der litauischen Frucht- und Beerenweinherstellung und dem charismatischen Winzer vertraut zu machen. Das Bildungsprogramm dauert zwei bis vier Stunden. Hier können Sie unvergessliche Geschenke kaufen und eine tolle Zeit verbringen. Juodalaukiai-Dorf 12, Amtsbezirk Zarasai, Bezirk Zarasai.",
-          "category": "Zarasai"
+          "category": "Edukacinės programos"
         },
         "pl": {
           "name": "WYTWÓRNIA WINA G. SINAS Z PROGRAMEM EDUKACYJNYM",
           "description": "W pobliskim Juodalaukiai (12) (brzeg przeciwstawny) urokliwy właściciel zaprasza grupy dorosłych po kulisach wyrobów narodowych trunków na podstawie rodzimych owoców lasów i sadów. Sesje degustacyjne (2-4h). Do nabycia własnoręczne specjały pamiątkowe.",
-          "category": "Zarasai"
+          "category": "Edukacinės programos"
         },
         "ru": {
           "name": "ОБРАЗОВАТЕЛЬНАЯ ПРОГРАММА ВИНОДЕЛЬНИ СЕМЬИ Г. СИНАСА",
           "description": "На другой стороне озера Зарасас, в деревне Юодалаукяй, винодельня семьи Гинтараса Синаса приглашает группы познакомиться с производством литовского плодово-ягодного вина и с харизматичным виноделом. Образовательная программа длится от двух до четырех часов. Здесь можно купить памятные подарки и прекрасно провести время. Дер. Юодалаукяй 12, сянюния Зарасай, Зарасайский р-н.",
-          "category": "Zarasai"
+          "category": "Edukacinės programos"
         }
       }
     },
@@ -4217,32 +4217,32 @@
         "lt": {
           "name": "VASAKNŲ DVARO BRAVORO EDUKACINĖ PROGRAMA",
           "description": "Dvaro teritorijoje atkurtas dar XVIII a. veikęs bravoras, kuriame siūloma įdomi edukacinė programa. Jos metu siūloma paragauti šešių rūšių nefiltruoto, gyvo alaus ir pasivaišinti dvaro valgiais.",
-          "category": "Dusetos"
+          "category": "Edukacinės programos"
         },
         "lv": {
           "name": "VASAKNU MUIŽAS ALUS DARĪTAVAS IZGLĪTOJOŠĀ PROGRAMMA",
           "description": "Muižas teritorijā atjaunota vēl 18. gs. darbojusies alus darītava, kurā tiek piedāvāta interesanta izglītojošā programma. Tās laikā tiek piedāvāts nobaudīt sešu veidu nefiltrētu, dzīvo alu un cienāties ar muižas ēdieniem.",
-          "category": "Dusetos"
+          "category": "Edukacinės programos"
         },
         "en": {
           "name": "Vasaknos Manor Brewery Educational Program",
           "description": "A brewery that operated in the 18th century was restored on the manor territory, offering an interesting educational program. During it, you are invited to taste six types of unfiltered, live beer and treat yourself to manor meals.",
-          "category": "Dusetos"
+          "category": "Edukacinės programos"
         },
         "de": {
           "name": "BILDUNGSPROGRAMM DER BRAUEREI DES GUTES VASAKNOS",
           "description": "Auf dem Gelände des Gutes wurde die noch im 18. Jahrhundert betriebene Brauerei wiederhergestellt, in der ein interessantes Bildungsprogramm angeboten wird. Dabei wird angeboten, sechs Sorten ungefiltertes, lebendiges Bier zu probieren und sich mit den Gerichten des Gutes bewirten zu lassen.",
-          "category": "Dusetos"
+          "category": "Edukacinės programos"
         },
         "pl": {
           "name": "PROGRAM EDUKACYJNY BROWARU W DWORZE VASAKNOS",
           "description": "Na obszarze zachowanego terytorium dworskiego rzemiosła (18 wiek), serwujemy bogate doznania podniebienia wraz z szóstką niefiltrowanych lokalnych rodzajów piw.",
-          "category": "Dusetos"
+          "category": "Edukacinės programos"
         },
         "ru": {
           "name": "ОБРАЗОВАТЕЛЬНАЯ ПРОГРАММА ПИВОВАРНИ ПОМЕСТЬЯ ВАСАКНОС",
           "description": "На территории поместья восстановлена действовавшая еще в XVIII в. пивоварня, в которой предлагается интересная образовательная программа. Во время нее предлагается попробовать шесть сортов нефильтрованного, живого пива и угоститься блюдами поместья.",
-          "category": "Dusetos"
+          "category": "Edukacinės programos"
         }
       }
     },
@@ -4315,32 +4315,32 @@
         "lt": {
           "name": "ANTAZAVĖS DVARAS IR TRADICINIŲ AMATŲ CENTRAS",
           "description": "Antazavėje, ant šiaurinio Zalvės ežero kranto stovi neoklasicistinio stiliaus dvaro rūmai, kadaise priklausę",
-          "category": "Edukacinės programos"
+          "category": "Dvaras"
         },
         "lv": {
           "name": "ANTAZAVES MUIŽA UN TRADICIONĀLO AMATU CENTRS",
           "description": "Antazavē, Zalves ezera ziemeļu krastā stāv neoklasicisma stila muižas pils, kas kādreiz piederēja",
-          "category": "Edukacinės programos"
+          "category": "Dvaras"
         },
         "en": {
           "name": "Antazavė Manor and Traditional Crafts Center",
           "description": "In Antazavė, on the northern shore of Lake Zalvė, stands a neo-classical manor palace, which once belonged to the famous Plater family.",
-          "category": "Edukacinės programos"
+          "category": "Dvaras"
         },
         "de": {
           "name": "GUT ANTAZAVĖ UND ZENTRUM FÜR TRADITIONELLE HANDWERKE",
           "description": "In Antazavė, am Nordufer des Zalvė-Sees, steht ein Herrenhaus im neoklassizistischen Stil, das einst gehörte",
-          "category": "Edukacinės programos"
+          "category": "Dvaras"
         },
         "pl": {
           "name": "DWÓR ANTAZAVĖ ORAZ CENTRUM RZEMIOSŁ",
           "description": "W sąsiedztwie północy jezior (Zalvės) z dumną byłą siedzibą w starym dworze na fundamentach Platerów.",
-          "category": "Edukacinės programos"
+          "category": "Dvaras"
         },
         "ru": {
           "name": "ПОМЕСТЬЕ АНТАЗАВЕ И ЦЕНТР ТРАДИЦИОННЫХ РЕМЕСЕЛ",
           "description": "В Антазаве, на северном берегу озера Залве, стоит усадьба в неоклассическом стиле, когда-то принадлежавшая знаменитому роду Плятеров.",
-          "category": "Edukacinės programos"
+          "category": "Dvaras"
         }
       }
     },
