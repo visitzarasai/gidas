@@ -339,32 +339,32 @@
         "lt": {
           "name": "ZARASŲ R. SAVIVALDYBĖS VIEŠOJI BIBLIOTEKA",
           "description": "Zarasų viešoji biblioteka - moderni, saugi, kūrybiška ir visiems prieinama atvira erdvė. Čia teikiamos informacinės, kultūros ir švietimo paslaugos. Iš jos salių matosi nuostabus vaizdas į du ežerus, ši biblioteka - švytintis žinių ir kultūros perlas tarp dviejų ežerų.",
-          "category": "Zarasai"
+          "category": "Informacija"
         },
         "lv": {
           "name": "ZARASU RAJONA PAŠVALDĪBAS PUBLISKĀ BIBLIOTĒKA",
           "description": "Zarasu publiskā bibliotēka - moderna, droša, radoša un visiem pieejama atvērta telpa. Šeit tiek sniegti informācijas, kultūras un izglītības pakalpojumi. No tās zālēm paveras brīnišķīgs skats uz diviem ezeriem, šī bibliotēka ir spīdoša zināšanu un kultūras pērle starp diviem ezeriem.",
-          "category": "Zarasai"
+          "category": "Informacija"
         },
         "en": {
           "name": "Zarasai District Municipality Public Library",
           "description": "Zarasai public library is a modern, safe, creative and accessible open space. It provides information, cultural and educational services. Its halls offer a wonderful view of two lakes, making this library a shining pearl of knowledge and culture between two lakes.",
-          "category": "Zarasai"
+          "category": "Informacija"
         },
         "de": {
           "name": "ÖFFENTLICHE BIBLIOTHEK DER BEZIRKSGEMEINDE ZARASAI",
           "description": "Die öffentliche Bibliothek von Zarasai ist ein moderner, sicherer, kreativer und zugänglicher offener Raum. Hier werden Informations-, Kultur- und Bildungsdienste angeboten. Von ihren Sälen aus hat man einen wunderbaren Blick auf zwei Seen. Diese Bibliothek ist eine leuchtende Perle des Wissens und der Kultur zwischen zwei Seen.",
-          "category": "Zarasai"
+          "category": "Informacija"
         },
         "pl": {
           "name": "BIBLIOTEKA PUBLICZNA SAMORZĄDU REJONU ZARASAI",
           "description": "Biblioteka Publiczna w Zarasach to nowoczesna, bezpieczna, kreatywna i dostępna dla wszystkich otwarta przestrzeń. Świadczone są tutaj usługi informacyjne, kulturalne i edukacyjne. Z jej sal roztacza się wspaniały widok na dwa jeziora, ta biblioteka to lśniąca perła wiedzy i kultury między dwoma jeziorami.",
-          "category": "Zarasai"
+          "category": "Informacija"
         },
         "ru": {
           "name": "ПУБЛИЧНАЯ БИБЛИОТЕКА ЗАРАСАЙСКОГО РАЙОННОГО САМОУПРАВЛЕНИЯ",
           "description": "Зарасайская публичная библиотека - современное, безопасное, творческое и доступное для всех открытое пространство. Здесь предоставляются информационные, культурные и образовательные услуги. Из ее залов открывается прекрасный вид на два озера, эта библиотека - сияющая жемчужина знаний и культуры между двумя озерами.",
-          "category": "Zarasai"
+          "category": "Informacija"
         }
       }
     },
@@ -1436,32 +1436,32 @@
         "lt": {
           "name": "POETO A. VIENAŽINDŽIO VISUOMENINIS – MEMORIALINIS MUZIEJUS",
           "description": "Poeto kunigo Antano Vienažindžio visuomeninis memorialinis muziejus įkurtas 1972 m. senelio name, Gipėnų kaime. Sodybą tvarkingai prižiūri poeto giminaičiai. Dalis šio erdvaus namo skirta dainiaus atminimui. Muziejuje eksponuojami autentiški baldai, poeto rankraščių faksimilės, jo kūrybos rinktinės ir kita.",
-          "category": "Salakas"
+          "category": "Dusetos"
         },
         "lv": {
           "name": "DZEJNIEKA A. VIENAŽINŽA SABIEDRISKAIS - MEMORIĀLAIS MUZEJS",
           "description": "Dzejnieka priestera Antana Vienažinža sabiedriskais memoriālais muzejs dibināts 1972. gadā vectēva mājā, Ģipēnu ciemā. Sētu kārtīgi uztur dzejnieka radinieki. Daļa šīs plašās mājas veltīta dziesminieka piemiņai. Muzejā eksponētas autentiskas mēbeles, dzejnieka rokrakstu faksimili, viņa radošo darbu izlases un cits.",
-          "category": "Salakas"
+          "category": "Dusetos"
         },
         "en": {
           "name": "Public-Memorial Museum of Poet A. Vienažindys",
           "description": "The public memorial museum of poet and priest Antanas Vienažindys was established in 1972 in his grandfather's house in Gipėnai village. The homestead is neatly maintained by the poet's relatives. A part of this spacious house is dedicated to the bard's memory. The museum exhibits authentic furniture, facsimiles of the poet's manuscripts, selections of his work, and more.",
-          "category": "Salakas"
+          "category": "Dusetos"
         },
         "de": {
           "name": "ÖFFENTLICHES GEDENKMUSEUM DES DICHTERS A. VIENAŽINDIS",
           "description": "Das öffentliche Gedenkmuseum des Dichters und Priesters Antanas Vienažindis wurde 1972 im Haus seines Großvaters im Dorf Gipėnai gegründet. Das Gehöft wird von den Verwandten des Dichters gut gepflegt. Ein Teil dieses geräumigen Hauses ist dem Andenken des Sängers gewidmet. Das Museum stellt authentische Möbel, Faksimiles der Manuskripte des Dichters, Sammlungen seiner Werke und anderes aus.",
-          "category": "Salakas"
+          "category": "Dusetos"
         },
         "pl": {
           "name": "SPOŁECZNE MUZEUM MEMORIALNE POETY A. VIENAŽINDISA",
           "description": "Społeczne muzeum memorialne księdza poety Antanasa Vienažindisa zostało założone w 1972 roku w domu dziadka, we wsi Gipėnai. Gospodarstwo jest zadbane i utrzymywane przez krewnych poety. Część tego przestronnego domu przeznaczona jest na pamiątkę wieszcza. W muzeum eksponowane są autentyczne meble, faksymile rękopisów poety, zbiory jego twórczości i inne rzeczy.",
-          "category": "Salakas"
+          "category": "Dusetos"
         },
         "ru": {
           "name": "ОБЩЕСТВЕННЫЙ МЕМОРИАЛЬНЫЙ МУЗЕЙ ПОЭТА А. ВЕНАЖИНДИСА",
           "description": "Общественный мемориальный музей поэта-священника Антанаса Венажиндиса был основан в 1972 году в доме дедушки в деревне Гипенай. За усадьбой бережно ухаживают родственники поэта. Часть этого просторного дома посвящена памяти певца. В музее экспонируется аутентичная мебель, факсимиле рукописей поэта, сборники его произведений и многое другое.",
-          "category": "Salakas"
+          "category": "Dusetos"
         }
       }
     },
@@ -1480,32 +1480,32 @@
         "lt": {
           "name": "VELIKUŠKIŲ II  (SALOS) PILIAKALNIS",
           "description": "Piliakalnis yra Sartų ežero Bradesių  įlankos rytinio galo krante, tarp Zalvės ežero ir Zalvės upelio kairiajame krante. Iš trijų pusių piliakalnį supa vanduo, todėl piliakalnis dar žinomas Salos pavadinimu. Piliakalnio aikštelėje išliko kultūrinis sluoksnis, kuriame rasta lipdytinės lygiosios keramikos fragmentų, gyvulių kaulų ir akmeninių kirvukų, jo pašlaitėse yra senovinės gyvenvietės žymės.",
-          "category": "Salakas"
+          "category": "Gamta"
         },
         "lv": {
           "name": "VELIKUŠĶU II (SALAS) PILSKALNS",
           "description": "Pilskalns atrodas Sartu ezera Bradesu līča austrumu gala krastā, starp Zalves ezeru un Zalves upītes kreiso krastu. No trīs pusēm pilskalnu ieskauj ūdens, tāpēc pilskalns pazīstams arī ar Salas nosaukumu. Pilskalna laukumā saglabājies kultūrslānis, kurā atrasti veidotas gludās keramikas fragmenti, dzīvnieku kauli un akmens cirvīši, tā nogāzēs ir senas apmetnes zīmes.",
-          "category": "Salakas"
+          "category": "Gamta"
         },
         "en": {
           "name": "Velikuškės II (Island) Mound",
           "description": "The mound is located on the eastern end shore of the Bradesiai bay of Lake Sartai, on the left bank between Lake Zalvė and the Zalvė stream. Water surrounds the mound on three sides, hence it is also known as the Island. A cultural layer survived on the mound site, where fragments of hand-built smooth ceramics, animal bones, and stone axes were found, and marks of an ancient settlement are on its slopes.",
-          "category": "Salakas"
+          "category": "Gamta"
         },
         "de": {
           "name": "HÜGELGRAB VELIKUŠKĖS II (SALOS)",
           "description": "Das Hügelgrab befindet sich am Ostende der Bucht von Bradesiai des Sartai-Sees, zwischen dem Zalvė-See und dem linken Ufer des Zalvė-Baches. Auf drei Seiten ist das Hügelgrab von Wasser umgeben, weshalb es auch unter dem Namen Salos (Insel) bekannt ist. Auf dem Gelände des Hügelgrabs ist eine Kulturschicht erhalten geblieben, in der Fragmente von handgeformter glatter Keramik, Tierknochen und Steinäxte gefunden wurden; an seinen Hängen gibt es Spuren einer alten Siedlung.",
-          "category": "Salakas"
+          "category": "Gamta"
         },
         "pl": {
           "name": "GRODZISKO VELIKUŠKĖS II (SALOS)",
           "description": "Grodzisko znajduje się na brzegu wschodniego krańca zatoki Bradesiai na jeziorze Sartai, pomiędzy jeziorem Zalvė i na lewym brzegu strumienia Zalvė. Z trzech stron grodzisko otoczone jest wodą, dlatego znane jest również pod nazwą Salos (Wyspy). Na dziedzińcu grodziska zachowała się warstwa kulturowa, w której znaleziono fragmenty gładkiej ceramiki lepionej, kości zwierzęce i kamienne toporki, a na jego zboczach widoczne są ślady starożytnej osady.",
-          "category": "Salakas"
+          "category": "Gamta"
         },
         "ru": {
           "name": "КУРГАН ВЕЛИКУШКЕС II (ОСТРОВНОЙ)",
           "description": "Курган находится на берегу восточной оконечности залива Брадесю озера Сартай, между озером Залве и левым берегом ручья Залве. С трех сторон курган окружен водой, поэтому он также известен под названием Салос (Островной). На площадке кургана сохранился культурный слой, в котором найдены фрагменты гладкой лепной керамики, кости животных и каменные топорики, а на его склонах есть следы древнего поселения.",
-          "category": "Salakas"
+          "category": "Gamta"
         }
       }
     },
@@ -1810,32 +1810,32 @@
         "lt": {
           "name": "PAMINKLAS E. PLIATERYTEI IR C. PLIATERIUI",
           "description": "1830 – 1831 m. sukilimas Lenkijos Karalystėje ir Lietuvoje buvo carizmo pavergtų tautų kova dėl laisvės. Tarp sukilimo dalyvių drąsa ir ryžtingumu pagarsėjo grafaitė Emilija Pliaterytė, kuri kovėsi pirmose sukilėlių gretose. 2006 m., minint E. Pliaterytės 200-ąsias gimimo metines,  jai ir Cezariui Pliateriui atidengtas paminklinis akmuo.",
-          "category": "Informacija"
+          "category": "Dusetos"
         },
         "lv": {
           "name": "PIEMINEKLIS E. PĻĀTEREI UN C. PĻĀTERIM",
           "description": "1830. – 1831. gada sacelšanās Polijas Karalistē un Lietuvā bija carisma paverdzināto tautu cīņa par brīvību. Starp sacelšanās dalībniekiem ar drosmi un apņēmību izcēlās grāfiene Emīlija Pļātere, kura cīnījās pirmajās nemiernieku rindās. 2006. gadā, atzīmējot E. Pļāteres 200. dzimšanas gadadienu, viņai un Cēzaram Pļāterim atklāts piemiņas akmens.",
-          "category": "Informacija"
+          "category": "Dusetos"
         },
         "en": {
           "name": "Monument to E. Pliaterytė and C. Pliateris",
           "description": "The 1830-1831 uprising in the Kingdom of Poland and Lithuania was a struggle for freedom by nations enslaved by Tsarism. Among the participants of the uprising, Countess Emilija Pliaterytė, who fought in the front lines of the rebels, became famous for her courage and determination. In 2006, commemorating the 200th anniversary of E. Pliaterytė's birth, a memorial stone was unveiled to her and Cezaris Pliateris.",
-          "category": "Informacija"
+          "category": "Dusetos"
         },
         "de": {
           "name": "DENKMAL FÜR E. PLIATERTYTĖ UND C. PLIATERIS",
           "description": "Der Aufstand von 1830–1831 im Königreich Polen und in Litauen war ein Kampf der vom Zarismus unterjochten Völker um die Freiheit. Unter den Teilnehmern des Aufstands wurde die Gräfin Emilija Pliaterytė durch ihren Mut und ihre Entschlossenheit berühmt; sie kämpfte an vorderster Front der Aufständischen. Im Jahr 2006, zum Gedenken an den 200. Geburtstag von E. Pliaterytė, wurde ein Gedenkstein für sie und Cezaris Pliateris enthüllt.",
-          "category": "Informacija"
+          "category": "Dusetos"
         },
         "pl": {
           "name": "POMNIK E. PLIATERYTĖ (EMILII PLATER) I C. PLIATERISA (CEZAREGO PLATERA)",
           "description": "Powstanie 1830–1831 (listopadowe) w Królestwie Polskim i na Litwie było walką zniewolonych przez carat narodów o wolność. Wśród uczestników powstania z odwagi i determinacji zasłynęła hrabianka Emilia Plater, która walczyła w pierwszych szeregach powstańców. W 2006 roku, w 200. rocznicę urodzin Emilii Plater, odsłonięto kamień pamiątkowy poświęcony jej i Cezaremu Platerowi.",
-          "category": "Informacija"
+          "category": "Dusetos"
         },
         "ru": {
           "name": "ПАМЯТНИК Э. ПЛЯТЕР И Ц. ПЛЯТЕРУ",
           "description": "Восстание 1830–1831 гг. в Королевстве Польском и в Литве было борьбой порабощенных царизмом народов за свободу. Среди участников восстания своей смелостью и решительностью прославилась графиня Эмилия Плятер, сражавшаяся в первых рядах повстанцев. В 2006 г., в память о 200-летии со дня рождения Э. Плятер, ей и Цезарию Плятеру был открыт памятный камень.",
-          "category": "Informacija"
+          "category": "Dusetos"
         }
       }
     },
@@ -1857,32 +1857,32 @@
         "lt": {
           "name": "K. BŪGOS MEMORIALINIS MUZIEJUS",
           "description": "Muziejaus ekspozicijose pasakojama apie garsaus kalbininko K. Būgos mokslo metus, profesinę veiklą, mokslo darbus ir jo atminimo įamžinimą. Muziejuje eksponuojamos šeimyninės nuotraukos ir relikvijos, viename iš kambarių atkurtas K. Būgos gyvento laikmečio interjeras.",
-          "category": "Gamta"
+          "category": "Edukacinės programos"
         },
         "lv": {
           "name": "K. BŪGAS MEMORIĀLAIS MUZEJS",
           "description": "Muzeja ekspozīcijās stāstīts par slavenā valodnieka K. Būgas studiju gadiem, profesionālo darbību, zinātniskajiem darbiem un viņa piemiņas iemūžināšanu. Muzejā eksponētas ģimenes fotogrāfijas un relikvijas, vienā no istabām atjaunots K. Būgas dzīvotā laikmeta interjers.",
-          "category": "Gamta"
+          "category": "Edukacinės programos"
         },
         "en": {
           "name": "K. Būga Memorial Museum",
           "description": "The museum's exhibitions tell about the school years, professional activities, scientific works, and perpetuation of the memory of the famous linguist K. Būga. Family photos and relics are exhibited in the museum, and the interior of the era K. Būga lived in is recreated in one of the rooms.",
-          "category": "Gamta"
+          "category": "Edukacinės programos"
         },
         "de": {
           "name": "K. BŪGA-GEDENKMUSEUM",
           "description": "Die Ausstellungen des Museums erzählen von den Studienjahren des berühmten Sprachwissenschaftlers K. Būga, seiner beruflichen Tätigkeit, seinen wissenschaftlichen Arbeiten und der Bewahrung seines Andenkens. Das Museum stellt Familienfotos und Relikte aus; in einem der Räume ist das Interieur der Epoche, in der K. Būga lebte, nachgebildet.",
-          "category": "Gamta"
+          "category": "Edukacinės programos"
         },
         "pl": {
           "name": "MUZEUM MEMORIALNE K. BŪGI",
           "description": "Ekspozycje muzeum opowiadają o latach nauki, działalności zawodowej, pracy naukowej i upamiętnieniu słynnego językoznawcy K. Būgi. W muzeum eksponowane są rodzinne zdjęcia i relikwie, w jednym z pokoi odtworzono wnętrze z epoki, w której żył K. Būga.",
-          "category": "Gamta"
+          "category": "Edukacinės programos"
         },
         "ru": {
           "name": "МЕМОРИАЛЬНЫЙ МУЗЕЙ К. БУГИ",
           "description": "В экспозициях музея рассказывается о годах учебы известного языковеда К. Буги, его профессиональной деятельности, научных трудах и увековечивании его памяти. В музее экспонируются семейные фотографии и реликвии, в одной из комнат воссоздан интерьер эпохи, в которой жил К. Буга.",
-          "category": "Gamta"
+          "category": "Edukacinės programos"
         }
       }
     },
@@ -1998,32 +1998,32 @@
         "lt": {
           "name": "ILGAŠILIO PAŽINTINIS TAKAS",
           "description": "Keliaudami 240 m. įrengtu mediniu taku per Ilgašilio pelkę, lankytojai susipažins su saugomomis pelkinėmis buveinėmis, čia augančiomis retų augalų rūšimis, vykdomais gamtotvarkos darbais. Ilgašilio pelkė tai tarsi gegužraibių, Lietuvos orchidėjų karalystė. Nuo birželio mėn. čia galima sutikti net 14 gegužraibių rūšių.",
-          "category": "Edukacinės programos"
+          "category": "Gamta"
         },
         "lv": {
           "name": "ILGAŠIĻA IZZIŅAS TAKA",
           "description": "Ceļojot pa 240 m garumā ierīkoto koka taku caur Ilgašiļa purvu, apmeklētāji iepazīsies ar aizsargājamiem purva biotopiem, šeit augošām reto augu sugām, veicamajiem dabas apsaimniekošanas darbiem. Ilgašiļa purvs ir kā dzegužpirkstiņu, Lietuvas orhideju karaliste. No jūnija šeit var sastapt pat 14 dzegužpirkstiņu sugas.",
-          "category": "Edukacinės programos"
+          "category": "Gamta"
         },
         "en": {
           "name": "Ilgašilis Educational Trail",
           "description": "Traveling along the 240 m long wooden path through the Ilgašilis swamp, visitors will get acquainted with protected swamp habitats, rare plant species growing here, and ongoing nature management works. The Ilgašilis swamp is like a kingdom of orchids, Lithuanian orchids. From June, as many as 14 orchid species can be found here.",
-          "category": "Edukacinės programos"
+          "category": "Gamta"
         },
         "de": {
           "name": "LEHRPFAD ILGAŠILIS",
           "description": "Wenn Besucher über den 240 m langen Holzpfad durch das Ilgašilis-Moor wandern, lernen sie die geschützten Moorlebensräume, die hier wachsenden seltenen Pflanzenarten und die laufenden Naturschutzarbeiten kennen. Das Ilgašilis-Moor ist wie ein Königreich der Knabenkräuter, der litauischen Orchideen. Ab Juni sind hier bis zu 14 Arten von Knabenkräutern anzutreffen.",
-          "category": "Edukacinės programos"
+          "category": "Gamta"
         },
         "pl": {
           "name": "ŚCIEŻKA EDUKACYJNA W ILGAŠILIS",
           "description": "Wędrując drewnianą ścieżką o długości 240 m przez bagno Ilgašilis, odwiedzający zapoznają się z chronionymi siedliskami bagiennymi, rzadkimi gatunkami roślin tu rosnącymi, a także z prowadzonymi pracami z zakresu ochrony przyrody. Bagno Ilgašilis to niczym królestwo kukułek plamistych, litewskich orchidei. Od czerwca można tu spotkać nawet 14 gatunków tych kwiatów.",
-          "category": "Edukacinės programos"
+          "category": "Gamta"
         },
         "ru": {
           "name": "ПОЗНАВАТЕЛЬНАЯ ТРОПА ИЛГАШИЛИС",
           "description": "Путешествуя по деревянной тропе длиной 240 м через болото Илгашилис, посетители познакомятся с охраняемыми болотными средами обитания, растущими здесь редкими видами растений, проводимыми природоохранными работами. Болото Илгашилис – это словно королевство ятрышников, литовских орхидей. С июня здесь можно встретить целых 14 видов ятрышников.",
-          "category": "Edukacinės programos"
+          "category": "Gamta"
         }
       }
     },
@@ -2046,32 +2046,32 @@
         "lt": {
           "name": "JASKONIŠKIŲ PAŽINTINIS TAKAS",
           "description": "Pažintinis takas 1,4 km vingiuoja per smėlingą pušyną, nuo seno vadinama „smalinyčia“, nes žmonės čia rinkdavo pušų sakus (smalą). Take įrengta 14 stotelių, o nuotaikingi stendai jose papasakos kiek įvairiausių miško gyventojų gali naudotis meletos iškaltu uoksu, kodėl gieda paukščiai, kam reikalingi stuobriai ir kita negyva mediena ir t.t",
-          "category": "Edukacinės programos"
+          "category": "Gamta"
         },
         "lv": {
           "name": "JASKONIŠĶU IZZIŅAS TAKA",
           "description": "Izziņas taka 1,4 km garumā līkumo caur smilšaino priežu mežu, ko izsenis sauc par „smalīnicu”, jo cilvēki šeit vāca priežu sveķus (smalu). Takā ierīkotas 14 pieturvietas, bet jautri stendi tajās pastāstīs par to, cik dažādi meža iedzīvotāji var izmantot dzilnas izkalto dobumu, kāpēc dzied putni, kam nepieciešami sausokņi un cita mirusī koksne utt.",
-          "category": "Edukacinės programos"
+          "category": "Gamta"
         },
         "en": {
           "name": "Jaskoniškės Educational Trail",
           "description": "The 1.4 km educational trail winds through a sandy pine forest, long known as \"smalinyčia\" because people used to collect pine resin (smala) here. The trail has 14 stops, and cheerful stands will tell how many different forest inhabitants can use a hollow carved by a woodpecker, why birds sing, what deadwood and other dead wood is for, etc.",
-          "category": "Edukacinės programos"
+          "category": "Gamta"
         },
         "de": {
           "name": "LEHRPFAD JASKONIŠKĖS",
           "description": "Der 1,4 km lange Lehrpfad schlängelt sich durch einen sandigen Kiefernwald, der seit langem „Smalinyčia“ genannt wird, weil die Menschen hier Kiefernharz (Smala) sammelten. Auf dem Weg gibt es 14 Stationen, und die lustigen Stände erzählen, wie viele verschiedene Waldbewohner die von einem Schwarzspecht in den Baum gehackte Höhle nutzen können, warum Vögel singen, wofür Baumstümpfe und anderes Totholz benötigt werden, usw.",
-          "category": "Edukacinės programos"
+          "category": "Gamta"
         },
         "pl": {
           "name": "ŚCIEŻKA EDUKACYJNA W JASKONIŠKĖS",
           "description": "Ścieżka edukacyjna wije się na dystansie 1,4 km przez piaszczysty las sosnowy, nazywany od dawna „smalinyčia”, ponieważ ludzie zbierali tu żywicę (smalę) z sosen. Na ścieżce znajduje się 14 stacji, a wesołe tablice na nich opowiedzą, ilu różnorodnych mieszkańców lasu może korzystać z dziupli wykutej przez dzięcioła czarnego, dlaczego ptaki śpiewają, po co potrzebne są obumarłe pnie i inne martwe drewno, itp.",
-          "category": "Edukacinės programos"
+          "category": "Gamta"
         },
         "ru": {
           "name": "ПОЗНАВАТЕЛЬНАЯ ТРОПА ЯСКОНИШКЕС",
           "description": "Познавательная тропа длиной 1,4 км извивается через песчаный сосновый лес, издавна называемый «смалинычя», так как люди собирали здесь сосновую смолу (смалу). На тропе оборудовано 14 остановок, а веселые стенды на них расскажут, сколько различных лесных обитателей могут пользоваться выдолбленным желной дуплом, почему поют птицы, зачем нужны сухостои и другая мертвая древесина и т. д.",
-          "category": "Edukacinės programos"
+          "category": "Gamta"
         }
       }
     },
@@ -2331,32 +2331,32 @@
         "lt": {
           "name": "ŠAVAŠOS PAŽINTINIS TAKAS",
           "description": "Tai pirmasis geologinis takas Lietuvoje, kurio ilgis 1,5 km. Šavaša – ypatinga Lietuvos upė. Jos slėniai – svaiginančio aukščio, o vandenys krenta net 8-11 metrų kas vieną kilometrą. Kaip tikroje kalnų upėje! Tarp aukštų upės slėnių XIII-XVIII a. buvo pasislėpusi senovės lietuvių šventykla, kurioje išlikęs mitologinis Lūžų akmuo su dubeniu.",
-          "category": "Edukacinės programos"
+          "category": "Gamta"
         },
         "lv": {
           "name": "ŠAVAŠAS IZZIŅAS TAKA",
           "description": "Tā ir pirmā ģeoloģiskā taka Lietuvā, kuras garums ir 1,5 km. Šavaša – īpaša Lietuvas upe. Tās ielejas – reibinošā augstumā, bet ūdeņi krīt pat 8-11 metrus uz katru kilometru. Kā īstā kalnu upē! Starp augstajām upes ielejām 13.-18. gs. slēpās seno lietuviešu svētnīca, kurā saglabājies mitoloģiskais Lūžu akmens ar iedobi.",
-          "category": "Edukacinės programos"
+          "category": "Gamta"
         },
         "en": {
           "name": "Šavaša Educational Trail",
           "description": "This is the first geological trail in Lithuania, 1.5 km long. Šavaša is a special Lithuanian river. Its valleys are of dizzying heights, and the waters fall as much as 8-11 meters every kilometer. Like in a real mountain river! Among the high river valleys in the 13th-18th centuries, an ancient Lithuanian sanctuary was hidden, where the mythological Lūžai stone with a bowl remains.",
-          "category": "Edukacinės programos"
+          "category": "Gamta"
         },
         "de": {
           "name": "LEHRPFAD ŠAVAŠA",
           "description": "Dies ist der erste geologische Lehrpfad in Litauen mit einer Länge von 1,5 km. Die Šavaša ist ein besonderer litauischer Fluss. Seine Täler sind in schwindelerregenden Höhen und das Wasser fällt auf einem Kilometer um 8-11 Meter ab. Wie in einem echten Gebirgsfluss! Zwischen den hohen Tälern des Flusses verbarg sich vom 13. bis zum 18. Jahrhundert ein altes litauisches Heiligtum, in dem der mythologische Lūžos-Stein mit einer Schale erhalten geblieben ist.",
-          "category": "Edukacinės programos"
+          "category": "Gamta"
         },
         "pl": {
           "name": "ŚCIEŻKA EDUKACYJNA W ŠAVAŠIE",
           "description": "Jest to pierwsza na Litwie ścieżka geologiczna, jej długość wynosi 1,5 km. Šavaša to wyjątkowa litewska rzeka. Jej doliny charakteryzują się zawrotną wysokością, a wody rzeki opadają o 8-11 metrów na każdym kilometrze. Prawie jak prawdziwa rzeka górska! W XIII-XVIII wieku wśród wysokich dolin rzeki ukryta była starożytna litewska świątynia pogańska, z której do dziś zachował się mitologiczny kamień „Lūžų” z wydrążoną misą.",
-          "category": "Edukacinės programos"
+          "category": "Gamta"
         },
         "ru": {
           "name": "ПОЗНАВАТЕЛЬНАЯ ТРОПА ШАВАША",
           "description": "Это первая геологическая тропа в Литве, длина которой 1,5 км. Шаваша – особенная река Литвы. Ее долины – головокружительной высоты, а воды падают на 8-11 метров каждый километр. Как в настоящей горной реке! Среди высоких долин реки в XIII-XVIII вв. пряталось древнелитовское святилище, в котором сохранился мифологический камень Лужу с чашей.",
-          "category": "Edukacinės programos"
+          "category": "Gamta"
         }
       }
     },
@@ -2562,12 +2562,12 @@
         "lt": {
           "name": "NEPRIKLAUSOMYBĖS PAMINKLAS DEGUČIUOSE",
           "description": "Pastatytas šaulių iniciatyva 1928. m.  (dailininkas A. Rūkštelė), pašventintas - 1935 m., atstatytas 1990 m. Paminklas iš trijų dalių, vidurinė iškilusi virš dviejų žemesnių sparnų. Jų viršutinėse dalyse pastatyti apvalūs cementiniai rutuliai. Fasadinėje paminklo dalyje pritvirtinta metalinė lenta su užrašu: Per aukas ir vienybę laisvę atgavus tegyvuoja amžiais Lietuva.",
-          "category": "Edukacinės programos"
+          "category": "Degučiai"
         },
         "lv": {
           "name": "NEATKARĪBAS PIEMINEKLIS DEGUČOS",
           "description": "Uzcelts pēc aizsargu iniciatīvas 1928. gadā (mākslinieks A. Rūkštele), iesvētīts - 1935. gadā, atjaunots 1990. gadā. Piemineklis sastāv no trīs daļām, vidējā paceļas virs diviem zemākiem spārniem. To augšējās daļās uzstādītas apaļas cementa lodes. Pieminekļa fasādes daļā piestiprināta metāla plāksne ar uzrakstu: Caur upuriem un vienotību brīvību atguvusī lai dzīvo mūžīgi Lietuva.",
-          "category": "Edukacinės programos"
+          "category": "Degučiai"
         },
         "en": {
           "name": "Independence Monument in Degučiai",
@@ -2577,17 +2577,17 @@
         "de": {
           "name": "UNABHÄNGIGKEITSDENKMAL IN DEGUČIAI",
           "description": "Erbaut auf Initiative der Schützen im Jahr 1928 (Künstler A. Rūkštelė), geweiht 1935, wiederaufgebaut 1990. Das Denkmal besteht aus drei Teilen, der mittlere erhebt sich über zwei niedrigere Flügel. Auf deren oberen Teilen wurden runde Zementkugeln platziert. Auf der Vorderseite des Denkmals ist eine Metalltafel mit der Inschrift angebracht: Durch Opfer und Einheit die Freiheit wiedererlangt, es lebe Litauen auf ewig.",
-          "category": "Edukacinės programos"
+          "category": "Degučiai"
         },
         "pl": {
           "name": "POMNIK NIEPODLEGŁOŚCI W DEGUČIAI",
           "description": "Postawiony w 1928 roku z inicjatywy strzelców litewskich (projektant A. Rūkštelė), wyświęcony w 1935 r. Zrekonstruowany w 1990 roku. Budowla składa się z trzech części: najwyższego filaru pośrodku oraz dwóch obniżonych bocznych skrzydeł. Na ich szczycie umieszczone są okrągłe cementowe kule. Na fasadzie pomnika wbudowana jest tablica z metalu o treści: \"Niech wiecznie żyje Litwa, która odzyskała wolność w jedności i ofierze\".",
-          "category": "Edukacinės programos"
+          "category": "Degučiai"
         },
         "ru": {
           "name": "ПАМЯТНИК НЕЗАВИСИМОСТИ В ДЕГУЧЯЙ",
           "description": "Установлен по инициативе шаулисов (стрелков) в 1928 г. (художник А. Рукштеле), освящен в 1935 г., восстановлен в 1990 г. Памятник состоит из трех частей, средняя возвышается над двумя более низкими крыльями. На их верхних частях установлены круглые цементные шары. На фасадной части памятника прикреплена металлическая доска с надписью: «Через жертвы и единство свободу вернув, да живет в веках Литва».",
-          "category": "Edukacinės programos"
+          "category": "Degučiai"
         }
       }
     },
@@ -2608,32 +2608,32 @@
         "lt": {
           "name": "DEGUČIŲ ŠV. ANTANO PADUVIEČIO KOPLYČIA",
           "description": "Koplyčia įsikūrusi Pašto stoties pastatų komplekso istoriniame pastate, kuris priklausė arklių keitimo stočiai. 1925 m. nenaudojamą pašto stotį atidavus bendruomenei, joje buvo įrengta bažnyčia, kuri  gruodžio 27 d. pašventinta Šv. Antano vardu. Sovietmečiu bažnyčia Degučiuose buvo uždaryta, jai priklausę pastatai atimti. 1992 metais pastatas oficialiai grąžintas Degučių katalikų bendruomenei.",
-          "category": "Edukacinės programos"
+          "category": "Degučiai"
         },
         "lv": {
           "name": "DEGUČU SV. ANTANA NO PADUJAS KAPELE",
           "description": "Kapele atrodas Pasta stacijas ēku kompleksa vēsturiskajā ēkā, kas piederēja zirgu maiņas stacijai. 1925. gadā neizmantoto pasta staciju nododot kopienai, tajā tika ierīkota baznīca, kas 27. decembrī iesvētīta Sv. Antana vārdā. Padomju laikā baznīca Degučos tika slēgta, tai piederējušās ēkas atņemtas. 1992. gadā ēka oficiāli atdota Deguču katoļu kopienai.",
-          "category": "Edukacinės programos"
+          "category": "Degučiai"
         },
         "en": {
           "name": "Degučiai Chapel of St. Anthony of Padua",
           "description": "The chapel is located in the historical building of the Post Station building complex, which belonged to a horse changing station. When the unused post station was given to the community in 1925, a church was set up there, which was consecrated in the name of St. Anthony on December 27. During the Soviet era, the church in Degučiai was closed, and its buildings were confiscated. In 1992, the building was officially returned to the Degučiai Catholic community.",
-          "category": "Edukacinės programos"
+          "category": "Degučiai"
         },
         "de": {
           "name": "KAPELLE DES HL. ANTONIUS VON PADUA IN DEGUČIAI",
           "description": "Die Kapelle befindet sich in einem historischen Gebäude des Poststationskomplexes, das zur Pferdewechselstation gehörte. Nachdem die ungenutzte Poststation 1925 an die Gemeinde übergeben worden war, wurde darin eine Kirche eingerichtet, die am 27. Dezember dem Heiligen Antonius geweiht wurde. In der Sowjetzeit wurde die Kirche in Degučiai geschlossen und die ihr gehörenden Gebäude beschlagnahmt. 1992 wurde das Gebäude offiziell der katholischen Gemeinde von Degučiai zurückgegeben.",
-          "category": "Edukacinės programos"
+          "category": "Degučiai"
         },
         "pl": {
           "name": "KAPLICA ŚW. ANTONIEGO PADEWSKIEGO W DEGUČIAI",
           "description": "Kaplica znajduje się wewnątrz historycznego gmachu, niegdyś pełniącego rolę dawnej stacji przeprzęgowej i pocztowej. Kiedy w 1925 roku nieużywaną pocztę oddano do dyspozycji miejscowej wspólnoty religijnej, zamieniono ją na kościół, który 27 grudnia wyświęcono pod wezwaniem św. Antoniego. W latach sowieckich kościół wyznaniowy przymusowo zamknięto, a mienie skonfiskowano. Gmach oficjalnie powrócił do wspólnoty katolickiej w 1992 roku.",
-          "category": "Edukacinės programos"
+          "category": "Degučiai"
         },
         "ru": {
           "name": "ЧАСОВНЯ СВ. АНТОНИЯ ПАДУАНСКОГО В ДЕГУЧЯЙ",
           "description": "Часовня расположена в историческом здании комплекса Почтовой станции, которое принадлежало станции смены лошадей. После передаче в 1925 г. неиспользуемой почтовой станции общине, в ней был оборудован костел, который 27 декабря был освящен во имя Св. Антония. В советское время костел в Дегучяй был закрыт, принадлежавшие ему здания отобраны. В 1992 году здание официально возвращено католической общине Дегучяй.",
-          "category": "Edukacinės programos"
+          "category": "Degučiai"
         }
       }
     },
@@ -2654,32 +2654,32 @@
         "lt": {
           "name": "DEGUČIŲ SENTIKIŲ KAPINĖS IR KOPLYČIA",
           "description": "Kapinės įkurtos XVIII a., Degučiuose įsikūrus sentikių bendruomenei. Kapinėse gausu paminklų ir senovinių kryžių. Nuo 2004 m. Degučių sentikių kapinėse vykdomi kapinių tvarkymo, paminklų restauravimo, koplyčios atstatymo, aukų rinkimo darbai. 2006 m. rugsėjo mėnesį įsteigta kapinių bendruomenė „Degučių rimtis“. 2007 m. buvo restauruota ir pašventinta koplyčia.",
-          "category": "Edukacinės programos"
+          "category": "Degučiai"
         },
         "lv": {
           "name": "DEGUČU VECLITICĪBNIEKU KAPI UN KAPELE",
           "description": "Kapi izveidoti 18. gs., Degučos apmetoties vecticībnieku kopienai. Kapos ir daudz pieminekļu un senu krustu. Kopš 2004. gada Deguču vecticībnieku kapos tiek veikti kapu uzturēšanas, pieminekļu restaurācijas, kapeles atjaunošanas un ziedojumu vākšanas darbi. 2006. gada septembrī dibināta kapu kopiena „Deguču miers“. 2007. gadā tika restaurēta un iesvētīta kapele.",
-          "category": "Edukacinės programos"
+          "category": "Degučiai"
         },
         "en": {
           "name": "Degučiai Old Believers' Cemetery and Chapel",
           "description": "The cemetery was established in the 18th century when an Old Believer community settled in Degučiai. The cemetery is full of monuments and ancient crosses. Since 2004, works of cemetery maintenance, monument restoration, chapel rebuilding, and fundraising have been carried out in the Degučiai Old Believers' Cemetery. In September 2006, the cemetery community \"Degučių rimtis\" was established. In 2007, the chapel was restored and consecrated.",
-          "category": "Edukacinės programos"
+          "category": "Degučiai"
         },
         "de": {
           "name": "FRIEDHOF UND KAPELLE DER ALTGLÄUBIGEN IN DEGUČIAI",
           "description": "Der Friedhof wurde im 18. Jahrhundert angelegt, als sich die Gemeinde der Altgläubigen in Degučiai niederließ. Auf dem Friedhof gibt es viele Denkmäler und alte Kreuze. Seit 2004 werden auf dem Friedhof der Altgläubigen in Degučiai Friedhofspflegearbeiten, Restaurierungen von Denkmälern, der Wiederaufbau der Kapelle und das Sammeln von Spenden durchgeführt. Im September 2006 wurde die Friedhofsgemeinschaft „Degučių rimtis“ gegründet. Im Jahr 2007 wurde die Kapelle restauriert und geweiht.",
-          "category": "Edukacinės programos"
+          "category": "Degučiai"
         },
         "pl": {
           "name": "CMENTARZ I KAPLICA STAROOBRZĘDOWCÓW W DEGUČIAI",
           "description": "Założenie nekropolii datuje się na XVIII wiek, kiedy w okolicy Degučiai osiedliła się duża gmina wyznawców starej wiary. Znajduje się tam mnóstwo pomników oraz tradycyjnych starodawnych krzyży. Od 2004 roku staraniem gminy wdrożono program oczyszczania nekropolii, renowacji posągów oraz rekonstrukcji kaplicy ze środków ofiarnych. 2006 roku założono radę opiekuńczą pt. \"Degučių rimtis\" (Spokój). W kolejnym roku doprowadzono do odbudowy i wyświęcenia kaplicy cmentarnej.",
-          "category": "Edukacinės programos"
+          "category": "Degučiai"
         },
         "ru": {
           "name": "КЛАДБИЩЕ И ЧАСОВНЯ СТАРООБРЯДЦЕВ В ДЕГУЧЯЙ",
           "description": "Кладбище основано в XVIII в., когда в Дегучяй обосновалась община старообрядцев. На кладбище много памятников и старинных крестов. С 2004 г. на старообрядческом кладбище Дегучяй проводятся работы по приведению в порядок кладбища, реставрации памятников, восстановлению часовни, сбору пожертвований. В сентябре 2006 г. учреждена кладбищенская община «Дегучю римтис» (Спокойствие Дегучяй). В 2007 г. была отреставрирована и освящена часовня.",
-          "category": "Edukacinės programos"
+          "category": "Degučiai"
         }
       }
     },
@@ -2703,32 +2703,32 @@
         "lt": {
           "name": "DEGUČIŲ PAŽINTINIS TAKAS",
           "description": "Degučių pažintinis takas skirtas Degučių kraštovaizdžio draustinio vertybėms pristatyti. Apsilankę take susipažinsite su šimtamečio pušyno augalija ir gyvūnija, pamatysite paslaptingąjį akivarą, į Lietuvos raudonąją knygą įrašytas pelkių orchidėjas, užkopsite į vaizdingą Degučių piliakalnį. Takas paženklintas rodyklėmis ir mėlynos spalvos ženklais, jo ilgis – 3 km.",
-          "category": "Edukacinės programos"
+          "category": "Gamta"
         },
         "lv": {
           "name": "DEGUČU IZZIŅAS TAKA",
           "description": "Deguču izziņas taka paredzēta Deguču ainavu lieguma vērtību iepazīstināšanai. Apmeklējot taku, iepazīsieties ar simtgadīgā priežu meža floru un faunu, ieraudzīsiet noslēpumaino akaču, Lietuvas sarkanajā grāmatā ierakstītās purva orhidejas, uzkāpsiet gleznainajā Deguču pilskalnā. Taka ir iezīmēta ar norādēm un zilas krāsas zīmēm, tās garums – 3 km.",
-          "category": "Edukacinės programos"
+          "category": "Gamta"
         },
         "en": {
           "name": "Degučiai Educational Trail",
           "description": "The Degučiai educational trail is intended to present the values of the Degučiai landscape reserve. Visiting the trail, you will get acquainted with the flora and fauna of a century-old pine forest, see a mysterious quagmire, swamp orchids listed in the Lithuanian Red Data Book, and climb the picturesque Degučiai mound. The trail is marked with arrows and blue signs, its length is 3 km.",
-          "category": "Edukacinės programos"
+          "category": "Gamta"
         },
         "de": {
           "name": "LEHRPFAD DEGUČIAI",
           "description": "Der Lehrpfad Degučiai ist der Präsentation der Werte des Landschaftsschutzgebiets Degučiai gewidmet. Wenn Sie den Pfad besuchen, lernen Sie die Flora und Fauna des hundertjährigen Kiefernwaldes kennen, sehen das mysteriöse Moorauge, in das Rote Buch Litauens eingetragene Moororchideen und klettern auf das malerische Hügelgrab Degučiai. Der Weg ist mit Pfeilen und blauen Schildern markiert, seine Länge beträgt 3 km.",
-          "category": "Edukacinės programos"
+          "category": "Gamta"
         },
         "pl": {
           "name": "ŚCIEŻKA EDUKACYJNA W DEGUČIAI",
           "description": "Trasa ma za zadanie zapoznawać odwiedzających z dorobkiem przyrodniczym krajobrazu i rezerwatu miejscowego. Na trasie można spotkać przeróżną roślinność, lasy oraz dzikie fauny żyjące na stu letnim mchu. Czeka też trzęsawisko z torfowiskami orhidei (znajdującymi się w państwowej księdze czerwonej), po czym udajemy się na malowniczą wyżynę rzeźbotwórczą. Turyści znajdą też dużo niebieskich tablic ułatwiających im poruszanie o obszarze ok 3km.",
-          "category": "Edukacinės programos"
+          "category": "Gamta"
         },
         "ru": {
           "name": "ПОЗНАВАТЕЛЬНАЯ ТРОПА ДЕГУЧЯЙ",
           "description": "Познавательная тропа Дегучяй предназначена для представления ценностей Дегучяйского ландшафтного заповедника. Посетив тропу, вы познакомитесь с флорой и фауной столетнего соснового леса, увидите таинственную трясину, занесенные в Красную книгу Литвы болотные орхидеи, подниметесь на живописный курган Дегучяй. Тропа отмечена указателями и знаками синего цвета, ее длина – 3 км.",
-          "category": "Edukacinės programos"
+          "category": "Gamta"
         }
       }
     },
@@ -2747,32 +2747,32 @@
         "lt": {
           "name": "ŽYDŲ MASINIŲ ŽUDYNIŲ VIETA KRAKYNĖS MIŠKE",
           "description": "Krakynės miške 1941 m. buvo žiauriai nužudyti ir užkasti  Zarasų krašto žydų tautybės gyventojai. Jų atminimui čia pastatytas paminklas.",
-          "category": "Dusetos"
+          "category": "Degučiai"
         },
         "lv": {
           "name": "EBREJU MASU SLEPKAVĪBU VIETA KRAKĪNES MEŽĀ",
           "description": "Krakīnes mežā 1941. gadā tika nežēlīgi nogalināti un aprakti Zarasu novada ebreju tautības iedzīvotāji. Viņu piemiņai šeit uzstādīts piemineklis.",
-          "category": "Dusetos"
+          "category": "Degučiai"
         },
         "en": {
           "name": "Site of the Mass Murder of Jews in the Krakynė Forest",
           "description": "In 1941, the Jewish population of the Zarasai region was brutally murdered and buried in the Krakynė forest. A monument was erected here in their memory.",
-          "category": "Dusetos"
+          "category": "Degučiai"
         },
         "de": {
           "name": "ORT DES MASSENMORDES AN JUDEN IM WALD VON KRAKYNĖ",
           "description": "Im Wald von Krakynė wurden 1941 die Einwohner jüdischer Nationalität der Region Zarasai brutal ermordet und verscharrt. Zu ihrem Gedenken wurde hier ein Denkmal errichtet.",
-          "category": "Dusetos"
+          "category": "Degučiai"
         },
         "pl": {
           "name": "MIEJSCE MASOWYCH ZBRODNI ŻYDOWSKICH W LESIE KRAKYNĖ",
           "description": "Podczas operacji nazistowskich 1941 r. zamordowano masowo z okrucieństwem, a nastepnie pochowano w lesie grupę Żydów lokalnej miejscowości rejonowej Zarasai. Postawiono specjalny pomnik informujący.",
-          "category": "Dusetos"
+          "category": "Degučiai"
         },
         "ru": {
           "name": "МЕСТО МАССОВЫХ УБИЙСТВ ЕВРЕЕВ В ЛЕСУ КРАКИНЕС",
           "description": "В лесу Кракинес в 1941 году были жестоко убиты и зарыты жители Зарасайского края еврейской национальности. В память о них здесь установлен памятник.",
-          "category": "Dusetos"
+          "category": "Degučiai"
         }
       }
     },
@@ -2795,32 +2795,32 @@
         "lt": {
           "name": "BALTRIŠKIŲ KAIMO ŠV. KAZIMIERO BAŽNYČIA, TIBERIADOS BENDRUOMENĖS VIENUOLYNAS",
           "description": "Šv. Kazimiero bažnyčia  -  liaudies architektūrai būdingų formų maldos namai, pastatyti 1920 m.  Juose taip pat pastebimi klasicizmui būdingi bruožai – stačiakampis planas ir bokštelis.",
-          "category": "Dusetos"
+          "category": "Degučiai"
         },
         "lv": {
           "name": "BALTRIŠĶU CIEMA SV. KAZIMIRA BAZNĪCA, TIBERIJAS KOPIENAS KLOSTERIS",
           "description": "Sv. Kazimira baznīca - tautas arhitektūrai raksturīgu formu lūgšanu nams, celts 1920. gadā. Tajā arī pamanāmas klasicismam raksturīgas iezīmes – taisnstūra plāns un tornītis.",
-          "category": "Dusetos"
+          "category": "Degučiai"
         },
         "en": {
           "name": "Baltriškės Village Church of St. Casimir, Tiberias Community Monastery",
           "description": "The Church of St. Casimir is a house of prayer with forms typical of folk architecture, built in 1920. It also features characteristics typical of classicism – a rectangular plan and a turret.",
-          "category": "Dusetos"
+          "category": "Degučiai"
         },
         "de": {
           "name": "KIRCHE DES HL. KASIMIR UND KLOSTER DER TIBERIADE-GEMEINSCHAFT IM DORF BALTRIŠKĖS",
           "description": "Die Kirche St. Kasimir ist ein Gebetshaus in Formen, die typisch für die Volksarchitektur sind, erbaut 1920. Sie weist auch für den Klassizismus typische Merkmale auf – einen rechteckigen Grundriss und einen kleinen Turm.",
-          "category": "Dusetos"
+          "category": "Degučiai"
         },
         "pl": {
           "name": "KOŚCIÓŁ ŚW. KAZIMIERZA WE WSI BALTRIŠKĖS ORAZ KLASZTOR BRACI Z TYBERIADY",
           "description": "Dom modlitwy o ludowych wpływach wybudowany na początku lat 1920 r. Obiekt posiada wpływy klasycyzmu na tle małej wierzchowiny oraz prostego założenia przestrzennego i proporcji.",
-          "category": "Dusetos"
+          "category": "Degučiai"
         },
         "ru": {
           "name": "КОСТЕЛ СВ. КАЗИМИРА В ДЕРЕВНЕ БАЛТРИШКЕС, МОНАСТЫРЬ ОБЩИНЫ ТИВЕРИАДЫ",
           "description": "Костел Св. Казимира – молитвенный дом характерных для народной архитектуры форм, построенный в 1920 году. В нем также заметны черты, свойственные классицизму – прямоугольный план и башенка.",
-          "category": "Dusetos"
+          "category": "Degučiai"
         }
       }
     },
@@ -2842,32 +2842,32 @@
         "lt": {
           "name": "TILTIŠKIŲ VANDENS MALŪNAS – RADIJŲ MUZIEJUS",
           "description": "Tiltiškių vandens stovi ant Šventosios kranto. Anksčiau čia  ne tik malė, lentas pjovė, bet čia įsižiebė pirmoji elektros lemputė Zarasų krašte. Nenuostabu, kad čia anksčiau veikė Energetikos muziejus. Šiandien į šį gražų vandens malūną vertėtų užsukti ir dėl čia įsikūrusio radijų muziejaus. Didžiąją muziejaus dalį užima daugiau nei 300 senoviškų radijo aparatų kolekcija. Malūne organizuojamos ekskursijos, organizuojami kultūros renginiai, susitikimai, diskotekos ir vietos produktų degustacijos.",
-          "category": "Dusetos"
+          "category": "Edukacinės programos"
         },
         "lv": {
           "name": "TILTIŠĶU ŪDENSDZIRNAVAS – RADIO MUZEJS",
           "description": "Tiltišķu ūdensdzirnavas atrodas uz Sventājas krasta. Agrāk šeit ne tikai mala, zāģēja dēļus, bet šeit iedegās pirmā elektriskā spuldzīte Zarasu rajonā...",
-          "category": "Dusetos"
+          "category": "Edukacinės programos"
         },
         "en": {
           "name": "Tiltiškės Water Mill – Radio Museum",
           "description": "The Tiltiškės water mill stands on the bank of the Šventoji River. In the past, it not only milled grain and sawed boards, but the first electric light bulb in the Zarasai region lit up here. It's no surprise that the Energy Museum used to operate here. Today, this beautiful water mill is worth visiting also because of the radio museum located here. The largest part of the museum is occupied by a collection of more than 300 vintage radios. The mill organizes tours, cultural events, meetings, discos, and local product tastings.",
-          "category": "Dusetos"
+          "category": "Edukacinės programos"
         },
         "de": {
           "name": "WASSERMÜHLE TILTIŠKĖS – RADIOMUSEUM",
           "description": "Die Wassermühle Tiltiškės steht am Ufer der Šventoji. Früher wurde hier nicht nur gemahlen und Holz gesägt, sondern hier leuchtete auch die erste Glühbirne im Bezirk Zarasai auf...",
-          "category": "Dusetos"
+          "category": "Edukacinės programos"
         },
         "pl": {
           "name": "MŁYN WODNY W TILTIŠKĖS - MUZEUM RADIA",
           "description": "Usytuowana nieopodal rzeki. Jeszcze przed drugą wojną prężnie działał jako lokalna tartak oraz mączka. Słynie jako jeden z historycznych punkcików startowych do żarówek (rozbłysk pierwszy w obszarze miasteczka)",
-          "category": "Dusetos"
+          "category": "Edukacinės programos"
         },
         "ru": {
           "name": "ТИЛТИШКСКАЯ ВОДЯНАЯ МЕЛЬНИЦА – МУЗЕЙ РАДИО",
           "description": "Тилтишкская водяная мельница стоит на берегу Швянтойи. Раньше здесь не только мололи зерно и пилили доски, но именно здесь загорелась первая электрическая лампочка в Зарасайском крае...",
-          "category": "Dusetos"
+          "category": "Edukacinės programos"
         }
       }
     },
@@ -2888,32 +2888,32 @@
         "lt": {
           "name": "SALAKO DVIAUKŠTĖ KOPLYTĖLĖ SU ŠV. JONO NEPOMUKO IR NUKRYŽIUOTOJO SKULPTŪROMIS",
           "description": "Koplytėlė pastatyta  XX a. pradžioje. Jos pamatas betoninis, konstrukcija karkasinė, lentų sienos, stogas dengtas skarda. Tarpukariu prie Salako dviaukštės koplytėlės buvo pasitinkami garbingi miestelio svečiai. Vienas jų buvo prezidentas Antanas Smetona.",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "lv": {
           "name": "SALAKAS DIVSTĀVU KAPELE AR SV. JĀŅA NEPOMUKA UN KRUSTĀ SISTĀ SKULPTŪRĀM",
           "description": "Kapele celta 20. gs. sākumā. Tās pamati betonēti, konstrukcija karkasa, dēļu sienas, jumts klāts ar skārdu. Starpkaru periodā pie Salakas divstāvu kapeles tika sagaidīti godājami pilsētiņas viesi. Viens no tiem bija prezidents Antans Smetona.",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "en": {
           "name": "Salakas Two-Story Chapel with Sculptures of St. John of Nepomuk and the Crucified",
           "description": "The chapel was built at the beginning of the 20th century. Its foundation is concrete, the structure is a frame with board walls, and the roof is covered with tin. In the interwar period, honorable town guests were greeted at the Salakas two-story chapel. One of them was President Antanas Smetona.",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "de": {
           "name": "ZWEISTÖCKIGE KAPELLE IN SALAKAS MIT SKULPTUREN DES HL. JOHANNES NEPOMUK UND DES GEKREUZIGTEN",
           "description": "Die Kapelle wurde Anfang des 20. Jahrhunderts erbaut. Ihr Fundament ist aus Beton, die Konstruktion aus Fachwerk, die Wände aus Brettern und das Dach mit Blech gedeckt. In der Zwischenkriegszeit wurden angesehene Gäste der Stadt an der zweistöckigen Kapelle in Salakas begrüßt. Einer von ihnen war Präsident Antanas Smetona.",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "pl": {
           "name": "DWUPIĘTROWA KAPLICZKA W SALAKAS Z RZEŹBAMI ŚW. JANA NEPOMUCENA I CHRYSTUSA UKRZYŻOWANEGO",
           "description": "Kapliczkę zbudowano na początku XX wieku. Ma betonowy fundament, drewnianą konstrukcję szkieletową, ściany z desek, a jej dach pokryty jest blachą. W okresie międzywojennym przy dwupiętrowej kapliczce w Salakas witano honorowych gości odwiedzających miasteczko. Jednym z nich był prezydent Antanas Smetona.",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "ru": {
           "name": "ДВУХЭТАЖНАЯ ЧАСОВНЯ В САЛАКАСЕ СО СКУЛЬПТУРАМИ СВ. ИОАННА НЕПОМУЦКОГО И РАСПЯТОГО",
           "description": "Часовня построена в начале XX века. Ее фундамент бетонный, конструкция каркасная, стены из досок, крыша покрыта жестью. В межвоенный период у двухэтажной часовни в Салакасе встречали почетных гостей городка. Одним из них был президент Антанас Сметона.",
-          "category": "Dusetos"
+          "category": "Salakas"
         }
       }
     },
@@ -2935,32 +2935,32 @@
         "lt": {
           "name": "SALAKO ŠVČ. MERGELĖS MARIJOS SOPULINGOSIOS BAŽNYČIA",
           "description": "Švč. Mergelės Marijos Sopulingosios bažnyčia yra  72 m., aukščiausia akmeninė bažnyčia Lietuvoje, turinti neogotikos bruožų. Ji  užburia savo didingumu ir masyvumu. Galbūt todėl, kad nėra įprasta, jog didžiulis pilkų tašytų akmenų statinys taip ryškiai išsiskirtų iš vietos kraštovaizdžio. Jos statybai buvo vežami didžiuliai akmenys iš visos Salako parapijos, o žmonės nepagailėjo jėgų jai pastatyti. Šalia tyvuliuoja vienas didžiausių Lietuvos ežerų -  Luodis.",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "lv": {
           "name": "SALAKAS VISSV. JAUNAVAS MARIJAS SĀPJU BAZNĪCA",
           "description": "Vissv. Jaunavas Marijas Sāpju baznīca ir 72 m augsta, augstākā akmens baznīca Lietuvā, ar neogotikas iezīmēm. Tā apbur ar savu varenību un masīvumu. Iespējams, tādēļ, ka nav ierasts, ka milzīga pelēku kaltu akmeņu ēka tik spilgti izceļas vietējā ainavā. Tās celtniecībai tika vesti milzīgi akmeņi no visas Salakas draudzes, un cilvēki nežēloja spēkus tās uzcelšanai. Blakus viļņojas viens no lielākajiem Lietuvas ezeriem - Luodis.",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "en": {
           "name": "Salakas Church of Our Lady of Sorrows",
           "description": "The Church of Our Lady of Sorrows is 72 m high, the tallest stone church in Lithuania, featuring neo-Gothic features. It enchants with its majesty and massiveness. Perhaps because it is unusual for a huge building of grey ashlar stones to stand out so vividly from the local landscape. Huge stones were brought from all over the Salakas parish for its construction, and people spared no effort to build it. Nearby lies one of the largest lakes in Lithuania - Luodis.",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "de": {
           "name": "KIRCHE DER SCHMERZHAFTE MUTTERGOTTES IN SALAKAS",
           "description": "Die Kirche der Schmerzhaften Muttergottes ist mit 72 m die höchste steinerne Kirche in Litauen und weist neugotische Merkmale auf. Sie verzaubert mit ihrer Majestät und Massivität. Vielleicht, weil es ungewöhnlich ist, dass ein riesiges Gebäude aus grauen behauenen Steinen so deutlich aus der lokalen Landschaft heraussticht. Für ihren Bau wurden riesige Steine aus der gesamten Pfarrei Salakas herbeigeschafft, und die Menschen scheuten keine Mühen, sie zu errichten. In der Nähe plätschert einer der größten Seen Litauens - der Luodis.",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "pl": {
           "name": "KOŚCIÓŁ MATKI BOŻEJ BOLESNEJ W SALAKAS",
           "description": "Kościół Matki Bożej Bolesnej ma wysokość 72 m i jest najwyższym kamiennym kościołem na Litwie, posiadającym cechy neogotyckie. Oczarowuje swoim majestatem i masywnością. Być może dlatego, że na tych terenach niezwykłym widokiem jest tak ogromny budynek z ciosanych, szarych kamieni polnych, zdecydowanie wyróżniający się w miejscowym krajobrazie. Do jego budowy zwożono ogromne głazy z terenu całej parafii Salakas, a ludzie nie szczędzili wysiłków przy wznoszeniu świątyni. W pobliżu falują wody jednego z największych litewskich jezior – Luodis.",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "ru": {
           "name": "КОСТЕЛ СКОРБЯЩЕЙ БОЖЬЕЙ МАТЕРИ В САЛАКАСЕ",
           "description": "Костел Скорбящей Божьей Матери – самый высокий каменный костел в Литве (72 м), имеющий черты неоготики. Он завораживает своим величием и массивностью. Возможно, потому, что необычно видеть огромное здание из серых обтесанных камней, так ярко выделяющееся в местном ландшафте. Для его строительства огромные камни везли со всего Салакского прихода, и люди не жалели сил на его возведение. Рядом плещется одно из крупнейших озер Литвы - Луодис.",
-          "category": "Dusetos"
+          "category": "Salakas"
         }
       }
     },
@@ -2982,32 +2982,32 @@
         "lt": {
           "name": "Poderio muziejus",
           "description": "A. Poderio memorialinio muziejaus pirmajame aukšte veikia Salako krašto švietimo raidos ekspozicija, antrajame  - mokyklos įkūrėjo Antano Poderio gyvenamieji ir darbo kambariai, ūkiniame pastate yra  etnografinė ekspozicija.",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "lv": {
           "name": "Podera muzejs",
           "description": "A. Podera memoriālā muzeja pirmajā stāvā atrodas Salakas novada izglītības attīstības ekspozīcija, otrajā - skolas dibinātāja Antana Podera dzīvojamās un darba istabas, saimniecības ēkā ir etnogrāfiskā ekspozīcija.",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "en": {
           "name": "Poderis Museum",
           "description": "On the first floor of the A. Poderis Memorial Museum, an exhibition of the educational development of the Salakas region operates; on the second floor are the living and working rooms of the school founder Antanas Poderis, and in the outbuilding, there is an ethnographic exhibition.",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "de": {
           "name": "Poderis-Museum",
           "description": "Im ersten Stock des Gedenkmuseums von A. Poderis befindet sich die Ausstellung zur Bildungsentwicklung der Region Salakas, im zweiten Stock die Wohn- und Arbeitsräume des Schulgründers Antanas Poderis, und im Wirtschaftsgebäude gibt es eine ethnografische Ausstellung.",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "pl": {
           "name": "Muzeum A. Poderisa",
           "description": "Na pierwszym piętrze muzeum pamiątkowego A. Poderisa działa ekspozycja poświęcona historii edukacji w regionie Salakas. Na drugim piętrze znajdują się pomieszczenia mieszkalne i gabinet twórcy tutejszej szkoły, Antanasa Poderisa, natomiast w budynku gospodarczym można obejrzeć ekspozycję etnograficzną.",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "ru": {
           "name": "Музей Подериса",
           "description": "На первом этаже мемориального музея А. Подериса действует экспозиция истории развития просвещения в Салакском крае, на втором - жилые и рабочие комнаты основателя школы Антанаса Подериса, в хозяйственной постройке находится этнографическая экспозиция.",
-          "category": "Dusetos"
+          "category": "Salakas"
         }
       }
     },
@@ -3031,32 +3031,32 @@
         "lt": {
           "name": "GRAŽUTĖS REGIONINIO PARKO LANKYTOJŲ CENTRAS",
           "description": "Lankytojų centras – tai vartai į Gražutės regioninį parką, vieta, kurioje geriausia suplanuoti ir pradėti savo kelionę po parką. Lankytojų centre teikiama profesionali, visapusiška informacija apie Gražutės regioninio parko lankytinas gamtos ir kultūros paveldo vertybes, kraštovaizdį ir biologinę įvairovę. Čia nemokamai teikiama išsami informacija apie muziejus, amatų centrus, pažintinius takus, vandens ir dviračių trasas, stovyklavietes bei naudingą informaciją apie kaimo turizmo sodybas, maitinimą bei įvairias aktyvaus poilsio galimybes.",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "lv": {
           "name": "GRAŽUTES REĢIONĀLĀ PARKA APMEKLĒTĀJU CENTRS",
           "description": "Apmeklētāju centrs – tie ir vārti uz Gražutes reģionālo parku, vieta, kur vislabāk plānot un sākt savu ceļojumu pa parku. Apmeklētāju centrā tiek sniegta profesionāla, visaptveroša informācija par Gražutes reģionālā parka dabas un kultūras mantojuma vērtībām, ainavu un bioloģisko daudzveidību. Šeit bez maksas tiek sniegta detalizēta informācija par muzejiem, amatu centriem, izziņas takām, ūdens un velosipēdu maršrutiem, kempingiem un noderīga informācija par lauku tūrisma sētām, ēdināšanu un dažādām aktīvās atpūtas iespējām.",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "en": {
           "name": "Gražutė Regional Park Visitor Center",
           "description": "The visitor center is the gateway to the Gražutė Regional Park, a place where it is best to plan and start your journey through the park. The visitor center provides professional, comprehensive information about the natural and cultural heritage values, landscape, and biodiversity of the Gražutė Regional Park. It provides free detailed information about museums, craft centers, educational trails, water and bicycle routes, campsites, as well as useful information about rural tourism homesteads, catering, and various active recreation opportunities.",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "de": {
           "name": "BESUCHERZENTRUM DES REGIONALPARKS GRAŽUTĖ",
           "description": "Das Besucherzentrum ist das Tor zum Regionalpark Gražutė, ein Ort, an dem man seine Reise durch den Park am besten planen und beginnen kann. Im Besucherzentrum werden professionelle und umfassende Informationen über das Natur- und Kulturerbe, die Landschaft und die biologische Vielfalt des Regionalparks Gražutė bereitgestellt. Hier gibt es kostenlose detaillierte Informationen über Museen, Handwerkszentren, Lehrpfade, Wasser- und Fahrradrouten, Campingplätze sowie nützliche Informationen über ländliche Tourismusgehöfte, Verpflegung und verschiedene Möglichkeiten der aktiven Erholung.",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "pl": {
           "name": "CENTRUM ODWIEDZAJĄCYCH W PARKU REGIONALNYM GRAŽUTĖ",
           "description": "Centrum Odwiedzających to brama do Parku Regionalnego Gražutė, miejsce idealne do zaplanowania i rozpoczęcia wycieczki. Odwiedzający otrzymają tutaj profesjonalne, kompleksowe informacje na temat pomników przyrody i dziedzictwa kulturowego na obszarze parku, jego unikalnego krajobrazu oraz bioróżnorodności. Za darmo udostępniane są dokładne materiały na temat muzeów, ośrodków rzemiosła, ścieżek dydaktycznych, tras wodnych czy rowerowych, pól kempingowych oraz użyteczne informacje o agroturystyce, miejscach z jedzeniem i opcjach aktywnego wypoczynku.",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "ru": {
           "name": "ЦЕНТР ПОСЕТИТЕЛЕЙ ГРАЖУТСКОГО РЕГИОНАЛЬНОГО ПАРКА",
           "description": "Центр посетителей – это ворота в Гражутский региональный парк, место, где лучше всего спланировать и начать свое путешествие по парку. В центре посетителей предоставляется профессиональная, всесторонняя информация о природных и культурных ценностях Гражутского регионального парка, ландшафте и биологическом разнообразии. Здесь бесплатно предоставляется подробная информация о музеях, центрах ремесел, познавательных тропах, водных и велосипедных маршрутах, кемпингах, а также полезная информация об усадьбах сельского туризма, питании и различных возможностях активного отдыха.",
-          "category": "Dusetos"
+          "category": "Salakas"
         }
       }
     },
@@ -3080,32 +3080,32 @@
         "lt": {
           "name": "V. ŽILINSKIENĖS „JŪRŲ MUZIEJUS“",
           "description": "Gražutės regioninio parko lankytojų centre įsikūręs Vidos Žilinskienės „Jūrų muziejus“ yra bene labiausiai nuo vandenyno nutolęs jūrų muziejus. Tai unikali per 30 metų kaupta jūros gyvūnų, spalvingųjų koralų, kriauklių, suvenyrų ir fosilijų kolekcija, kurių yra ne mažiau kaip 4000.",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "lv": {
           "name": "V. ŽILINSKIENES „JŪRAS MUZEJS”",
           "description": "Gražutes reģionālā parka apmeklētāju centrā esošais Vidas Žilinskienes „Jūras muzejs” ir, iespējams, vistālāk no okeāna esošais jūras muzejs. Tā ir unikāla vairāk nekā 30 gadu laikā uzkrāta jūras dzīvnieku, krāsaino koraļļu, gliemežvāku, suvenīru un fosiliju kolekcija, kurā ir ne mazāk kā 4000 eksponātu.",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "en": {
           "name": "V. Žilinskienė \"Sea Museum\"",
           "description": "Located in the Gražutė Regional Park Visitor Center, the Vida Žilinskienė \"Sea Museum\" is perhaps the sea museum furthest from the ocean. It is a unique collection of marine animals, colorful corals, shells, souvenirs, and fossils accumulated over 30 years, consisting of no less than 4,000 items.",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "de": {
           "name": "„MEERESMUSEUM“ VON V. ŽILINSKIENĖ",
           "description": "Das „Meeresmuseum“ von Vida Žilinskienė, das sich im Besucherzentrum des Regionalparks Gražutė befindet, ist wahrscheinlich das am weitesten vom Ozean entfernte Meeresmuseum. Es ist eine einzigartige Sammlung von Meerestieren, bunten Korallen, Muscheln, Souvenirs und Fossilien, die über 30 Jahre hinweg zusammengetragen wurde und nicht weniger als 4000 Exponate umfasst.",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "pl": {
           "name": "„MUZEUM MORZA” VIDY ŽILINSKIENĖ",
           "description": "Położone w Centrum Odwiedzających Parku Regionalnego Gražutė, jest prawdopodobnie najbardziej oddalonym od oceanu muzeum morskim. Kryje się w nim unikalna, gromadzona od ponad 30 lat kolekcja organizmów morskich, kolorowych koralowców, muszli, pamiątek i skamieniałości, licząca co najmniej 4000 eksponatów.",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "ru": {
           "name": "«МОРСКОЙ МУЗЕЙ» В. ЖИЛИНСКЕНЕ",
           "description": "Расположенный в центре посетителей Гражутского регионального парка «Морской музей» Виды Жилинскене, пожалуй, является самым удаленным от океана морским музеем. Это уникальная, собранная за более чем 30 лет коллекция морских животных, красочных кораллов, раковин, сувениров и окаменелостей, насчитывающая не менее 4000 экспонатов.",
-          "category": "Dusetos"
+          "category": "Salakas"
         }
       }
     },
@@ -3127,32 +3127,32 @@
         "lt": {
           "name": "NEPRIKLAUSOMYBĖS PAMINKLAS",
           "description": "Lietuvos Nepriklausomybės paminklas pastatytas 1930 metų rugsėjo 28 d., minint Vytauto Didžiojo 500 metų mirties jubiliejų ir 1918-1920 m. Nepriklausomybės kovas. Paminklo autorius – skulptorius Maksas Mordechajus Farbmanas. Tarybiniais metais buvo bandyta paminklą nugriauti, tačiau pavyko jį išsaugoti užtinkavus tautinius simbolius. 1988 metais skulptūros ir dekoro elementai buvo restauruoti.",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "lv": {
           "name": "NEATKARĪBAS PIEMINEKLIS",
           "description": "Lietuvas Neatkarības piemineklis uzstādīts 1930. gada 28. septembrī, atzīmējot Vītauta Dižā 500 gadu nāves atceri un 1918.-1920. gada Neatkarības cīņas. Pieminekļa autors – tēlnieks Makss Mordehajs Farbmans. Padomju gados mēģināja pieminekli nojaukt, taču to izdevās saglabāt, aizsmērējot tautiskos simbolus. 1988. gadā skulptūras un dekora elementi tika restaurēti.",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "en": {
           "name": "Independence Monument",
           "description": "The Lithuanian Independence Monument was built on September 28, 1930, commemorating the 500th anniversary of the death of Vytautas the Great and the 1918-1920 Independence struggles. The author of the monument is sculptor Maksas Mordechajus Farbmanas. During the Soviet years, attempts were made to demolish the monument, but it was saved by plastering over the national symbols. In 1988, the sculptures and decor elements were restored.",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "de": {
           "name": "UNABHÄNGIGKEITSDENKMAL",
           "description": "Das litauische Unabhängigkeitsdenkmal wurde am 28. September 1930 zum Gedenken an den 500. Todestag von Vytautas dem Großen und an die Unabhängigkeitskämpfe von 1918-1920 errichtet. Der Autor des Denkmals ist der Bildhauer Maksas Mordechajus Farbmanas. In den sowjetischen Jahren wurde versucht, das Denkmal abzureißen, es konnte jedoch gerettet werden, indem die nationalen Symbole verputzt wurden. Im Jahr 1988 wurden die Skulpturen und dekorativen Elemente restauriert.",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "pl": {
           "name": "POMNIK NIEPODLEGŁOŚCI",
           "description": "Pomnik Niepodległości Litwy wzniesiono 28 września 1930 roku z okazji jubileuszu 500-lecia śmierci Witolda Wielkiego oraz dla uczczenia walk o niepodległość w latach 1918-1920. Twórcą tego pomnika jest rzeźbiarz Maksas Mordechajus Farbmanas. W czasach sowieckich podejmowano próby zniszczenia go, udało się go jednak obronić poprzez zamalowanie i otynkowanie symboli narodowych. W roku 1988 odrestaurowano zdobienia i elementy rzeźbiarskie.",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "ru": {
           "name": "ПАМЯТНИК НЕЗАВИСИМОСТИ",
           "description": "Памятник Независимости Литвы установлен 28 сентября 1930 года в ознаменование 500-летия со дня смерти Витаутаса Великого и боев за независимость 1918-1920 гг. Автор памятника – скульптор Максас Мордехаюс Фарбманас. В советские годы памятник пытались снести, однако его удалось сохранить, заштукатурив национальные символы. В 1988 году скульптуры и элементы декора были отреставрированы.",
-          "category": "Dusetos"
+          "category": "Salakas"
         }
       }
     },
@@ -3173,32 +3173,32 @@
         "lt": {
           "name": "TOTORIŲ KAPINĖS",
           "description": "Šalia neveikiančių senųjų Salako kapinių yra totorių kapinės. Kada jos įkurtos dokumentų nėra, tačiau jos veikia ir dabar. Mirusieji laidoti atvežami iš kitų vietovių. Abejas kapines skiria akmeninė tvora 45 m ilgio. Visa teritorija, kurią sudaro 0,08 ha, aptverta medine 80m. ilgio tvora. Tai vienintelės musulmonų kapinės Aukštaitijoje.",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "lv": {
           "name": "TATĀRU KAPI",
           "description": "Blakus nedarbojošamies vecajiem Salakas kapiem atrodas tatāru kapi. Kad tie dibināti, dokumentu nav, taču tie darbojas arī tagad. Mirušos apglabāt atved no citām vietām. Abus kapus atdala 45 m gara akmens sēta. Visa teritorija, kas ir 0,08 ha, iežogota ar 80 m garu koka sētu. Tie ir vienīgie musulmaņu kapi Aukštaitijā.",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "en": {
           "name": "Tatar Cemetery",
           "description": "Next to the inactive old Salakas cemetery is the Tatar cemetery. There are no documents on when it was established, but it is still in use today. The deceased are brought here from other areas to be buried. The two cemeteries are separated by a stone fence 45 m long. The entire territory, which covers 0.08 ha, is surrounded by an 80 m long wooden fence. This is the only Muslim cemetery in Aukštaitija.",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "de": {
           "name": "TATARISCHER FRIEDHOF",
           "description": "Neben dem geschlossenen alten Friedhof von Salakas befindet sich der tatarische Friedhof. Es gibt keine Dokumente darüber, wann er gegründet wurde, aber er ist immer noch in Betrieb. Die Verstorbenen werden zur Beerdigung aus anderen Gegenden hierher gebracht. Beide Friedhöfe sind durch eine 45 m lange Steinmauer getrennt. Das gesamte Gebiet, das 0,08 ha groß ist, ist von einem 80 m langen Holzzaun umgeben. Es ist der einzige muslimische Friedhof in Aukštaitija.",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "pl": {
           "name": "CMENTARZ TATARSKI",
           "description": "Tuż obok niedziałającego starego cmentarza w Salakas leży cmentarz tatarski. Chociaż nie zachowały się żadne dokumenty określające datę jego założenia, po dziś dzień nadal funkcjonuje. Ciała zmarłych przywożone są na pogrzeb z innych regionów. Oba cmentarze oddzielone są murem kamiennym o długości 45 metrów. Cały obszar, mierzący 0,08 hektara, jest ogrodzony drewnianym, 80-metrowym płotem. To jedyny tego typu muzułmański cmentarz w całej Auksztocie (Aukštaitija).",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "ru": {
           "name": "ТАТАРСКОЕ КЛАДБИЩЕ",
           "description": "Рядом с недействующим старым Салакским кладбищем находится татарское кладбище. Документов о том, когда оно основано, нет, однако оно действует и сейчас. Умерших для захоронения привозят из других мест. Оба кладбища разделяет каменный забор длиной 45 м. Вся территория площадью 0,08 га обнесена деревянным забором длиной 80 м. Это единственное мусульманское кладбище в Аукштайтии.",
-          "category": "Dusetos"
+          "category": "Salakas"
         }
       }
     },
@@ -3217,32 +3217,32 @@
         "lt": {
           "name": "NAPOLEONO AKMUO",
           "description": "Šalia Salako pilkapių, kairėje kelio pusėje guli akmuo su ženklais, vadinamas Napoleono akmeniu. Padavimas pasakoja, kad žygiuodamas į Maskvą Napoleonas ant šio akmens valgė pietus ir atminimui liepė iškalti jame dubenį ir valgymo įrankius. Iš tiesų Napoleonas šiose vietose niekada nebuvo ir nepietavo, o visa tai tik gražus pasakojimas. Kasinėjant 1 metro gylyje rasta pelenų. Manoma, kad akmuo yra XII – XIII a. kunigaikščių valdų riboženklis.",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "lv": {
           "name": "NAPOLEONA AKMENS",
           "description": "Blakus Salakas uzkalniņu kapiem, kreisajā ceļa pusē guļ akmens ar zīmēm, saukts par Napoleona akmeni. Teiksma vēsta, ka, soļojot uz Maskavu, Napoleons uz šī akmens pusdienoja un piemiņai lika tajā iekalt bļodu un galda piederumus. Patiesībā Napoleons šajās vietās nekad nav bijis un pusdienojis, un tas viss ir tikai skaists stāsts. Veicot izrakumus 1 metra dziļumā, atrasti pelni. Tiek uzskatīts, ka akmens ir 12. – 13. gs. kņazu īpašumu robežakmens.",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "en": {
           "name": "Napoleon's Stone",
           "description": "Near the Salakas mounds, on the left side of the road, lies a stone with markings, called Napoleon's Stone. Legend has it that while marching to Moscow, Napoleon ate lunch on this stone and ordered a bowl and eating utensils to be carved into it as a memorial. In fact, Napoleon was never in these areas and did not dine here, and it is all just a beautiful tale. During excavations, ashes were found at a depth of 1 meter. It is believed that the stone is a 12th-13th century boundary marker for dukes' lands.",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "de": {
           "name": "NAPOLEONSTEIN",
           "description": "Neben den Hügelgräbern von Salakas, auf der linken Seite der Straße, liegt ein Stein mit Zeichen, der Napoleonstein genannt wird. Die Legende besagt, dass Napoleon auf seinem Marsch nach Moskau auf diesem Stein zu Mittag aß und zur Erinnerung eine Schüssel und Besteck in den Stein meißeln ließ. In Wirklichkeit war Napoleon nie an diesen Orten und aß nicht hier zu Mittag; all dies ist nur eine schöne Geschichte. Bei Ausgrabungen in 1 Meter Tiefe wurde Asche gefunden. Es wird angenommen, dass der Stein eine Grenzmarkierung der Fürstengüter aus dem 12. - 13. Jahrhundert ist.",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "pl": {
           "name": "KAMIEŃ NAPOLEONA",
           "description": "Niedaleko kurhanów w pobliżu Salakas, po lewej stronie szosy, spoczywa głaz ze żłobieniami, często nazywany Kamieniem Napoleona. Według legendy maszerujący na Moskwę Napoleon zatrzymał się przy nim na obiad i by uczcić ten moment, polecił wyrzeźbić na nim talerz i sztućce. W rzeczywistości postać Napoleona nigdy na tych ziemiach nie gościła, więc cała ta opowieść to jedynie piękna legenda. Podczas wykopalisk archeologicznych na głębokości 1 metra znaleziono szczątki popiołu. Uważa się, że głaz mógł stanowić po prostu dawną granicę posiadłości miejscowego księcia na przełomie XII i XIII wieku.",
-          "category": "Dusetos"
+          "category": "Salakas"
         },
         "ru": {
           "name": "КАМЕНЬ НАПОЛЕОНА",
           "description": "Рядом с Салакскими курганами, на левой стороне дороги лежит камень со знаками, называемый камнем Наполеона. Предание гласит, что во время похода на Москву Наполеон обедал на этом камне и на память велел высечь в нем миску и столовые приборы. На самом деле Наполеон в этих местах никогда не был и не обедал, а все это лишь красивая сказка. При раскопках на глубине 1 метра был найден пепел. Считается, что камень является пограничным знаком княжеских владений XII – XIII вв.",
-          "category": "Dusetos"
+          "category": "Salakas"
         }
       }
     },
@@ -3261,32 +3261,32 @@
         "lt": {
           "name": "SALAKO PAŽINTINIS TAKAS",
           "description": "Salako pažintinis takas – tai istorinį Salako miestelį ir jo apylinkes reprezentuojantis, beveik 5 km ilgio, žiedinis maršrutas, vedantis Luodžio ežero pakrante ir lankytinomis Salako miestelio vietomis.",
-          "category": "Dusetos"
+          "category": "Gamta"
         },
         "lv": {
           "name": "SALAKAS IZZIŅAS TAKA",
           "description": "Salakas izziņas taka – tas ir vēsturisko Salakas pilsētiņu un tās apkārtni reprezentējošs, gandrīz 5 km garš apļveida maršruts, kas ved pa Luoda ezera krastu un Salakas pilsētiņas apskates vietām.",
-          "category": "Dusetos"
+          "category": "Gamta"
         },
         "en": {
           "name": "Salakas Educational Trail",
           "description": "The Salakas educational trail is an almost 5 km long circular route representing the historic town of Salakas and its surroundings, leading along the shore of Lake Luodis and through the places of interest in the town of Salakas.",
-          "category": "Dusetos"
+          "category": "Gamta"
         },
         "de": {
           "name": "LEHRPFAD SALAKAS",
           "description": "Der Lehrpfad Salakas ist eine fast 5 km lange Rundroute, die die historische Stadt Salakas und ihre Umgebung repräsentiert und am Ufer des Luodis-Sees und den Sehenswürdigkeiten der Stadt Salakas entlangführt.",
-          "category": "Dusetos"
+          "category": "Gamta"
         },
         "pl": {
           "name": "ŚCIEŻKA EDUKACYJNA W SALAKAS",
           "description": "Ścieżka edukacyjna wokół Salakas mierzy w przybliżeniu niecałe 5 km wzdłuż jeziora Luodis. Oferuje ona spacer w postaci obwodu zamkniętego od punktów charakterystycznych historycznego miasta, aż po lokalne walory.",
-          "category": "Dusetos"
+          "category": "Gamta"
         },
         "ru": {
           "name": "ПОЗНАВАТЕЛЬНАЯ ТРОПА САЛАКАС",
           "description": "Познавательная тропа Салакаса – это кольцевой маршрут длиной почти 5 км, репрезентирующий исторический городок Салакас и его окрестности, проходящий по берегу озера Луодис и достопримечательностям городка Салакас.",
-          "category": "Dusetos"
+          "category": "Gamta"
         }
       }
     },
@@ -3493,32 +3493,32 @@
         "lt": {
           "name": "ZARASŲ TVIC INFORMACIJA",
           "description": "Mobiliąją aplikaciją ,,Zarasų krašto turizmo gidą sukūrė Viešoji įstaiga Zarasų turizmo ir verslo informacijos centras.",
-          "category": "Degučiai"
+          "category": "Zarasai"
         },
         "lv": {
           "name": "ZARASU TVIC INFORMĀCIJA",
           "description": "Mobilā aplikācija „Zarasu novada tūrisma gids” ir Sabiedriskās iestādes Zarasu tūrisma un biznesa informācijas centra izstrādāta.",
-          "category": "Degučiai"
+          "category": "Zarasai"
         },
         "en": {
           "name": "Zarasai TBIC Information",
           "description": "The mobile application \"Zarasai Region Tourism Guide\" was created by the public institution Zarasai Tourism and Business Information Center.",
-          "category": "Degučiai"
+          "category": "Zarasai"
         },
         "de": {
           "name": "ZARASAI TVIC INFORMATION",
           "description": "Die mobile App „Tourismusführer der Region Zarasai“ wurde von der öffentlichen Einrichtung Tourismus- und Geschäftsinformationszentrum Zarasai entwickelt.",
-          "category": "Degučiai"
+          "category": "Zarasai"
         },
         "pl": {
           "name": "CENTRUM INFORMACJI TURYSTYCZNEJ W ZARASAI",
           "description": "Twórcy mobilnej apki dla całego regionu Zarasai zapraszają do informacji, konsultacji oraz poszerzania swobodnych ram turystycznych publicznej organizacji.",
-          "category": "Degučiai"
+          "category": "Zarasai"
         },
         "ru": {
           "name": "ИНФОРМАЦИЯ ЗАРАСАЙСКОГО ТИЦ",
           "description": "Мобильное приложение «Туристический гид Зарасайского края» создано Общественным учреждением Зарасайский центр туристической и деловой информации.",
-          "category": "Degučiai"
+          "category": "Zarasai"
         }
       }
     },
@@ -3542,32 +3542,32 @@
         "lt": {
           "name": "ZARASŲ VIEŠOJI BIBLIOTEKA",
           "description": "Šeimos skaitmeninių veiklų centre siūloma: interaktyvus turas dviračiu po Pietų Latgalą ir Rytų Aukštaitiją, kelionės su virtualios realybės akiniais po Utenos, Zarasų, Latvijos Daugpilio ir Preilių miestus, Kinect judesio viktorinos, judrieji žaidimai Xbox platformoje, Lego Mindstorms robotų konstravimo užsiėmimai, įvairūs stalo žaidimai šeimoms, šviesos stalas su spalvas keičiančia šviesos lenta vaikų kūrybiškumui ir emocijoms ugdyti, piešti kinetiniu ir kvarciniu smėliu.",
-          "category": "Degučiai"
+          "category": "Zarasai"
         },
         "lv": {
           "name": "ZARASU PUBLISKĀ BIBLIOTĒKA",
           "description": "Ģimeņu digitālo aktivitāšu centrā tiek piedāvāts: interaktīva velosipēdu tūre pa Dienvidlatgali un Austrumaukštaitiju, ceļojumi ar virtuālās realitātes brillēm pa Utenas, Zarasu, Latvijas Daugavpils un Preiļu pilsētām, Kinect kustību viktorīnas, kustīgas spēles Xbox platformā, Lego Mindstorms robotu konstruēšanas nodarbības, dažādas galda spēles ģimenēm, gaismas galds ar krāsas mainošu gaismas tāfeli bērnu radošuma un emociju attīstīšanai, zīmēt ar kinētiskajām un kvarca smiltīm.",
-          "category": "Degučiai"
+          "category": "Zarasai"
         },
         "en": {
           "name": "Zarasai Public Library",
           "description": "The Family Digital Activities Center offers: an interactive bike tour through Southern Latgale and Eastern Aukštaitija, journeys with virtual reality glasses through the cities of Utena, Zarasai, Daugavpils and Preili in Latvia, Kinect motion quizzes, active games on the Xbox platform, Lego Mindstorms robot building sessions, various board games for families, a light table with a color-changing light board to develop children's creativity and emotions, drawing with kinetic and quartz sand.",
-          "category": "Degučiai"
+          "category": "Zarasai"
         },
         "de": {
           "name": "ÖFFENTLICHE BIBLIOTHEK ZARASAI",
           "description": "Das Zentrum für digitale Familienaktivitäten bietet: eine interaktive Fahrradtour durch das südliche Lettgallen und Ost-Aukštaitija, Reisen mit Virtual-Reality-Brillen durch die Städte Utena, Zarasai, Daugavpils und Preili (Lettland), Kinect-Bewegungsquizze, Bewegungsspiele auf der Xbox-Plattform, Lego Mindstorms Roboterbaukurse, verschiedene Brettspiele für Familien, einen Leuchttisch mit farbwechselnder Lichttafel zur Entwicklung der Kreativität und Emotionen von Kindern, Zeichnen mit kinetischem und Quarzsand.",
-          "category": "Degučiai"
+          "category": "Zarasai"
         },
         "pl": {
           "name": "BIBLIOTEKA PUBLICZNA W ZARASAI",
           "description": "Otwarta na innowacje. Placówka promuje cyfrowe formy poznania. Wyposażona od wirtualnych wycieczek po sąsiednich i lokalnych atrakcjach do zabawek programistycznych (lego) czy Kinect z edukacyjnymi akcentami w technologii piaskowej i interaktywnej.",
-          "category": "Degučiai"
+          "category": "Zarasai"
         },
         "ru": {
           "name": "ЗАРАСАЙСКАЯ ПУБЛИЧНАЯ БИБЛИОТЕКА",
           "description": "В центре цифровых развлечений для семьи предлагается: интерактивный тур на велосипеде по Южной Латгалии и Восточной Аукштайтии, путешествия с очками виртуальной реальности по городам Утена, Зарасай, Даугавпилс и Прейли, викторины с движениями Kinect, подвижные игры на платформе Xbox, конструирование роботов Lego Mindstorms, различные настольные игры для семьи, световой стол с меняющей цвет световой доской для развития творчества и эмоций детей, рисование кинетическим и кварцевым песком.",
-          "category": "Degučiai"
+          "category": "Zarasai"
         }
       }
     },
@@ -3591,32 +3591,32 @@
         "lt": {
           "name": "ZARASŲ KRAŠTO MUZIEJUS",
           "description": "Edukacinės programos metu kalbama apie verslus senovėje, apie žmogaus darną su gamta ir jo pastangas palenkti gamtą savo naudai, apie seną žvejo, medžiotojo, žemdirbio veiklą – jos papročius, burtus ir prietarus. Mokomasi atpažinti žvėris ir paukščius, gėlavandenes žuvis. Siūlomos edukacinės pamokėlės apie kiekvieną verslą atskirai arba visus kartu.",
-          "category": "Antazavė"
+          "category": "Edukacinės programos"
         },
         "lv": {
           "name": "ZARASU NOVADA MUZEJS",
           "description": "Izglītojošās programmas laikā tiek runāts par amatiem senatnē, par cilvēka harmoniju ar dabu un viņa pūliņiem pakļaut dabu savā labā, par senā zvejnieka, mednieka, zemkopja darbību – tās paražām, burvestībām un māņticībām. Mācās atpazīt zvērus un putnus, saldūdens zivis. Tiek piedāvātas izglītojošas nodarbības par katru amatu atsevišķi vai visiem kopā.",
-          "category": "Antazavė"
+          "category": "Edukacinės programos"
         },
         "en": {
           "name": "Zarasai Regional Museum",
           "description": "During the educational program, ancient crafts are discussed, as well as human harmony with nature and efforts to bend nature to their advantage, the old activities of a fisherman, hunter, farmer - their customs, spells, and superstitions. Participants learn to recognize animals and birds, freshwater fish. Educational sessions are offered about each craft separately or all together.",
-          "category": "Antazavė"
+          "category": "Edukacinės programos"
         },
         "de": {
           "name": "REGIONALMUSEUM ZARASAI",
           "description": "Während des Bildungsprogramms wird über die Berufe in der Antike gesprochen, über die Harmonie des Menschen mit der Natur und seine Bemühungen, die Natur zu seinem Vorteil zu nutzen, über die alten Tätigkeiten von Fischern, Jägern und Bauern – ihre Bräuche, Zaubersprüche und Aberglauben. Man lernt, Tiere und Vögel sowie Süßwasserfische zu erkennen. Es werden lehrreiche Kurse über jeden Beruf einzeln oder alle zusammen angeboten.",
-          "category": "Antazavė"
+          "category": "Edukacinės programos"
         },
         "pl": {
           "name": "MUZEUM REGIONALNE W ZARASACH",
           "description": "Szeroka oferta dla pasjonatów historii rękodzieła i pradawnego bytowania. Program przewiduje zapoznawanie uczestnika z odwiecznymi prawami przyrody i technik m.in rzemieślników rolników. Pod okiem specjalistów poznajemy techniki myśliwych (ptactwa, fauny rzek i lasów). Dostępne spotkania kompleksowe lub profilowane.",
-          "category": "Antazavė"
+          "category": "Edukacinės programos"
         },
         "ru": {
           "name": "ЗАРАСАЙСКИЙ КРАЕВЕДЧЕСКИЙ МУЗЕЙ",
           "description": "Во время образовательной программы рассказывается о промыслах в древности, о гармонии человека с природой и его усилиях подчинить природу себе, о древней деятельности рыбака, охотника, земледельца – их обычаях, заклинаниях и приметах. Учатся распознавать зверей и птиц, пресноводных рыб. Предлагаются образовательные уроки по каждому промыслу в отдельности или по всем вместе.",
-          "category": "Antazavė"
+          "category": "Edukacinės programos"
         }
       }
     },
@@ -3640,32 +3640,32 @@
         "lt": {
           "name": "ŽAIDIMŲ KAMBARYS „ZARASIUKAS",
           "description": "Tai žaisminga erdvė šeimai, kurioje organizuojamos šeimos šventės, kuriamos išradingos edukacinės programos, diskotekos ir kitos smagios veiklos vaikams.",
-          "category": "Antazavė"
+          "category": "Zarasai"
         },
         "lv": {
           "name": "ROTAĻU ISTABA „ZARASIUKAS”",
           "description": "Tā ir rotaļīga telpa ģimenei, kurā tiek organizēti ģimenes svētki, radītas izgudrojošas izglītojošas programmas, diskotēkas un citas jautras aktivitātes bērniem.",
-          "category": "Antazavė"
+          "category": "Zarasai"
         },
         "en": {
           "name": "Playroom \"Zarasiukas\"",
           "description": "This is a playful space for the family, where family celebrations are organized, and inventive educational programs, discos, and other fun activities for children are created.",
-          "category": "Antazavė"
+          "category": "Zarasai"
         },
         "de": {
           "name": "SPIELZIMMER „ZARASIUKAS“",
           "description": "Dies ist ein spielerischer Raum für die Familie, in dem Familienfeiern organisiert, erfinderische Bildungsprogramme, Discos und andere lustige Aktivitäten für Kinder geschaffen werden.",
-          "category": "Antazavė"
+          "category": "Zarasai"
         },
         "pl": {
           "name": "POKÓJ ZABAW DLA DZIECI „ZARASIUKAS”",
           "description": "Miejsce na rodzinne formy spędzenia czasu oraz rekreacji rozrywkowej ze wsparciem dydaktycznym (np. świętowanie z animacjami i programem dyskotekowym).",
-          "category": "Antazavė"
+          "category": "Zarasai"
         },
         "ru": {
           "name": "ИГРОВАЯ КОМНАТА «ЗАРАСЮКАС»",
           "description": "Это игровое пространство для семьи, где организуются семейные праздники, создаются изобретательные образовательные программы, дискотеки и другие веселые развлечения для детей.",
-          "category": "Antazavė"
+          "category": "Zarasai"
         }
       }
     },
@@ -3688,32 +3688,32 @@
         "lt": {
           "name": "ŠLYNINKOS VANDENS MALŪNAS",
           "description": "Už penkių kilometrų nuo miesto esančiame trijų šimtų metų senumo malūne lankytojai turi galimybę ne tik paragauti čia pat kepamų tautinio paveldo blynų ar duonos, bet ir įsigyti malūne maltų miltų ar kruopų. Susitarus malūnininkas praves ekskursiją po veikiantį vandens malūną,  o malūninkienė – edukacinę duonos   kepimo programą",
-          "category": "Antazavė"
+          "category": "Zarasai"
         },
         "lv": {
           "name": "ŠĻININKAS ŪDENSDZIRNAVAS",
           "description": "Piecu kilometru attālumā no pilsētas esošajās trīssimt gadu vecajās dzirnavās apmeklētājiem ir iespēja ne tikai nobaudīt tepat ceptās nacionālā mantojuma pankūkas vai maizi, bet arī iegādāties dzirnavās maltus miltus vai putraimus. Vienojoties, dzirnavnieks vadīs ekskursiju pa darbojošām ūdensdzirnavām, bet dzirnavniece – izglītojošu maizes cepšanas programmu.",
-          "category": "Antazavė"
+          "category": "Zarasai"
         },
         "en": {
           "name": "Šlyninka Water Mill",
           "description": "In a three-hundred-year-old mill five kilometers from the city, visitors have the opportunity not only to taste locally baked national heritage pancakes or bread but also to buy flour or groats milled at the mill. By agreement, the miller will give a tour of the working water mill, and his wife will offer an educational bread-baking program.",
-          "category": "Antazavė"
+          "category": "Zarasai"
         },
         "de": {
           "name": "ŠLYNINKA-WASSÜRMÜHLE",
           "description": "In der dreihundert Jahre alten Mühle, fünf Kilometer von der Stadt entfernt, haben Besucher die Möglichkeit, nicht nur die vor Ort gebackenen Pfannkuchen oder das Brot (nationales Kulturerbe) zu probieren, sondern auch in der Mühle gemahlenes Mehl oder Grütze zu kaufen. Nach Absprache führt der Müller durch die funktionierende Wassermühle und die Müllerin bietet ein lehrreiches Brotbäckereiprogramm an.",
-          "category": "Antazavė"
+          "category": "Zarasai"
         },
         "pl": {
           "name": "MŁYN WODNY W ŠLYNINCE",
           "description": "Oddalony o kilka kilometrów trzystuletni kompleks. Degustacje oraz chleby wypiekane tradycyjnymi dawnymi formami. Na miejscu dostęp do zakupów mąki własnego wyrobu. Po wcześniejszym uzgodnieniu organizowane wycieczki krajoznawcze z procesem pokazowym.",
-          "category": "Antazavė"
+          "category": "Zarasai"
         },
         "ru": {
           "name": "ШЛИНИНКСКАЯ ВОДЯНАЯ МЕЛЬНИЦА",
           "description": "На трехсотлетней мельнице, расположенной в пяти километрах от города, посетители имеют возможность не только попробовать выпекаемые здесь блины или хлеб национального кулинарного наследия, но и купить муку или крупу, смолотую на мельнице. По договоренности мельник проведет экскурсию по действующей водяной мельнице, а мельничиха – образовательную программу по выпечке хлеба.",
-          "category": "Antazavė"
+          "category": "Zarasai"
         }
       }
     },
@@ -3736,32 +3736,32 @@
         "lt": {
           "name": "G. SINO ŠEIMOS VYNINĖS EDUKACINĖ PROGRAMA",
           "description": "Kitoje Zaraso  ežero pusėje, Juodalaukių kaime,  įsikūrusi  Gintaro Sino šeimos vyninė kviečia grupes  susipažinti su lietuviško vaisių - uogų vyno gamyba ir charizmatišku vyndariu. Edukacinė programa trunka nuo dviejų iki keturių valandų. Čia galima įsigyti  įsimintinų dovanų ir puikiai praleisti laiką. Juodalaukių km. 12, Zarasų sen., Zarasų r.",
-          "category": "Antazavė"
+          "category": "Zarasai"
         },
         "lv": {
           "name": "G. SINO ĢIMENES VĪNA DARĪTAVAS IZGLĪTOJOŠĀ PROGRAMMA",
           "description": "Otrpus Zarasas ezeram, Juodalauķu ciemā, esošā Gintara Sino ģimenes vīna darītava aicina grupas iepazīties ar Lietuvas augļu - ogu vīna ražošanu un harizmātisku vīndari. Izglītojošā programma ilgst no divām līdz četrām stundām. Šeit var iegādāties neaizmirstamas dāvanas un lieliski pavadīt laiku. Juodalauķu c. 12, Zarasu seņūnija, Zarasu raj.",
-          "category": "Antazavė"
+          "category": "Zarasai"
         },
         "en": {
           "name": "G. Sinas Family Winery Educational Program",
           "description": "On the other side of Lake Zarasas, in Juodalaukiai village, the Gintaras Sinas family winery invites groups to learn about the production of Lithuanian fruit and berry wine and meet the charismatic winemaker. The educational program lasts from two to four hours. Here you can buy memorable gifts and have a great time. Juodalaukiai village 12, Zarasai eldership, Zarasai district.",
-          "category": "Antazavė"
+          "category": "Zarasai"
         },
         "de": {
           "name": "BILDUNGSPROGRAMM DES WEINGUTS DER FAMILIE G. SINAS",
           "description": "Auf der anderen Seite des Zarasas-Sees, im Dorf Juodalaukiai, lädt das Weingut der Familie Gintaras Sinas Gruppen ein, sich mit der litauischen Frucht- und Beerenweinherstellung und dem charismatischen Winzer vertraut zu machen. Das Bildungsprogramm dauert zwei bis vier Stunden. Hier können Sie unvergessliche Geschenke kaufen und eine tolle Zeit verbringen. Juodalaukiai-Dorf 12, Amtsbezirk Zarasai, Bezirk Zarasai.",
-          "category": "Antazavė"
+          "category": "Zarasai"
         },
         "pl": {
           "name": "WYTWÓRNIA WINA G. SINAS Z PROGRAMEM EDUKACYJNYM",
           "description": "W pobliskim Juodalaukiai (12) (brzeg przeciwstawny) urokliwy właściciel zaprasza grupy dorosłych po kulisach wyrobów narodowych trunków na podstawie rodzimych owoców lasów i sadów. Sesje degustacyjne (2-4h). Do nabycia własnoręczne specjały pamiątkowe.",
-          "category": "Antazavė"
+          "category": "Zarasai"
         },
         "ru": {
           "name": "ОБРАЗОВАТЕЛЬНАЯ ПРОГРАММА ВИНОДЕЛЬНИ СЕМЬИ Г. СИНАСА",
           "description": "На другой стороне озера Зарасас, в деревне Юодалаукяй, винодельня семьи Гинтараса Синаса приглашает группы познакомиться с производством литовского плодово-ягодного вина и с харизматичным виноделом. Образовательная программа длится от двух до четырех часов. Здесь можно купить памятные подарки и прекрасно провести время. Дер. Юодалаукяй 12, сянюния Зарасай, Зарасайский р-н.",
-          "category": "Antazavė"
+          "category": "Zarasai"
         }
       }
     },
@@ -3783,32 +3783,32 @@
         "lt": {
           "name": "BACHMATŲ ŽIRGAI",
           "description": "Totoriškos kilmės pavadinimo kaime teikiamos jojimo paslaugos (savarankiškai ir/ar mokymas su treneriu), žirgai nuomojami fotosesijoms.",
-          "category": "Antazavė"
+          "category": "Zarasai"
         },
         "lv": {
           "name": "BAHMATU ZIRGI",
           "description": "Tatarskas izcelsmes nosaukuma ciemā tiek sniegti jāšanas pakalpojumi (patstāvīgi un/vai apmācība ar treneri), zirgi tiek izīrēti fotosesijām.",
-          "category": "Antazavė"
+          "category": "Zarasai"
         },
         "en": {
           "name": "Bachmatai Horses",
           "description": "In a village with a name of Tatar origin, horseback riding services are provided (independently and/or learning with a trainer), and horses are rented for photoshoots.",
-          "category": "Antazavė"
+          "category": "Zarasai"
         },
         "de": {
           "name": "PFERDE VON BACHMATAI",
           "description": "In dem Dorf mit dem Namen tatarischen Ursprungs werden Reitdienste angeboten (selbstständig und/oder Training mit einem Trainer), und es werden Pferde für Fotoshootings vermietet.",
-          "category": "Antazavė"
+          "category": "Zarasai"
         },
         "pl": {
           "name": "KONIE W BACHMATAI",
           "description": "Siodłowe nauki na prowincji wywodzącej nazwę na cześć tradycji tatarów. Szkolenia wraz z możliwością sesji fotograficznych i wypożyczeń po terenie.",
-          "category": "Antazavė"
+          "category": "Zarasai"
         },
         "ru": {
           "name": "ЛОШАДИ БАХМАТАЙ",
           "description": "В деревне с названием татарского происхождения предоставляются услуги верховой езды (самостоятельно и/или обучение с тренером), лошади сдаются в аренду для фотосессий.",
-          "category": "Antazavė"
+          "category": "Zarasai"
         }
       }
     },
@@ -3831,32 +3831,32 @@
         "lt": {
           "name": "MEDŽIO DROŽĖJAS GEDIMINAS KAIRYS",
           "description": "Amatininkas Gediminas Kairys kviečia apsilankyti visus norinčius susipažinti su medžio drožėjo amatu. Sertifikuotų tautinio paveldo produktų tradicinis amatininkas, senojo šaukščiaus, kubilininkystės, stalystės ir žaislininkystės amatų puoselėtojas.",
-          "category": "Antazavė"
+          "category": "Degučiai"
         },
         "lv": {
           "name": "KOKGRIEZĒJS GEDIMINS KAIRIS",
           "description": "Amatnieks Gedimins Kairis aicina apmeklēt visus, kas vēlas iepazīties ar kokgriezēja amatu. Sertificētu nacionālā mantojuma produktu tradicionālais amatnieks, senā karošu, kubulu, galdniecības un rotaļlietu izgatavošanas amatu kopējs.",
-          "category": "Antazavė"
+          "category": "Degučiai"
         },
         "en": {
           "name": "Woodcarver Gediminas Kairys",
           "description": "Craftsman Gediminas Kairys invites everyone who wants to get acquainted with the woodcarver's craft. He is a traditional craftsman of certified national heritage products, a nurturer of old spoon carving, coopering, carpentry, and toy-making crafts.",
-          "category": "Antazavė"
+          "category": "Degučiai"
         },
         "de": {
           "name": "HOLZSCHNITZER GEDIMINAS KAIRYS",
           "description": "Der Handwerker Gediminas Kairys lädt alle ein, die das Handwerk des Holzschnitzens kennenlernen möchten. Er ist ein traditioneller Handwerker zertifizierter nationaler Erzeugnisse, ein Förderer der alten Handwerke der Löffelherstellung, Böttcherei, Tischlerei und Spielzeugherstellung.",
-          "category": "Antazavė"
+          "category": "Degučiai"
         },
         "pl": {
           "name": "RZEŹBIARZ W DREWNIE GEDIMINAS KAIRYS",
           "description": "Rzemieślnik dziedzictwa historycznego, promujący metody wycinania, produkcji stolarstwa ludowego, czy tworzenia oryginalnych w kształcie zabawek uczy gości oraz zainteresowanych wyrobu łyżek drewnianych i beczek.",
-          "category": "Antazavė"
+          "category": "Degučiai"
         },
         "ru": {
           "name": "РЕЗЧИК ПО ДЕРЕВУ ГЯДИМИНАС КАЙРИС",
           "description": "Ремесленник Гядиминас Кайрис приглашает в гости всех желающих познакомиться с ремеслом резчика по дереву. Традиционный ремесленник сертифицированных продуктов национального наследия, хранитель древних ремесел изготовления ложек, бондарства, столярного дела и изготовления игрушек.",
-          "category": "Antazavė"
+          "category": "Degučiai"
         }
       }
     },
@@ -3879,32 +3879,32 @@
         "lt": {
           "name": "VAJASIŠKIO BENDRUOMENĖS „SENOLIŲ KAIMAS“",
           "description": "Kas apsilanko Vajasiškio Senolių kaime vieningai sako, kad tai vieta, į kurią norisi vėl sugrįžti. Edukacinių programų-vakaronių metu galima nusikelti į XIX amžių ir žibalinės lempos šviesoje pasimokinti amatų, paprastų buities darbų ir pramogų: verpti, vyti virves, mušti sviestą, padainuoti ir smagiai patrypti tikroje vakaronėje. Čia apsilankę įsitikinsite, kad nieko nėra skaniau už kaime gamintą maistą iš vietoje užaugintų produktų pagal senovinius receptus.",
-          "category": "Antazavė"
+          "category": "Edukacinės programos"
         },
         "lv": {
           "name": "VAJASIŠĶU KOPIENAS „SENČU CIEMS”",
           "description": "Kas apmeklē Vajasišķu Senču ciemu, vienprātīgi saka, ka tā ir vieta, kurā gribas atgriezties vēlreiz. Izglītojošo programmu-vakarēšanu laikā var pārcelties uz 19. gadsimtu un petrolejas lampas gaismā mācīties amatus, vienkāršus ikdienas darbus un izklaides: vērpt, vīt virves, kult sviestu, padziedāt un jautri padejot īstā vakarēšanā. Šeit apmeklējot, pārliecināsieties, ka nav nekā garšīgāka par laukos gatavotu ēdienu no uz vietas audzētiem produktiem pēc senām receptēm.",
-          "category": "Antazavė"
+          "category": "Edukacinės programos"
         },
         "en": {
           "name": "Vajasiškis Community's \"Village of Elders\"",
           "description": "Those who visit the Vajasiškis Village of Elders unanimously say that it is a place they want to return to again. During educational program-evenings, you can travel back to the 19th century and, by the light of a kerosene lamp, learn crafts, simple household chores, and entertainment: spinning, twisting ropes, churning butter, singing, and stomping merrily at a real evening gathering. Visiting here will convince you that nothing is tastier than food made in the village from locally grown products according to ancient recipes.",
-          "category": "Antazavė"
+          "category": "Edukacinės programos"
         },
         "de": {
           "name": "„DORF DER VORFAHREN“ DER GEMEINDE VAJASIŠKIS",
           "description": "Wer das Dorf der Vorfahren in Vajasiškis besucht, sagt einstimmig, dass dies ein Ort ist, an den man gerne wieder zurückkehrt. Während der Bildungsprogramme-Abendveranstaltungen kann man sich ins 19. Jahrhundert zurückversetzen lassen und im Licht einer Kerosinlampe Handwerke, einfache Hausarbeiten und Unterhaltungen erlernen: Spinnen, Seile flechten, Butter schlagen, singen und bei einer echten Abendveranstaltung fröhlich tanzen. Wenn Sie hierher kommen, werden Sie sich überzeugen, dass nichts besser schmeckt als ländliches Essen, das aus lokal angebauten Produkten nach alten Rezepten zubereitet wird.",
-          "category": "Antazavė"
+          "category": "Edukacinės programos"
         },
         "pl": {
           "name": "„WIOSKA PRZODKÓW” W VAJASIŠKIS",
           "description": "Miejsce odtwarzające scenerię życia 19 wiecznego. Edukacyjno kulturalne wizytacje o zabarwieniu ludowego poznania rzemiosł. Uczymy się tam prząść lny, ubijać masła czy skosztować prawdziwej wsi z lampkami oliwnymi, kończąc wizytę naturalnymi kulinariami opartymi o prastare ludowe zapiski oraz smaki natury.",
-          "category": "Antazavė"
+          "category": "Edukacinės programos"
         },
         "ru": {
           "name": "«ДЕРЕВНЯ ПРЕДКОВ» ОБЩИНЫ ВАЯСИШКИС",
           "description": "Кто побывал в «Деревне предков» Ваясишкис, единогласно говорят, что это место, куда хочется вернуться снова. Во время образовательных программ-вечерок можно перенестись в XIX век и при свете керосиновой лампы поучиться ремеслам, простым бытовым работам и развлечениям: прясть, вить веревки, сбивать масло, спеть и весело потанцевать на настоящей вечерке. Побывав здесь, вы убедитесь, что нет ничего вкуснее деревенской еды, приготовленной из выращенных на месте продуктов по старинным рецептам.",
-          "category": "Antazavė"
+          "category": "Edukacinės programos"
         }
       }
     },
@@ -3926,32 +3926,32 @@
         "lt": {
           "name": "ANTALIEPTĖS KAIMO BENDRUOMENĖS TEMINIS „LIEPTŲ KAIMAS“",
           "description": "Žygio per biologinį draustinį,  Šavašos pažintinį taką, Gražutės regioniniame parke metu siūloma dalyvauti teatralizuotoje edukacinėje programoje „Senasis lietuvių tikėjimas, dievai, deivės, mitologinės būtybės“. Jos metu paskanausite gardžių zuikio blynų ir patirsite puikių įspūdžių gamtoje.",
-          "category": "Antalieptė"
+          "category": "Edukacinės programos"
         },
         "lv": {
           "name": "ANTALIEPTES LAUKU KOPIENAS TEMATISKAIS „LAIPU CIEMS”",
           "description": "Pārgājiena pa bioloģisko liegumu, Šavašas izziņas taku, Gražutes reģionālajā parkā laikā tiek piedāvāts piedalīties teatralizētā izglītojošā programmā „Senā lietuviešu ticība, dievi, dievietes, mitoloģiskās būtnes”. Tās laikā nobaudīsiet gardas zaķa pankūkas un gūsiet lieliskus iespaidus dabā.",
-          "category": "Antalieptė"
+          "category": "Edukacinės programos"
         },
         "en": {
           "name": "Antalieptė Village Community's Thematic \"Village of Bridges\"",
           "description": "During a hike through the biological reserve, the Šavaša educational trail in the Gražutė Regional Park, it is suggested to participate in the theatrical educational program \"Old Lithuanian Faith, Gods, Goddesses, Mythological Creatures\". During it, you will taste delicious hare pancakes and experience wonderful moments in nature.",
-          "category": "Antalieptė"
+          "category": "Edukacinės programos"
         },
         "de": {
           "name": "THEMATISCHES „STEGDORF“ DER LÄNDLICHEN GEMEINDE ANTALIEPTĖ",
           "description": "Während der Wanderung durch das biologische Schutzgebiet, den Šavaša-Lehrpfad im Regionalpark Gražutė, wird die Teilnahme am theatralischen Bildungsprogramm „Der alte litauische Glaube, Götter, Göttinnen, mythologische Wesen“ angeboten. Dabei werden Sie köstliche Hasenpfannkuchen probieren und wunderbare Eindrücke in der Natur gewinnen.",
-          "category": "Antalieptė"
+          "category": "Edukacinės programos"
         },
         "pl": {
           "name": "TEMATYCZNA WIOSKA W ANTALIEPTĖ",
           "description": "Oferta tematyczna przyroda w teatrze u progu parku regionalnego (wędrując ścieżką Šavašos). Obejmuje on dawne obrzędy wierzeń czy baśni na wpół z degustacyjnymi walorami „zajęczych placuszków”.",
-          "category": "Antalieptė"
+          "category": "Edukacinės programos"
         },
         "ru": {
           "name": "ТЕМАТИЧЕСКАЯ «ДЕРЕВНЯ МОСТКОВ» АНТАЛЕПТСКОЙ СЕЛЬСКОЙ ОБЩИНЫ",
           "description": "Во время похода по биологическому заповеднику, познавательной тропе Шаваша, в Гражутском региональном парке предлагается принять участие в театрализованной образовательной программе «Древняя литовская вера, боги, богини, мифологические существа». Во время нее вы отведаете вкусных заячьих блинчиков и получите прекрасные впечатления на природе.",
-          "category": "Antalieptė"
+          "category": "Edukacinės programos"
         }
       }
     },
@@ -4023,32 +4023,32 @@
         "lt": {
           "name": "ANTALIEPTĖS ŽIRGAI",
           "description": "Edukacinės pamokėlės žirgininkystės tematika, mokymai jodinėti.",
-          "category": "Antalieptė"
+          "category": "Edukacinės programos"
         },
         "lv": {
           "name": "ANTALIEPTES ZIRGI",
           "description": "Izglītojošas nodarbības zirgkopības tēmā, apmācības jāt.",
-          "category": "Antalieptė"
+          "category": "Edukacinės programos"
         },
         "en": {
           "name": "Antalieptė Horses",
           "description": "Educational lessons on horse breeding, riding lessons.",
-          "category": "Antalieptė"
+          "category": "Edukacinės programos"
         },
         "de": {
           "name": "PFERDE VON ANTALIEPTĖ",
           "description": "Lehrreiche Kurse zum Thema Pferdezucht, Reitunterricht.",
-          "category": "Antalieptė"
+          "category": "Edukacinės programos"
         },
         "pl": {
           "name": "KONIE Z ANTALIEPTĖ",
           "description": "Szkoły konne oraz program z nauczaniem podstaw dla turystów.",
-          "category": "Antalieptė"
+          "category": "Edukacinės programos"
         },
         "ru": {
           "name": "ЛОШАДИ АНТАЛЕПТЕ",
           "description": "Образовательные уроки по коневодству, обучение верховой езде.",
-          "category": "Antalieptė"
+          "category": "Edukacinės programos"
         }
       }
     },
@@ -4071,32 +4071,32 @@
         "lt": {
           "name": "BITYNAS „MEDŪKiS“",
           "description": "Daugiau kaip 20 metų gyvuojančiame Vaitukaičių bityne galima iš arti susipažinti su bičių gyvenimu, medaus ėmimo procesu bei paragauti skirtingų rūšių medaus. Ekskursijos po bityną metu pasakojama apie bičių gyvenimą ir darbą avilyje, galima sužinoti kaip ir kam bitės gamina medų, duonelę bei daug kitų įdomių dalykų.",
-          "category": "Antalieptė"
+          "category": "Dusetos"
         },
         "lv": {
           "name": "DRAVA „MEDŪKIS”",
           "description": "Vairāk nekā 20 gadus pastāvošajā Vaitukaiču dravā var tuvumā iepazīties ar bišu dzīvi, medus vākšanas procesu un nobaudīt dažādu veidu medu. Ekskursijas laikā pa dravu tiek stāstīts par bišu dzīvi un darbu stropā, var uzzināt, kā un kam bites ražo medu, bišu maizi un daudz citu interesantu lietu.",
-          "category": "Antalieptė"
+          "category": "Dusetos"
         },
         "en": {
           "name": "Apiary \"Medūkis\"",
           "description": "In the Vaitukaičiai apiary, which has existed for over 20 years, you can get a close look at the life of bees, the honey extraction process, and taste different types of honey. During the tour around the apiary, stories are told about the life and work of bees in the hive, and you can learn how and why bees make honey, bee bread, and many other interesting things.",
-          "category": "Antalieptė"
+          "category": "Dusetos"
         },
         "de": {
           "name": "IMKEREI „MEDŪKIS“",
           "description": "In der seit über 20 Jahren bestehenden Imkerei Vaitukaičiai können Sie das Leben der Bienen und den Prozess der Honigernte aus nächster Nähe kennenlernen und verschiedene Honigsorten probieren. Während der Führung durch die Imkerei wird über das Leben und Arbeiten der Bienen im Bienenstock erzählt, man kann erfahren, wie und wofür Bienen Honig, Bienenbrot und vieles mehr produzieren.",
-          "category": "Antalieptė"
+          "category": "Dusetos"
         },
         "pl": {
           "name": "PASIEKA „MEDŪKIS”",
           "description": "Ponad dwudziestoletnie rodzinne tradycje we Vaitukaičiai z degustacjami świeżych miodowych smaków oraz zaznajamianiem o pszczelim rytmie, pracy przy ulu czy pozyskiwaniu pierzgi lub wosku na inne dobra.",
-          "category": "Antalieptė"
+          "category": "Dusetos"
         },
         "ru": {
           "name": "ПАСЕКА «МЕДУКИС»",
           "description": "На пасеке Вайтукайтисов, существующей более 20 лет, можно вблизи познакомиться с жизнью пчел, процесс сбора меда и попробовать разные сорта меда. Во время экскурсии по пасеке рассказывается о жизни пчел и работе в улье, можно узнать, как и для чего пчелы делают мед, пергу и много других интересных вещей.",
-          "category": "Antalieptė"
+          "category": "Dusetos"
         }
       }
     },
@@ -4119,32 +4119,32 @@
         "lt": {
           "name": "MEDŽIO DROŽĖJAS ERIKAS ČYPAS",
           "description": "Sertifikuotas tautodailininkas, norintiems išmokti drožti organizuoja edukacines programas savo įkurtame Amatų centre.",
-          "category": "Antalieptė"
+          "category": "Edukacinės programos"
         },
         "lv": {
           "name": "KOKGRIEZĒJS ĒRIKS ČIPS",
           "description": "Sertificēts tautas mākslinieks gribētājiem iemācīties griezt kokā organizē izglītojošas programmas savā dibinātajā Amatu centrā.",
-          "category": "Antalieptė"
+          "category": "Edukacinės programos"
         },
         "en": {
           "name": "Woodcarver Erikas Čypas",
           "description": "A certified folk artist who organizes educational programs for those who want to learn how to carve in his established Crafts Center.",
-          "category": "Antalieptė"
+          "category": "Edukacinės programos"
         },
         "de": {
           "name": "HOLZSCHNITZER ERIKAS ČYPAS",
           "description": "Der zertifizierte Volkskünstler organisiert in seinem eigenen Handwerkszentrum Bildungsprogramme für diejenigen, die das Schnitzen erlernen möchten.",
-          "category": "Antalieptė"
+          "category": "Edukacinės programos"
         },
         "pl": {
           "name": "RZEŹBIARZ W DREWNIE ERIKAS ČYPAS",
           "description": "Założone przez twórcę stowarzyszonego warsztaty z czerpania sztuki dłutem. Pokazowe warsztaty z programem informacyjnym.",
-          "category": "Antalieptė"
+          "category": "Edukacinės programos"
         },
         "ru": {
           "name": "РЕЗЧИК ПО ДЕРЕВУ ЭРИКАС ЧИПАС",
           "description": "Сертифицированный народный мастер организует образовательные программы для желающих научиться резьбе в основанном им Центре ремесел.",
-          "category": "Antalieptė"
+          "category": "Edukacinės programos"
         }
       }
     },
@@ -4168,32 +4168,32 @@
         "lt": {
           "name": "R. ČIŽO ALAUS DARYKLA IR SENOVINIŲ ALAUS ĮRANKIŲ EKSPOZICIJA",
           "description": "Dusetose įsikūręs trečios kartos aludaris pagal prosenelių tradicijas, su miško bičių medumi, verda garsųjį “Čižo” alų. Paveldėjęs ne tik receptūrą, bet ir įrangą, aludaris įkūrė senųjų alaus gaminimo įrankių ekspoziciją, į kurią gali pakviesti ir didesnį būrį žmonių ekskursijoms su degustacija.",
-          "category": "Antalieptė"
+          "category": "Edukacinės programos"
         },
         "lv": {
           "name": "R. ČIŽA ALUS DARĪTAVA UN SENO ALUS DARBARĪKU EKSPOZĪCIJA",
           "description": "Dusetos esošais trešās paaudzes alus darītājs saskaņā ar vecvectēvu tradīcijām, ar meža bišu medu, brūvē slaveno \"Čiža\" alu. Mantojot ne tikai receptūru, bet arī iekārtas, alus darītājs izveidoja seno alus gatavošanas darbarīku ekspozīciju, kurā var aicināt arī lielāku cilvēku pulku ekskursijām ar degustāciju.",
-          "category": "Antalieptė"
+          "category": "Edukacinės programos"
         },
         "en": {
           "name": "R. Čižas Brewery and Exhibition of Ancient Brewing Tools",
           "description": "A third-generation brewer located in Dusetos brews the famous \"Čižas\" beer with forest bee honey according to his great-grandparents' traditions. Having inherited not only the recipe but also the equipment, the brewer set up an exhibition of old brewing tools, to which he can invite a larger group of people for tours with tasting.",
-          "category": "Antalieptė"
+          "category": "Edukacinės programos"
         },
         "de": {
           "name": "BRAUEREI UND AUSSTELLUNG ALTER BRAUWERKZEUGE VON R. ČIŽAS",
           "description": "In Dusetos braut ein Brauer in dritter Generation das berühmte „Čižas“-Bier nach den Traditionen seiner Urgroßväter mit dem Honig von Waldbienen. Da er nicht nur die Rezepte, sondern auch die Ausrüstung geerbt hat, richtete der Brauer eine Ausstellung mit alten Braugeräten ein, zu der er auch größere Gruppen zu Ausflügen mit Verkostung einladen kann.",
-          "category": "Antalieptė"
+          "category": "Edukacinės programos"
         },
         "pl": {
           "name": "BROWAR ORAZ EKSPOZYCJA NARZĘDZI R. ČIŽASA",
           "description": "Znajdujący się w Dusetos trzeciopokoleniowy piwowar produkujący naturalne wyroby (miody pitne czy piwo Čižas). Zebrane stare zabytkowe oprzyrządowania do domowego leżakowania wraz z poszerzaniem wiedzy (dla większych zorganizowanych zbiorowości).",
-          "category": "Antalieptė"
+          "category": "Edukacinės programos"
         },
         "ru": {
           "name": "ПИВОВАРНЯ И ЭКСПОЗИЦИЯ СТАРИННЫХ ПИВОВАРЕННЫХ ИНСТРУМЕНТОВ Р. ЧИЖАСА",
           "description": "В Дусетос пивовар в третьем поколении по традициям прадедов, с медом лесных пчел, варит знаменитое пиво «Чижо». Унаследовав не только рецептуру, но и оборудование, пивовар создал экспозицию старинных инструментов для приготовления пива, в которую может пригласить и большую группу людей на экскурсии с дегустацией.",
-          "category": "Antalieptė"
+          "category": "Edukacinės programos"
         }
       }
     },
@@ -4217,32 +4217,32 @@
         "lt": {
           "name": "VASAKNŲ DVARO BRAVORO EDUKACINĖ PROGRAMA",
           "description": "Dvaro teritorijoje atkurtas dar XVIII a. veikęs bravoras, kuriame siūloma įdomi edukacinė programa. Jos metu siūloma paragauti šešių rūšių nefiltruoto, gyvo alaus ir pasivaišinti dvaro valgiais.",
-          "category": "Antalieptė"
+          "category": "Dusetos"
         },
         "lv": {
           "name": "VASAKNU MUIŽAS ALUS DARĪTAVAS IZGLĪTOJOŠĀ PROGRAMMA",
           "description": "Muižas teritorijā atjaunota vēl 18. gs. darbojusies alus darītava, kurā tiek piedāvāta interesanta izglītojošā programma. Tās laikā tiek piedāvāts nobaudīt sešu veidu nefiltrētu, dzīvo alu un cienāties ar muižas ēdieniem.",
-          "category": "Antalieptė"
+          "category": "Dusetos"
         },
         "en": {
           "name": "Vasaknos Manor Brewery Educational Program",
           "description": "A brewery that operated in the 18th century was restored on the manor territory, offering an interesting educational program. During it, you are invited to taste six types of unfiltered, live beer and treat yourself to manor meals.",
-          "category": "Antalieptė"
+          "category": "Dusetos"
         },
         "de": {
           "name": "BILDUNGSPROGRAMM DER BRAUEREI DES GUTES VASAKNOS",
           "description": "Auf dem Gelände des Gutes wurde die noch im 18. Jahrhundert betriebene Brauerei wiederhergestellt, in der ein interessantes Bildungsprogramm angeboten wird. Dabei wird angeboten, sechs Sorten ungefiltertes, lebendiges Bier zu probieren und sich mit den Gerichten des Gutes bewirten zu lassen.",
-          "category": "Antalieptė"
+          "category": "Dusetos"
         },
         "pl": {
           "name": "PROGRAM EDUKACYJNY BROWARU W DWORZE VASAKNOS",
           "description": "Na obszarze zachowanego terytorium dworskiego rzemiosła (18 wiek), serwujemy bogate doznania podniebienia wraz z szóstką niefiltrowanych lokalnych rodzajów piw.",
-          "category": "Antalieptė"
+          "category": "Dusetos"
         },
         "ru": {
           "name": "ОБРАЗОВАТЕЛЬНАЯ ПРОГРАММА ПИВОВАРНИ ПОМЕСТЬЯ ВАСАКНОС",
           "description": "На территории поместья восстановлена действовавшая еще в XVIII в. пивоварня, в которой предлагается интересная образовательная программа. Во время нее предлагается попробовать шесть сортов нефильтрованного, живого пива и угоститься блюдами поместья.",
-          "category": "Antalieptė"
+          "category": "Dusetos"
         }
       }
     },
@@ -4266,32 +4266,32 @@
         "lt": {
           "name": "ŪKIS „LAPĖS SLĖNIS“",
           "description": "Šeimininkai kviečia savo akimis pamatyti gražuolius gyvūnus, su jais pabendrauti, pajodinėti ūkio žirgais, atitrūkti nuo kasdienių rūpesčių ir miesto šurmulio, pabūti gražioje aplinkoje, gerai praleisti laiką ir parsivežti lauktuvių - vietinės ūkio produkcijos.",
-          "category": "Antalieptė"
+          "category": "Dusetos"
         },
         "lv": {
           "name": "SAIMNIECĪBA „LAPSAS IELEJA”",
           "description": "Saimnieki aicina savām acīm redzēt skaistus dzīvniekus, ar tiem pabūt, pajāt ar saimniecības zirgiem, atrauties no ikdienas rūpēm un pilsētas burzmas, pabūt skaistā vidē, labi pavadīt laiku un pārvest dāvanas - vietējo saimniecības produkciju.",
-          "category": "Antalieptė"
+          "category": "Dusetos"
         },
         "en": {
           "name": "Farm \"Fox Valley\"",
           "description": "The hosts invite you to see beautiful animals with your own eyes, interact with them, ride the farm horses, escape from daily worries and city bustle, spend time in a beautiful environment, have a good time, and bring home souvenirs - local farm products.",
-          "category": "Antalieptė"
+          "category": "Dusetos"
         },
         "de": {
           "name": "BAUERNHOF „TAL DER FÜCHSE“",
           "description": "Die Gastgeber laden Sie ein, die wunderschönen Tiere mit eigenen Augen zu sehen, mit ihnen zu interagieren, auf den Pferden des Hofes zu reiten, sich von den Alltagssorgen und der Hektik der Stadt zu lösen, an einem wunderschönen Ort zu sein, eine gute Zeit zu haben und Geschenke mit nach Hause zu nehmen - lokale landwirtschaftliche Produkte.",
-          "category": "Antalieptė"
+          "category": "Dusetos"
         },
         "pl": {
           "name": "FARMERSKIE GOSPODARSTWO „DOLINA LISÓW”",
           "description": "Położone malowniczo ze strefami odcięciami na odosobnienie z obcowaniem ze zwierzętami hodowlanymi oraz rekreacyjnymi. Czysta aura oddechu wraz z lokalnym asortymentem produkcyjnym.",
-          "category": "Antalieptė"
+          "category": "Dusetos"
         },
         "ru": {
           "name": "ХОЗЯЙСТВО «ДОЛИНА ЛИС»",
           "description": "Хозяева приглашают своими глазами увидеть красивых животных, пообщаться с ними, покататься на лошадях хозяйства, оторваться от повседневных забот и городской суеты, побыть в красивой обстановке, хорошо провести время и привезти домой гостинцы - местную продукцию хозяйства.",
-          "category": "Antalieptė"
+          "category": "Dusetos"
         }
       }
     },
@@ -4315,32 +4315,32 @@
         "lt": {
           "name": "ANTAZAVĖS DVARAS IR TRADICINIŲ AMATŲ CENTRAS",
           "description": "Antazavėje, ant šiaurinio Zalvės ežero kranto stovi neoklasicistinio stiliaus dvaro rūmai, kadaise priklausę",
-          "category": "Antalieptė"
+          "category": "Antazavė"
         },
         "lv": {
           "name": "ANTAZAVES MUIŽA UN TRADICIONĀLO AMATU CENTRS",
           "description": "Antazavē, Zalves ezera ziemeļu krastā stāv neoklasicisma stila muižas pils, kas kādreiz piederēja",
-          "category": "Antalieptė"
+          "category": "Antazavė"
         },
         "en": {
           "name": "Antazavė Manor and Traditional Crafts Center",
           "description": "In Antazavė, on the northern shore of Lake Zalvė, stands a neo-classical manor palace, which once belonged to the famous Plater family.",
-          "category": "Antalieptė"
+          "category": "Antazavė"
         },
         "de": {
           "name": "GUT ANTAZAVĖ UND ZENTRUM FÜR TRADITIONELLE HANDWERKE",
           "description": "In Antazavė, am Nordufer des Zalvė-Sees, steht ein Herrenhaus im neoklassizistischen Stil, das einst gehörte",
-          "category": "Antalieptė"
+          "category": "Antazavė"
         },
         "pl": {
           "name": "DWÓR ANTAZAVĖ ORAZ CENTRUM RZEMIOSŁ",
           "description": "W sąsiedztwie północy jezior (Zalvės) z dumną byłą siedzibą w starym dworze na fundamentach Platerów.",
-          "category": "Antalieptė"
+          "category": "Antazavė"
         },
         "ru": {
           "name": "ПОМЕСТЬЕ АНТАЗАВЕ И ЦЕНТР ТРАДИЦИОННЫХ РЕМЕСЕЛ",
           "description": "В Антазаве, на северном берегу озера Залве, стоит усадьба в неоклассическом стиле, когда-то принадлежавшая знаменитому роду Плятеров.",
-          "category": "Antalieptė"
+          "category": "Antazavė"
         }
       }
     },
