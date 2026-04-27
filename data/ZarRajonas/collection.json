@@ -1115,32 +1115,32 @@
         "lt": {
           "name": "KAMARIŠKIŲ DVARAS",
           "description": "Buvusi Kamariškių  dvaro sodyba išlikusi Kamariškių kaime, Suvieko seniūnijoje, apie 2,3 km į šiaurės rytus nuo Samanių kaimo, į pietus nuo Kamariškio ežero. Čia  buvę didingi rūmai, didelis parkas, du sodai, du tvenkiniai, tvartai, daržinė, du rūsiai, arklidės, kalvė. Šiandien rūmų didingumą ir grožį primena du mūriniai fligeliai, tvartas ir daržinė, klojimas, arklidė, rūsys.",
-          "category": "Stelmužė"
+          "category": "Dvaras"
         },
         "lv": {
           "name": "KAMARIŠĶU MUIŽA",
           "description": "Bijušās Kamarišķu muižas sēta saglabājusies Kamarišķu ciemā, Suveko seņūnijā, apmēram 2,3 km uz ziemeļaustrumiem no Samaņu ciema, uz dienvidiem no Kamarišķu ezera. Šeit atradās varenas pils ēkas, liels parks, divi dārzi, divi dīķi, kūtis, šķūnis, divi pagrabi, staļļi, smēde. Šodien pils varenību un skaistumu atgādina divi mūra flīģeļi, kūts un šķūnis, klēts, stallis, pagrabs.",
-          "category": "Stelmužė"
+          "category": "Dvaras"
         },
         "en": {
           "name": "Kamariškės Manor",
           "description": "The former Kamariškės manor homestead survived in Kamariškės village, Suviekas eldership, about 2.3 km northeast of Samaniai village, south of Lake Kamariškis. Here stood a magnificent palace, a large park, two orchards, two ponds, barns, a shed, two cellars, stables, and a smithy. Today, the magnificence and beauty of the palace are reminded by two brick wings, a barn and shed, a threshing floor, stable, and cellar.",
-          "category": "Stelmužė"
+          "category": "Dvaras"
         },
         "de": {
           "name": "GUT KAMARIŠKĖS",
           "description": "Das ehemalige Gut Kamariškės ist im Dorf Kamariškės, Gemeinde Suviekas, etwa 2,3 km nordöstlich des Dorfes Samaniai, südlich des Kamariškės-Sees erhalten geblieben. Hier befanden sich ein prächtiger Palast, ein großer Park, zwei Gärten, zwei Teiche, Scheunen, Ställe, zwei Keller und eine Schmiede. Heute erinnern zwei gemauerte Seitenflügel, ein Stall und eine Scheune, ein Schuppen, ein Pferdestall und ein Keller an die Erhabenheit und Schönheit des Palastes.",
-          "category": "Stelmužė"
+          "category": "Dvaras"
         },
         "pl": {
           "name": "DWÓR W KAMARIŠKĖS",
           "description": "Dawna posiadłość dworska w Kamariškės zachowała się we wsi Kamariškės, w gminie Suviekas, około 2,3 km na północny wschód od wsi Samaniai, na południe od jeziora Kamariškis. Znajdował się tu okazały pałac, duży park, dwa sady, dwa stawy, obory, stodoła, dwie piwnice, stajnie, kuźnia. Dziś o wspaniałości i pięknie pałacu przypominają dwie murowane oficyny, obora i stodoła, spichlerz, stajnia, piwnica.",
-          "category": "Stelmužė"
+          "category": "Dvaras"
         },
         "ru": {
           "name": "ПОМЕСТЬЕ КАМАРИШКЕС",
           "description": "Бывшая усадьба поместья Камаришкес сохранилась в деревне Камаришкес, в сянюнии Сувекас, примерно в 2,3 км к северо-востоку от деревни Саманяй, к югу от озера Камаришкис. Здесь находился великолепный дворец, большой парк, два сада, два пруда, хлева, сарай, два погреба, конюшни, кузница. Сегодня о величии и красоте дворца напоминают два кирпичных флигеля, хлев и сарай, гумно, конюшня, погреб.",
-          "category": "Stelmužė"
+          "category": "Dvaras"
         }
       }
     },
@@ -1164,32 +1164,32 @@
         "lt": {
           "name": "ANTAZAVĖS DVARAS IR TRADICINIŲ AMATŲ CENTRAS",
           "description": "Antazavėje, ant šiaurinio Zalvės ežero kranto stovi neoklasicistinio stiliaus dvaro rūmai, kadaise priklausę garsiajai Pliaterių giminei. Mūrinis dvaro pastatas iškilo XVIII a. pabaigoje grafienės Kunigundos Pliaterienės užsakymu pagal architekto Antano Naglovskio projektą. Būtent Antazavės dvare Emilija Pliaterytė 1931 m. pasirašė pareiškimą, kuriame pranešė apie savo sprendimą prisidėti prie sukilėlių.",
-          "category": "Antazavė"
+          "category": "Edukacinės programos"
         },
         "lv": {
           "name": "ANTAZAVES MUIŽA UN TRADICIONĀLO AMATU CENTRS",
           "description": "Antazavē, Zalves ezera ziemeļu krastā, atrodas neoklasicisma stila muižas pils, kas kādreiz piederēja slavenajai Pļāteru ģimenei. Mūra muižas ēka celta 18. gs. beigās pēc grāfienes Kunigundas Pļāteres pasūtījuma saskaņā ar arhitekta Antana Naglovska projektu. Tieši Antazaves muižā Emīlija Pļātere 1931. gadā parakstīja paziņojumu, kurā informēja par savu lēmumu pievienoties nemierniekiem.",
-          "category": "Antazavė"
+          "category": "Edukacinės programos"
         },
         "en": {
           "name": "Antazavė Manor and Traditional Crafts Center",
           "description": "In Antazavė, on the northern shore of Lake Zalvė, stands a neo-classical manor palace, which once belonged to the famous Plater family. The brick manor building was erected at the end of the 18th century commissioned by Countess Kunigunda Platerienė according to the project of architect Antanas Naglovskis. It was in the Antazavė manor that Emilija Pliaterytė signed a statement in 1931 announcing her decision to join the rebels.",
-          "category": "Antazavė"
+          "category": "Edukacinės programos"
         },
         "de": {
           "name": "GUT ANTAZAVĖ UND ZENTRUM FÜR TRADITIONELLE HANDWERKE",
           "description": "In Antazavė, am Nordufer des Zalvė-Sees, steht ein Herrenhaus im neoklassizistischen Stil, das einst der berühmten Familie Plater gehörte. Das gemauerte Gutsgebäude wurde Ende des 18. Jahrhunderts im Auftrag der Gräfin Kunigunda Platerienė nach dem Entwurf des Architekten Antanas Naglovskis erbaut. Genau im Gut Antazavė unterzeichnete Emilija Pliaterytė 1931 eine Erklärung, in der sie ihre Entscheidung bekannt gab, sich den Aufständischen anzuschließen.",
-          "category": "Antazavė"
+          "category": "Edukacinės programos"
         },
         "pl": {
           "name": "DWÓR ANTAZAVĖ I CENTRUM TRADYCYJNEGO RZEMIOSŁA",
           "description": "W Antazavė, na północnym brzegu jeziora Zalvė, wznosi się pałac dworski w stylu neoklasycystycznym, należący niegdyś do słynnego rodu Platerów. Murowany budynek dworski został zbudowany pod koniec XVIII wieku na zamówienie hrabiny Kunegundy Plater według projektu architekta Antanasa Naglovskisa. To właśnie w dworze w Antazavė Emilija Pliaterytė (Emilia Plater) w 1831 r. podpisała oświadczenie, w którym ogłosiła decyzję o przyłączeniu się do powstańców.",
-          "category": "Antazavė"
+          "category": "Edukacinės programos"
         },
         "ru": {
           "name": "ПОМЕСТЬЕ АНТАЗАВЕ И ЦЕНТР ТРАДИЦИОННЫХ РЕМЕСЕЛ",
           "description": "В Антазаве, на северном берегу озера Залве, стоит усадьба в неоклассическом стиле, когда-то принадлежавшая знаменитому роду Плятеров. Каменное здание поместья было построено в конце XVIII века по заказу графини Кунегунды Плятер по проекту архитектора Антанаса Нагловскиса. Именно в поместье Антазаве Эмилия Плятер в 1831 году подписала заявление, в котором сообщила о своем решении присоединиться к повстанцам.",
-          "category": "Antazavė"
+          "category": "Edukacinės programos"
         }
       }
     },
